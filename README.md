@@ -1,33 +1,94 @@
-# Androides Biónicos — Academia interactiva
+# Androides Biónicos · Academia personal
 
-La primera versión del sitio ya está preparada dentro del repositorio. Debido a que los commits realizados por la integración de GitHub no inician automáticamente nuevos flujos de Actions, hace falta ejecutar una única instalación manual.
+Sitio estático e interactivo para estudiar el temario del webinar de Androides Biónicos, relacionar cada tema con las consignas del examen y elaborar respuestas propias desde la comprensión.
 
-## Instalar el sitio definitivo
+## Qué incluye
 
-1. Abrí la pestaña **Actions** del repositorio.
-2. Elegí **Install Androides Biónicos academy**.
-3. Presioná **Run workflow** y confirmá la rama `main`.
-4. Esperá a que el flujo termine correctamente. Este proceso valida el paquete, crea todos los archivos finales y elimina los archivos temporales de instalación.
+- Dashboard con avance general y rutas de estudio.
+- Nueve módulos organizados desde la selección del androide hasta su manufactura.
+- Explicaciones, comparaciones, diagramas y ejemplos aplicados.
+- Relación explícita entre cada módulo y las cuatro preguntas del examen.
+- Taller para elegir cinco etapas en la pregunta 2.
+- Borradores con guardado automático por consigna.
+- Autoevaluaciones en cada módulo.
+- Glosario con búsqueda y filtros por pregunta.
+- Tarjetas de estudio con clasificación «dominado / repasar».
+- Búsqueda global mediante `Ctrl/Cmd + K`.
+- Tema claro y oscuro.
+- Diseño responsive para escritorio, tablet y móvil.
 
-## Publicarlo con GitHub Pages
+## Alcance del contenido
 
-1. Entrá en **Settings → Pages**.
-2. En **Build and deployment**, seleccioná **GitHub Actions** como fuente.
-3. Volvé a **Actions** y ejecutá **Deploy Androides Biónicos to GitHub Pages**.
+El contenido fue reconstruido a partir de:
 
-La dirección prevista del sitio es:
+1. El temario escrito del webinar.
+2. Los apuntes tomados durante la síntesis final.
+3. Las pistas incluidas en las consignas del examen.
+4. Explicaciones técnicas generales de robótica, control, biosensores y manufactura aditiva.
 
-`https://facuu-bazzano.github.io/androides-bionicos/`
+No es una transcripción oficial del webinar ni un banco oficial de respuestas de P4H Bionics. La interfaz diferencia contenido directo, hipótesis probables y ampliaciones didácticas.
 
-## Contenido incluido
+## Arquitectura
 
-- Dashboard de progreso y rutas de estudio.
-- Nueve módulos del proceso de desarrollo de androides.
-- Relación explícita entre cada tema y las cuatro preguntas del examen.
-- Búsqueda global y filtros por consigna.
-- Lecciones, ejemplos, diagramas, cuestionarios y notas personales.
-- Glosario, tarjetas de memoria y preparación guiada del examen.
-- Persistencia local del progreso, favoritos, respuestas y borradores.
-- Diseño responsive, modo claro y oscuro.
+No utiliza frameworks ni dependencias de producción.
 
-> El contenido reconstruye y amplía el webinar a partir del temario y los apuntes disponibles. No se presenta como una transcripción oficial de P4H Bionics.
+```text
+.
+├── index.html       # Estructura base y shell de navegación
+├── styles.css       # Sistema visual, responsive y temas
+├── content.js       # Contenido curricular estructurado
+├── app.js           # Router, filtros, progreso y actividades
+├── favicon.svg
+└── .nojekyll        # Publicación estática sin procesamiento de Jekyll
+```
+
+La navegación usa rutas con hash (`#/modulo/biosensores`), por lo que funciona correctamente como sitio estático dentro de un subdirectorio de GitHub Pages.
+
+## Ejecutar localmente
+
+Podés abrir `index.html` directamente o iniciar un servidor estático:
+
+```bash
+python -m http.server 8000
+```
+
+Después abrí `http://localhost:8000`.
+
+## Publicación en GitHub Pages
+
+GitHub Pages ya está configurado para publicar la raíz de la rama `main`. Cada cambio enviado a esa rama activa automáticamente el despliegue nativo **Pages Build and Deployment**; no hay pasos de instalación ni workflows manuales.
+
+La dirección esperada es:
+
+```text
+https://facuu-bazzano.github.io/androides-bionicos/
+```
+
+## Persistencia y privacidad
+
+El progreso se almacena exclusivamente en `localStorage` del navegador:
+
+- módulos completados;
+- respuestas de autoevaluación;
+- notas personales;
+- borradores del examen;
+- selección de cinco etapas;
+- estado de las tarjetas;
+- módulos guardados.
+
+No existe backend ni envío de información a un servidor. Borrar los datos del navegador o usar otro dispositivo inicia un progreso independiente.
+
+## Edición del contenido
+
+El contenido vive en `content.js` dentro del objeto global `window.AB_CONTENT`. Cada módulo contiene:
+
+- metadatos;
+- objetivos de aprendizaje;
+- secciones;
+- conceptos clave;
+- proceso aplicado;
+- ejemplo;
+- autoevaluación;
+- ideas para retener.
+
+Esto permite ampliar el curso sin modificar el motor principal de la interfaz.

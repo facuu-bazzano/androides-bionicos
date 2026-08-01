@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0b0f17" />
+    <meta
+      name="description"
+      content="Academia personal e interactiva para estudiar Androides Biónicos, organizar conceptos y preparar el examen del webinar."
+    />
+    <title>Androides Biónicos · Academia personal</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      (() => {
+        const saved = localStorage.getItem('ab-theme');
+        const theme = saved || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.dataset.theme = theme;
+      })();
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Saltar al contenido</a>
+
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="icon-button mobile-only" id="menu-button" type="button" aria-label="Abrir navegación" aria-expanded="false">
+          <span aria-hidden="true">☰</span>
+        </button>
+
+        <a class="brand" href="#/inicio" aria-label="Ir al inicio">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 40 40" role="img">
+              <path d="M10 9h8v8h-8zM22 9h8v8h-8zM14 23h12v8H14z" />
+              <path d="M8 20h24M20 5v30" fill="none" />
+            </svg>
+          </span>
+          <span class="brand-copy">
+            <strong>Androides Biónicos</strong>
+            <small>Academia personal</small>
+          </span>
+        </a>
+
+        <div class="topbar-actions">
+          <button class="search-trigger" id="search-button" type="button" aria-keyshortcuts="Control+K Meta+K">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <span class="search-label">Buscar conceptos</span>
+            <kbd>Ctrl K</kbd>
+          </button>
+          <div class="top-progress" id="top-progress" aria-label="Progreso del curso"></div>
+          <button class="icon-button" id="theme-button" type="button" aria-label="Cambiar tema">
+            <span id="theme-icon" aria-hidden="true">◐</span>
+          </button>
+        </div>
+      </header>
+
+      <aside class="sidebar" id="sidebar" aria-label="Navegación principal">
+        <div class="sidebar-scroll">
+          <nav id="primary-navigation"></nav>
+          <div class="sidebar-footer" id="sidebar-footer"></div>
+        </div>
+      </aside>
+      <button class="sidebar-backdrop" id="sidebar-backdrop" type="button" aria-label="Cerrar navegación"></button>
+
+      <main id="main-content" tabindex="-1">
+        <div id="app" aria-live="polite"></div>
+      </main>
+
+      <nav class="mobile-nav" id="mobile-navigation" aria-label="Navegación móvil"></nav>
+    </div>
+
+    <dialog class="search-dialog" id="search-dialog" aria-labelledby="search-title">
+      <div class="search-dialog-header">
+        <div>
+          <p class="eyebrow">Búsqueda global</p>
+          <h2 id="search-title">Encontrá cualquier concepto</h2>
+        </div>
+        <button class="icon-button" id="search-close" type="button" aria-label="Cerrar búsqueda">×</button>
+      </div>
+      <label class="search-field">
+        <span class="visually-hidden">Buscar</span>
+        <span aria-hidden="true">⌕</span>
+        <input id="global-search-input" type="search" autocomplete="off" placeholder="Ej.: EMG, cuatro barras, FDM…" />
+      </label>
+      <div class="search-hint"><span>Escribí al menos 2 letras</span><kbd>Esc</kbd></div>
+      <div class="search-results" id="global-search-results"></div>
+    </dialog>
+
+    <div class="toast-region" id="toast-region" aria-live="polite" aria-atomic="true"></div>
+
+    <noscript>
+      <div class="noscript">
+        Este sitio necesita JavaScript para mostrar las lecciones, filtros y seguimiento de progreso.
+      </div>
+    </noscript>
+
+    <script src="content.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
