@@ -1,0 +1,42 @@
+name: Install Androides Biónicos academy
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/bootstrap.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate and unpack academy
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .bootstrap/part-* > /tmp/androides-site.tar.xz.b64
+          echo "bc2022750e3e9c145ad7cee615c5cf84fd3be0e3f8845060b3a524d50ed5d252  /tmp/androides-site.tar.xz.b64" | sha256sum --check --strict
+          base64 --decode /tmp/androides-site.tar.xz.b64 > /tmp/androides-site.tar.xz
+          echo "538d0305ea14267a043d0d22cec52dd4448c747b819dbc0c3a75fcb482f886d6  /tmp/androides-site.tar.xz" | sha256sum --check --strict
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          tar -xJf /tmp/androides-site.tar.xz -C .
+          node --check app.js
+          node --check content.js
+
+      - name: Commit final site
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -m "feat: add interactive Androides Biónicos academy"
+          git push origin HEAD:main
