@@ -318,4 +318,1133 @@
 
         <section class="section-block" id="modules-section">
           <div class="section-heading split-heading">
-           ×½ÒÚ$z{-®éÜj×GF–6S¢ ¢ÆF—b6Æ73Ò&ÆV&æ–ær×f—7VÂÆGF–6R×f—7VÂ"&öÆSÒ&–Ör"&–ÖÆ&VÃÒ$6ö×&6œ;6âVçG&RVæ–W¦Ö6—¦’VæW7G'V7GW&ÆGF–6R#à¢ÆF—cãÇ7â6Æ73Ò'6öÆ–B×6†R#ãÂ÷7ããÇ7G&öæsäÖ6—¦Â÷7G&öæsãÇ6ÖÆÃäÜ:2ÖFW&–ÃÂ÷6ÖÆÃãÂöF—cà¢Ç7â6Æ73Ò'fW'7W2#î(i#Â÷7ãà¢ÆF—cãÇ7â6Æ73Ò&ÆGF–6R×6†R#âG´'&’æg&öÒ‡²ÆVæwFƒ¢#ÒÂ‚’ÓâsÆ“ãÂö“âr’æ¦ö–â‚rr—ÓÂ÷7ããÇ7G&öæsäÆGF–6SÂ÷7G&öæsãÇ6ÖÆÃäÖFW&–ÂF—7G&–'V–FóÂ÷6ÖÆÃãÂöF—cà¢ÂöF—cæÀ¢FF—F—fS¢ ¢ÆF—b6Æ73Ò&ÆV&æ–ær×f—7VÂFF—F—fR×f—7VÂ"&öÆSÒ&–Ör"&–ÖÆ&VÃÒ%&ö6W6òFR–×&W6œ;6â4B÷"62#à¢ÆF—b6Æ73Ò'&–çFW"Ö†VB#ãÇ7ããÂ÷7ããÂöF—cà¢ÆF—b6Æ73Ò&W‡G'W6–öâÖÆ–æR#ãÂöF—cà¢ÆF—b6Æ73Ò'&–çFVB×'B#âG´'&’æg&öÒ‡²ÆVæwFƒ¢‚ÒÂ…òÂ–æFW‚’ÓâÇ7â7G–ÆSÒ"ÒÖ“¢G¶–æFW‡Ò#ãÂ÷7ãæ’æ¦ö–â‚rr—ÓÂöF—cà¢ÆF—b6Æ73Ò'&–çBÖ&VB#ãÂöF—cà¢ÆF—b6Æ73Ò&FF—F—fRÖÆ&VÇ2#ãÇ7ãä&÷V–ÆÆÂ÷7ããÇ7ãäÖFW&–ÂgVæF–FóÂ÷7ããÇ7ãä63Â÷7ããÂöF—cà¢ÂöF—cæ ¢Ó°¢&WGW&âf—7VÇ5·G—UÒÇÂrs°¢Ğ ¢gVæ7F–öâv÷&D6÷VçB‡FW‡B’°¢6öç7BG&–ÖÖVBÒ7G&–ær‡FW‡BÇÂrr’çG&–Ò‚“°¢&WGW&âG&–ÖÖVBòG&–ÖÖVBç7Æ—B‚õÇ2²ò’æÆVæwF‚¢°¢Ğ ¢gVæ7F–öâFövvÆT&öö¶Ö&²†ÖöGVÆT–B’°¢6öç7B&öö¶Ö&¶VBÒ7FFRæ&öö¶Ö&·2æ–æ6ÇVFW2†ÖöGVÆT–B“°¢7FFRæ&öö¶Ö&·2Ò&öö¶Ö&¶VBò7FFRæ&öö¶Ö&·2æf–ÇFW"‚†–B’Óâ–BÓÒÖöGVÆT–B’¢²ââç7FFRæ&öö¶Ö&·2ÂÖöGVÆT–EÓ°¢W'6—7E7FFR‚“°¢6†÷uFö7B†&öö¶Ö&¶VBòuV—FFòFRwV&FF÷2r¢tÜ;6GVÆòwV&FFòr“°¢&W&VæFW%&W6W'fU67&öÆÂ‚“°¢Ğ ¢gVæ7F–öâFövvÆT6ö×ÆWFR†ÖöGVÆT–B’°¢6öç7B6ö×ÆWFRÒ7FFRæ6ö×ÆWFVBæ–æ6ÇVFW2†ÖöGVÆT–B“°¢7FFRæ6ö×ÆWFVBÒ6ö×ÆWFRò7FFRæ6ö×ÆWFVBæf–ÇFW"‚†–B’Óâ–BÓÒÖöGVÆT–B’¢²ââç7FFRæ6ö×ÆWFVBÂÖöGVÆT–EÓ°¢W'6—7E7FFR‚“°¢6†÷uFö7B†6ö×ÆWFRòtÜ;6GVÆòÖ&6Fò6öÖòVæF–VçFRr¢tÜ;6GVÆò6ö×ÆWFFòr“°¢&W&VæFW%&W6W'fU67&öÆÂ‚“°¢Ğ ¢gVæ7F–öâ&W&VæFW%&W6W'fU67&öÆÂ‚’°¢6öç7B’Òv–æF÷rç67&öÆÅ“°¢6öç7B&÷WFRÒ&÷WFT–æfò‚“°¢–b‡&÷WFRçvRÓÓÒvÖöGVÆòr’&VæFW$ÖöGVÆR‡&÷WFRæ–B“°¢VÇ6R–b‡&÷WFRçvRÓÓÒvW†ÖVâr’&VæFW$W†Ò‚“°¢VÇ6R–b‡&÷WFRçvRÓÓÒv–æ–6–òr’&VæFW$†öÖR‚“°¢v–æF÷rç67&öÆÅFòƒÂ’“°¢Ğ ¢gVæ7F–öâ÷Vå6–FV&"‚’°¢Fö7VÖVçBæ&öG’æ6Æ74Æ—7BæFB‚w6–FV&"Ö÷Vâr“°¢ÖVçT'WGFöâç6WDGG&–'WFR‚v&–ÖW‡æFVBrÂwG'VRr“°¢Ğ ¢gVæ7F–öâ6Æ÷6U6–FV&"‚’°¢Fö7VÖVçBæ&öG’æ6Æ74Æ—7Bç&VÖ÷fR‚w6–FV&"Ö÷Vâr“°¢ÖVçT'WGFöâç6WDGG&–'WFR‚v&–ÖW‡æFVBrÂvfÇ6Rr“°¢Ğ ¢gVæ7F–öâ÷Vå6V&6‚‚’°¢–b‚6V&6„F–Æöræ÷Vâ’6V&6„F–Æörç6†÷tÖöFÂ‚“°¢vÆö&Å6V&6„–çWBçfÇVRÒrs°¢&VæFW%6V&6…&W7VÇG2‚rr“°¢&WVW7Dæ–ÖF–öäg&ÖR‚‚’ÓâvÆö&Å6V&6„–çWBæfö7W2‚’“°¢Ğ ¢gVæ7F–öâ6Æ÷6U6V&6‚‚’°¢–b‡6V&6„F–Æöræ÷Vâ’6V&6„F–Æöræ6Æ÷6R‚“°¢Ğ ¢gVæ7F–öâ6V&6„—FV×2‡VW'’’°¢6öç7BFW&ÒÒæ÷&ÖÆ—¦R‡VW'’“°¢–b‡FW&ÒæÆVæwF‚Â"’&WGW&âµÓ°¢6öç7B&W7VÇG2ÒµÓ° ¢6öçFVçBæÖöGVÆW2æf÷$V6‚‚†ÖöGVÆR’Óâ°¢6öç7B6V7F–öåFW‡BÒÖöGVÆRç6V7F–öç2æfÆDÖ‚‡6V7F–öâ’Óâ·6V7F–öâçF—FÆRÂâââ‡6V7F–öâç&w&‡2ÇÂµÒ’Ââââ‡6V7F–öâæ'VÆÆWG2ÇÂµÒ•Ò’æ¦ö–â‚rr“°¢6öç7B6öæ6WEFW‡BÒÖöGVÆRæ6öæ6WG2æfÆDÖ‚†6öæ6WB’Óâ¶6öæ6WBçFW&ÒÂ6öæ6WBæFVf–æ—F–öâÂ6öæ6WBæW†×ÆUÒ’æ¦ö–â‚rr“°¢6öç7B6÷'W2Òæ÷&ÖÆ—¦R†G¶ÖöGVÆRçF—FÆWÒG¶ÖöGVÆRç7VÖÖ'—ÒG¶ÖöGVÆRæ¶–6¶W'ÒG·6V7F–öåFW‡GÒG¶6öæ6WEFW‡GÖ“°¢–b†6÷'W2æ–æ6ÇVFW2‡FW&Ò’’°¢6öç7B66÷&RÒæ÷&ÖÆ—¦R†ÖöGVÆRçF—FÆR’æ–æ6ÇVFW2‡FW&Ò’òB¢æ÷&ÖÆ—¦R†6öæ6WEFW‡B’æ–æ6ÇVFW2‡FW&Ò’ò2¢°¢&W7VÇG2çW6‚‡²G—S¢tÜ;6GVÆòrÂF—FÆS¢ÖöGVÆRçF—FÆRÂ6æ—WC¢ÖöGVÆRç7VÖÖ'’Â‡&Vc¢2öÖöGVÆòòG¶ÖöGVÆRæ–GÖÂ–6öã¢ÖöGVÆRæ–6öâÂ66÷&RÒ“°¢Ğ¢Ò“° ¢6öçFVçBævÆ÷76'’æf÷$V6‚‚†—FVÒ’Óâ°¢6öç7B6÷'W2Òæ÷&ÖÆ—¦R†G¶—FVÒçFW&×ÒG¶—FVÒæFVf–æ—F–öçÖ“°¢–b†6÷'W2æ–æ6ÇVFW2‡FW&Ò’’°¢6öç7B66÷&RÒæ÷&ÖÆ—¦R†—FVÒçFW&Ò’ç7F'G5v—F‚‡FW&Ò’òR¢æ÷&ÖÆ—¦R†—FVÒçFW&Ò’æ–æ6ÇVFW2‡FW&Ò’òB¢#°¢&W7VÇG2çW6‚‡²G—S¢t6öæ6WFòrÂF—FÆS¢—FVÒçFW&ÒÂ6æ—WC¢—FVÒæFVf–æ—F–öâÂ‡&Vc¢2öÖöGVÆòòG¶—FVÒæÖöGVÆWÖÂ–6öã¢vvÆ÷76'’rÂ66÷&RÒ“°¢Ğ¢Ò“° ¢6öçFVçBæW†ÕVW7F–öç2æf÷$V6‚‚‡VW7F–öâ’Óâ°¢6öç7B6÷'W2Òæ÷&ÖÆ—¦R†G·VW7F–öâçF—FÆWÒG·VW7F–öâç&ö×GÒG·VW7F–öâæ¶W—ÒG·VW7F–öâç&V6öÖÖVæFVEF÷–72æ¦ö–â‚rr—Ö“°¢–b†6÷'W2æ–æ6ÇVFW2‡FW&Ò’’°¢&W7VÇG2çW6‚‡²G—S¢&VwVçFG·VW7F–öâæçVÖ&W'ÖÂF—FÆS¢VW7F–öâçF—FÆRÂ6æ—WC¢VW7F–öâæ¶W’Â‡&Vc¢r2öW†ÖVârÂ–6öã¢vW†ÒrÂ66÷&S¢"Ò“°¢Ğ¢Ò“° ¢6öç7B6VVâÒæWr6WB‚“°¢&WGW&â&W7VÇG0¢ç6÷'B‚†Â"’Óâ"ç66÷&RÒç66÷&RÇÂçF—FÆRæÆö6ÆT6ö×&R†"çF—FÆRÂvW2r’¢æf–ÇFW"‚†—FVÒ’Óâ°¢6öç7B¶W’ÒG¶—FVÒçG—WÒÒG¶—FVÒçF—FÆWÖ°¢–b‡6VVâæ†2†¶W’’’&WGW&âfÇ6S°¢6VVâæFB†¶W’“°¢&WGW&âG'VS°¢Ò¢ç6Æ–6RƒÂB“°¢Ğ ¢gVæ7F–öâ&VæFW%6V&6…&W7VÇG2‡VW'’’°¢6öç7B&W7VÇG2Ò6V&6„—FV×2‡VW'’“°¢–b†æ÷&ÖÆ—¦R‡VW'’’æÆVæwF‚Â"’°¢vÆö&Å6V&6…&W7VÇG2æ–ææW$…DÔÂÒ ¢ÆF—b6Æ73Ò'6V&6‚×7VvvW7F–öç2#à¢Çå&ö,:6öãÂ÷à¢ÆF—câGµ²tTÔrrÂtFVæf—BÔ†'FVæ&W&rrÂv7VG&ò&'&2rÂtdDÒrÂv6–6ÆòFRÖ&6†uÒæÖ‚‡FW&Ò’ÓâÆ'WGFöâG—SÒ&'WGFöâ"FF×6V&6‚×7VvvW7F–öãÒ"G·FW&×Ò#âG·FW&×ÓÂö'WGFöãæ’æ¦ö–â‚rr—ÓÂöF—cà¢ÂöF—cæ°¢&WGW&ã°¢Ğ¢vÆö&Å6V&6…&W7VÇG2æ–ææW$…DÔÂÒ&W7VÇG2æÆVæwF€¢ò&W7VÇG2æÖ‚‡&W7VÇB’Óâ ¢Æ‡&VcÒ"G·&W7VÇBæ‡&VgÒ"6Æ73Ò'6V&6‚×&W7VÇBÖ—FVÒ"FFÖ6Æ÷6R×6V&6ƒà¢Ç7â6Æ73Ò'6V&6‚×&W7VÇBÖ–6öâ#âG¶–6öâ‡&W7VÇBæ–6öâÂ#—ÓÂ÷7ãà¢Ç7ããÇ6ÖÆÃâG¶W66T…DÔÂ‡&W7VÇBçG—R—ÓÂ÷6ÖÆÃãÇ7G&öæsâG¶W66T…DÔÂ‡&W7VÇBçF—FÆR—ÓÂ÷7G&öæsãÇâG¶W66T…DÔÂ‡&W7VÇBç6æ—WB—ÓÂ÷ãÂ÷7ãà¢G¶–6öâ‚v'&÷rrÂr—Ğ¢Âöæ’æ¦ö–â‚rr¢¢ÆF—b6Æ73Ò&V×G’×7FFR#âG¶–6öâ‚w6V&6‚rÂ#r—ÓÆƒ3å6–â&W7VÇFF÷3Âöƒ3ãÇå&ö,:6öâVâL:—&Ö–æòÜ:2vVæW&ÂãÂ÷ãÂöF—cæ°¢Ğ ¢gVæ7F–öâFövvÆUF†VÖR‚’°¢6öç7B7W'&VçBÒFö7VÖVçBæFö7VÖVçDVÆVÖVçBæFF6WBçF†VÖS°¢6öç7BæW‡BÒ7W'&VçBÓÓÒvF&²ròvÆ–v‡Br¢vF&²s°¢Fö7VÖVçBæFö7VÖVçDVÆVÖVçBæFF6WBçF†VÖRÒæW‡C°¢Æö6Å7F÷&vRç6WD—FVÒ…D„TÔUô´U’ÂæW‡B“°¢Fö7VÖVçBævWDVÆVÖVçD'”–B‚wF†VÖRÖ–6öâr’çFW‡D6öçFVçBÒæW‡BÓÓÒvF&²rò~)ˆr¢~)ys°¢Ğ ¢gVæ7F–öâ6†÷uFö7B†ÖW76vR’°¢6öç7B&Vv–öâÒFö7VÖVçBævWDVÆVÖVçD'”–B‚wFö7B×&Vv–öâr“°¢6öç7BFö7BÒFö7VÖVçBæ7&VFTVÆVÖVçB‚vF—br“°¢Fö7Bæ6Æ74æÖRÒwFö7Bs°¢Fö7Bæ–ææW$…DÔÂÒG¶–6öâ‚v6†V6²rÂr—ÓÇ7ãâG¶W66T…DÔÂ†ÖW76vR—ÓÂ÷7ãæ°¢&Vv–öâæVæD6†–ÆB‡Fö7B“°¢&WVW7Dæ–ÖF–öäg&ÖR‚‚’ÓâFö7Bæ6Æ74Æ—7BæFB‚v—2×f—6–&ÆRr’“°¢6WEF–ÖV÷WB‚‚’Óâ°¢Fö7Bæ6Æ74Æ—7Bç&VÖ÷fR‚v—2×f—6–&ÆRr“°¢6WEF–ÖV÷WB‚‚’ÓâFö7Bç&VÖ÷fR‚’Â##“°¢ÒÂ##“°¢Ğ ¢gVæ7F–öâ&W6WE&öw&W72‚’°¢6öç7B6öæf—&ÖVBÒv–æF÷ræ6öæf—&Ò‚|+õVW,:—2&÷'&"&öw&W6òÂæ÷F2Â&÷'&F÷&W2’F&¦WF2FRW7FRF—7÷6—F—fóòW7F66œ;6âæò6RVVFRFW6†6W"âr“°¢–b‚6öæf—&ÖVB’&WGW&ã°¢7FFRÒ²ââæFVfVÇE7FFRÓ°¢Æö6Å7F÷&vRç&VÖ÷fT—FVÒ…5Dõ$tUô´U’“°¢V’æfÆ6„–æFW‚Ò°¢V’æfÆ6„fÆ—VBÒfÇ6S°¢&VæFW%6†VÆÅ&öw&W72‚“°¢&VæFW$&÷WB‚“°¢6†÷uFö7B‚u&öw&W6ò&V–æ–6–Fòr“°¢Ğ ¢Fö7VÖVçBæFDWfVçDÆ—7FVæW"‚v6Æ–6²rÂ†WfVçB’Óâ°¢6öç7BF&vWBÒWfVçBçF&vWBæ6Æ÷6W7B‚v'WGFöâÂr“°¢–b‚F&vWB’&WGW&ã° ¢–b‡F&vWBæ–BÓÓÒvÖVçRÖ'WGFöârÇÂF&vWBæÖF6†W2‚u¶FFÖÖö&–ÆRÖÖVçUÒr’’°¢WfVçBç&WfVçDFVfVÇB‚“°¢÷Vå6–FV&"‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæ–BÓÓÒw6–FV&"Ö&6¶G&÷r’°¢6Æ÷6U6–FV&"‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæ–BÓÓÒw6V&6‚Ö'WGFöâr’°¢÷Vå6V&6‚‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæ–BÓÓÒw6V&6‚Ö6Æ÷6Rr’°¢6Æ÷6U6V&6‚‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæ–BÓÓÒwF†VÖRÖ'WGFöâr’°¢FövvÆUF†VÖR‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖ6Æ÷6R×6V&6…Òr’’°¢6Æ÷6U6V&6‚‚“°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FF×6V&6‚×7VvvW7F–öåÒr’’°¢6öç7BFW&ÒÒF&vWBæFF6WBç6V&6…7VvvW7F–öã°¢vÆö&Å6V&6„–çWBçfÇVRÒFW&Ó°¢&VæFW%6V&6…&W7VÇG2‡FW&Ò“°¢vÆö&Å6V&6„–çWBæfö7W2‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖ†öÖRÖf–ÇFW%Òr’’°¢V’æ†öÖTf–ÇFW"ÒF&vWBæFF6WBæ†öÖTf–ÇFW#°¢Fö7VÖVçBçVW'•6VÆV7F÷$ÆÂ‚u¶FFÖ†öÖRÖf–ÇFW%Òr’æf÷$V6‚‚†'WGFöâ’Óâ°¢6öç7B7F—fRÒ'WGFöâæFF6WBæ†öÖTf–ÇFW"ÓÓÒV’æ†öÖTf–ÇFW#°¢'WGFöâæ6Æ74Æ—7BçFövvÆR‚v—2Ö7F—fRrÂ7F—fR“°¢'WGFöâç6WDGG&–'WFR‚v&–×&W76VBrÂ7F—fR“°¢Ò“°¢6öç7Bw&–BÒFö7VÖVçBævWDVÆVÖVçD'”–B‚vÖöGVÆRÖw&–Br“°¢–b†w&–B’w&–Bæ–ææW$…DÔÂÒ&VæFW$ÖöGVÆTw&–B‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖ&öö¶Ö&µÒr’’°¢WfVçBç&WfVçDFVfVÇB‚“°¢FövvÆT&öö¶Ö&²‡F&vWBæFF6WBæ&öö¶Ö&²“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖ6ö×ÆWFUÒr’’°¢FövvÆT6ö×ÆWFR‡F&vWBæFF6WBæ6ö×ÆWFR“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FF×7F'B×F…Òr’’°¢æf–vFR†2öÖöGVÆòòG·F&vWBæFF6WBç7F'EF‡Ö“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FF×67&öÆÂ×FõÒr’’°¢6öç7BVÆVÖVçBÒFö7VÖVçBævWDVÆVÖVçD'”–B‡F&vWBæFF6WBç67&öÆÅFò“°¢–b†VÆVÖVçB’VÆVÖVçBç67&öÆÄ–çFõf–Wr‡²&V†f–÷#¢w6Öö÷F‚rÂ&Æö6³¢w7F'BrÒ“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FF×V—¢Ö–EÒr’’°¢6öç7B–BÒF&vWBæFF6WBçV—¤–C°¢6öç7B÷F–öâÒçVÖ&W"‡F&vWBæFF6WBæ÷F–öâ“°¢7FFRçV—¤ç7vW'5¶–EÒÒ÷F–öã°¢W'6—7E7FFR‚“°¢&W&VæFW%&W6W'fU67&öÆÂ‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖW†Ò×6VÆV7EÒr’’°¢6öç7BÖöGVÆT–BÒF&vWBæFF6WBæW†Õ6VÆV7C°¢6öç7B6VÆV7FVBÒ7FFRæW†Õ6VÆV7F–öâæ–æ6ÇVFW2†ÖöGVÆT–B“°¢–b‡6VÆV7FVB’°¢7FFRæW†Õ6VÆV7F–öâÒ7FFRæW†Õ6VÆV7F–öâæf–ÇFW"‚†–B’Óâ–BÓÒÖöGVÆT–B“°¢ÒVÇ6R–b‡7FFRæW†Õ6VÆV7F–öâæÆVæwF‚ÂR’°¢7FFRæW†Õ6VÆV7F–öâÒ²ââç7FFRæW†Õ6VÆV7F–öâÂÖöGVÆT–EÓ°¢ÒVÇ6R°¢6†÷uFö7B‚u–VÆVv—7FR6–æ6òWF2r“°¢&WGW&ã°¢Ğ¢W'6—7E7FFR‚“°¢&W&VæFW%&W6W'fU67&öÆÂ‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FF×7VvvW7BÖf—fUÒr’’°¢7FFRæW†Õ6VÆV7F–öâÒ²w6VÆV66–öârÂvÖöFVÆ÷2ÖÖFVÖF–6÷2rÂvF—6Væò×&ö&÷F–6òrÂvÖ÷F÷&—¦6–öârÂw6–×VÆ6–öâuÓ°¢W'6—7E7FFR‚“°¢&W&VæFW%&W6W'fU67&öÆÂ‚“°¢6†÷uFö7B‚u6VÆV66œ;6â&V6öÖVæFFÆ–6Fr“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖvÆ÷76'’Öf–ÇFW%Òr’’°¢V’ævÆ÷76'”f–ÇFW"ÒF&vWBæFF6WBævÆ÷76'”f–ÇFW#°¢Fö7VÖVçBçVW'•6VÆV7F÷$ÆÂ‚u¶FFÖvÆ÷76'’Öf–ÇFW%Òr’æf÷$V6‚‚†'WGFöâ’Óâ°¢6öç7B7F—fRÒ'WGFöâæFF6WBævÆ÷76'”f–ÇFW"ÓÓÒV’ævÆ÷76'”f–ÇFW#°¢'WGFöâæ6Æ74Æ—7BçFövvÆR‚v—2Ö7F—fRrÂ7F—fR“°¢'WGFöâç6WDGG&–'WFR‚v&–×&W76VBrÂ7F—fR“°¢Ò“°¢WFFTvÆ÷76'•&W7VÇG2‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖfÆ6‚Öf–ÇFW%Òr’’°¢V’æfÆ6„f–ÇFW"ÒF&vWBæFF6WBæfÆ6„f–ÇFW#°¢V’æfÆ6„–æFW‚Ò°¢V’æfÆ6„fÆ—VBÒfÇ6S°¢Fö7VÖVçBçVW'•6VÆV7F÷$ÆÂ‚u¶FFÖfÆ6‚Öf–ÇFW%Òr’æf÷$V6‚‚†'WGFöâ’Óâ°¢6öç7B7F—fRÒ'WGFöâæFF6WBæfÆ6„f–ÇFW"ÓÓÒV’æfÆ6„f–ÇFW#°¢'WGFöâæ6Æ74Æ—7BçFövvÆR‚v—2Ö7F—fRrÂ7F—fR“°¢'WGFöâç6WDGG&–'WFR‚v&–×&W76VBrÂ7F—fR“°¢Ò“°¢&VæFW$fÆ6†6&EæVÂ‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖfÆ—Ö6&EÒr’’°¢V’æfÆ6„fÆ—VBÒV’æfÆ6„fÆ—VC°¢&VæFW$fÆ6†6&EæVÂ‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖ6&BÖæW‡EÒr’’°¢6öç7B6&G2Òf–ÇFW&VDfÆ6†6&G2‚“°¢V’æfÆ6„–æFW‚Ò‡V’æfÆ6„–æFW‚²’R6&G2æÆVæwFƒ°¢V’æfÆ6„fÆ—VBÒfÇ6S°¢&VæFW$fÆ6†6&EæVÂ‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖ6&B×&WeÒr’’°¢6öç7B6&G2Òf–ÇFW&VDfÆ6†6&G2‚“°¢V’æfÆ6„–æFW‚Ò‡V’æfÆ6„–æFW‚Ò²6&G2æÆVæwF‚’R6&G2æÆVæwFƒ°¢V’æfÆ6„fÆ—VBÒfÇ6S°¢&VæFW$fÆ6†6&EæVÂ‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖ6&B×&F–æuÒr’’°¢7FFRæfÆ6†6&G5·F&vWBæFF6WBçFW&ÕÒÒF&vWBæFF6WBæ6&E&F–æs°¢W'6—7E7FFR‚“°¢6öç7B6&G2Òf–ÇFW&VDfÆ6†6&G2‚“°¢–b†6&G2æÆVæwF‚’V’æfÆ6„–æFW‚Ò‡V’æfÆ6„–æFW‚²’R6&G2æÆVæwFƒ°¢V’æfÆ6„fÆ—VBÒfÇ6S°¢&VæFW$fÆ6†6&EæVÂ‚“°¢6†÷uFö7B‡F&vWBæFF6WBæ6&E&F–ærÓÓÒv¶æ÷vâròt6öæ6WFòÖ&6Fò6öÖòFöÖ–æFòr¢tw&VvFò&W6òr“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FF×&W6WB×&öw&W75Òr’’°¢&W6WE&öw&W72‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚v¶‡&VeãÒ"2ò%Òr’’°¢6Æ÷6U6–FV&"‚“°¢Ğ¢Ò“° ¢Fö7VÖVçBæFDWfVçDÆ—7FVæW"‚v–çWBrÂ†WfVçB’Óâ°¢6öç7BF&vWBÒWfVçBçF&vWC°¢–b‡F&vWBæ–BÓÓÒvvÆö&Â×6V&6‚Ö–çWBr’°¢&VæFW%6V&6…&W7VÇG2‡F&vWBçfÇVR“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæ–BÓÓÒvvÆ÷76'’×6V&6‚Ö–çWBr’°¢V’ævÆ÷76'•VW'’ÒF&vWBçfÇVS°¢WFFTvÆ÷76'•&W7VÇG2‚“°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖæ÷FRÖÖöGVÆUÒr’’°¢6öç7BÖöGVÆT–BÒF&vWBæFF6WBææ÷FTÖöGVÆS°¢7FFRææ÷FW5¶ÖöGVÆT–EÒÒF&vWBçfÇVS°¢Æö6Å7F÷&vRç6WD—FVÒ…5Dõ$tUô´U’Â¥4ôâç7G&–æv–g’‡7FFR’“°¢6öç7B6÷VçBÒFö7VÖVçBçVW'•6VÆV7F÷"†¶FFÖæ÷FRÖ6÷VçCÒ"G¶ÖöGVÆT–GÒ%Ö“°¢–b†6÷VçB’6÷VçBçFW‡D6öçFVçBÒG·v÷&D6÷VçB‡F&vWBçfÇVR—ÒÆ'&6°¢&WGW&ã°¢Ğ¢–b‡F&vWBæÖF6†W2‚u¶FFÖW†ÒÖG&gEÒr’’°¢6öç7BVW7F–öä–BÒF&vWBæFF6WBæW†ÔG&gC°¢7FFRæW†ÔG&gG5·VW7F–öä–EÒÒF&vWBçfÇVS°¢Æö6Å7F÷&vRç6WD—FVÒ…5Dõ$tUô´U’Â¥4ôâç7G&–æv–g’‡7FFR’“°¢6öç7B6÷VçBÒFö7VÖVçBçVW'•6VÆV7F÷"†¶FFÖG&gBÖ6÷VçCÒ"G·VW7F–öä–GÒ%Ö“°¢–b†6÷VçB’6÷VçBçFW‡D6öçFVçBÒG·v÷&D6÷VçB‡F&vWBçfÇVR—ÒÆ'&6°¢Ğ¢Ò“° ¢Fö7VÖVçBæFDWfVçDÆ—7FVæW"‚v¶W–F÷vârÂ†WfVçB’Óâ°¢6öç7B—56†÷'F7WBÒ†WfVçBæ7G&Ä¶W’ÇÂWfVçBæÖWF¶W’’bbWfVçBæ¶W’çFôÆ÷vW$66R‚’ÓÓÒv²s°¢–b†—56†÷'F7WB’°¢WfVçBç&WfVçDFVfVÇB‚“°¢÷Vå6V&6‚‚“°¢&WGW&ã°¢Ğ¢–b†WfVçBæ¶W’ÓÓÒtW66RrbbFö7VÖVçBæ&öG’æ6Æ74Æ—7Bæ6öçF–ç2‚w6–FV&"Ö÷Vâr’’°¢6Æ÷6U6–FV&"‚“°¢Ğ¢–b‡&÷WFT–æfò‚’çvRÓÓÒwF&¦WF2rbb²t”åUBrÂuDU…D$TuÒæ–æ6ÇVFW2†Fö7VÖVçBæ7F—fTVÆVÖVçBçFtæÖR’’°¢–b†WfVçBæ¶W’ÓÓÒt'&÷u&–v‡Br’°¢WfVçBç&WfVçDFVfVÇB‚“°¢6öç7B6&G2Òf–ÇFW&VDfÆ6†6&G2‚“°¢–b†6&G2æÆVæwF‚’°¢V’æfÆ6„–æFW‚Ò‡V’æfÆ6„–æFW‚²’R6&G2æÆVæwFƒ°¢V’æfÆ6„fÆ—VBÒfÇ6S°¢&VæFW$fÆ6†6&EæVÂ‚“°¢Ğ¢Ğ¢–b†WfVçBæ¶W’ÓÓÒt'&÷tÆVgBr’°¢WfVçBç&WfVçDFVfVÇB‚“°¢6öç7B6&G2Òf–ÇFW&VDfÆ6†6&G2‚“°¢–b†6&G2æÆVæwF‚’°¢V’æfÆ6„–æFW‚Ò‡V’æfÆ6„–æFW‚Ò²6&G2æÆVæwF‚’R6&G2æÆVæwFƒ°¢V’æfÆ6„fÆ—VBÒfÇ6S°¢&VæFW$fÆ6†6&EæVÂ‚“°¢Ğ¢Ğ¢–b†WfVçBæ¶W’ÓÓÒrr’°¢WfVçBç&WfVçDFVfVÇB‚“°¢V’æfÆ6„fÆ—VBÒV’æfÆ6„fÆ—VC°¢&VæFW$fÆ6†6&EæVÂ‚“°¢Ğ¢Ğ¢Ò“° ¢6V&6„F–ÆöræFDWfVçDÆ—7FVæW"‚v6Æ–6²rÂ†WfVçB’Óâ°¢–b†WfVçBçF&vWBÓÓÒ6V&6„F–Æör’6Æ÷6U6V&6‚‚“°¢Ò“° ¢v–æF÷ræFDWfVçDÆ—7FVæW"‚v†6†6†ævRrÂ&VæFW%&÷WFR“° ¢gVæ7F–öâ–æ—B‚’°¢Fö7VÖVçBævWDVÆVÖVçD'”–B‚wF†VÖRÖ–6öâr’çFW‡D6öçFVçBÒFö7VÖVçBæFö7VÖVçDVÆVÖVçBæFF6WBçF†VÖRÓÓÒvF&²rò~)ˆr¢~)ys°¢&VæFW%6†VÆÅ&öw&W72‚“°¢–b‚Æö6F–öâæ†6‚’Æö6F–öâæ†6‚Òr2ö–æ–6–òs°¢VÇ6R&VæFW%&÷WFR‚“°¢Ğ ¢–æ—B‚“°§Ò’‚“° 
+            <div>
+              <p class="eyebrow">Explorar por tema</p>
+              <h2>Los nueve mÃ³dulos</h2>
+              <p>FiltrÃ¡ segÃºn la pregunta del examen o el estado de estudio.</p>
+            </div>
+            <div class="filter-bar" role="group" aria-label="Filtrar mÃ³dulos">
+              ${renderHomeFilter('all', 'Todos')}
+              ${renderHomeFilter('q2', 'Pregunta 2')}
+              ${renderHomeFilter('q3', 'Pregunta 3')}
+              ${renderHomeFilter('q4', 'Pregunta 4')}
+              ${renderHomeFilter('bookmarked', 'Guardados')}
+            </div>
+          </div>
+          <div class="module-grid" id="module-grid">${renderModuleGrid()}</div>
+        </section>
+
+        <section class="section-block">
+          <div class="section-heading">
+            <p class="eyebrow">ElegÃ­ una estrategia</p>
+            <h2>Rutas de aprendizaje</h2>
+            <p>No tenÃ©s que recorrer el contenido de una sola manera.</p>
+          </div>
+          <div class="path-grid">
+            ${content.studyPaths.map(renderStudyPath).join('')}
+          </div>
+        </section>
+
+        <section class="exam-preview section-block">
+          <div class="exam-preview-copy">
+            <p class="eyebrow">Conectar conocimiento con consignas</p>
+            <h2>Un mapa claro para el examen</h2>
+            <p>Cada consigna estÃ¡ vinculada con los mÃ³dulos que necesitÃ¡s estudiar y con una estructura para desarrollar tu propia respuesta.</p>
+            <a class="button button-primary" href="#/examen">Abrir preparaciÃ³n guiada ${icon('arrow', 18)}</a>
+          </div>
+          <div class="exam-question-stack">
+            ${content.examQuestions.map((question) => `
+              <a href="#/examen" class="exam-mini-card">
+                <span>${String(question.number).padStart(2, '0')}</span>
+                <div><strong>${escapeHTML(question.title)}</strong><small>${question.points ? `${question.points} puntos` : 'PresentaciÃ³n personal'}</small></div>
+                ${icon('arrow', 17)}
+              </a>`).join('')}
+          </div>
+        </section>
+      </div>`;
+  }
+
+  function getNextModule() {
+    if (state.lastModule && modulesById.has(state.lastModule) && !state.completed.includes(state.lastModule)) {
+      return modulesById.get(state.lastModule);
+    }
+    return content.modules.find((module) => !state.completed.includes(module.id)) || content.modules[0];
+  }
+
+  function renderHomeFilter(id, label) {
+    return `<button type="button" class="filter-chip${ui.homeFilter === id ? ' is-active' : ''}" data-home-filter="${id}" aria-pressed="${ui.homeFilter === id}">${escapeHTML(label)}</button>`;
+  }
+
+  function filteredHomeModules() {
+    if (ui.homeFilter === 'all') return content.modules;
+    if (ui.homeFilter === 'bookmarked') return content.modules.filter((module) => state.bookmarks.includes(module.id));
+    return content.modules.filter((module) => module.exam.includes(ui.homeFilter));
+  }
+
+  function renderModuleGrid() {
+    const modules = filteredHomeModules();
+    if (!modules.length) {
+      return `<div class="empty-state">${icon('bookmark', 26)}<h3>No hay mÃ³dulos guardados todavÃ­a</h3><p>UsÃ¡ el marcador de una tarjeta o lecciÃ³n para armar tu lista.</p></div>`;
+    }
+    return modules.map(renderModuleCard).join('');
+  }
+
+  function renderModuleCard(module) {
+    const complete = state.completed.includes(module.id);
+    const bookmarked = state.bookmarks.includes(module.id);
+    const moduleQuestions = module.quiz || [];
+    const correct = moduleQuestions.filter((question) => state.quizAnswers[question.id] === question.answer).length;
+    return `
+      <article class="module-card${complete ? ' is-complete' : ''}">
+        <div class="module-card-top">
+          <span class="module-number">${String(module.order).padStart(2, '0')}</span>
+          <button class="bookmark-button${bookmarked ? ' is-active' : ''}" type="button" data-bookmark="${module.id}" aria-label="${bookmarked ? 'Quitar de guardados' : 'Guardar mÃ³dulo'}" aria-pressed="${bookmarked}">
+            ${icon('bookmark', 18)}
+          </button>
+        </div>
+        <a href="#/modulo/${module.id}" class="module-card-link">
+          <span class="module-card-icon">${icon(module.icon, 24)}</span>
+          <div class="module-card-badges">${confidenceBadge(module.confidence)}${module.exam.map((id) => examBadge(id, true)).join('')}</div>
+          <h3>${escapeHTML(module.title)}</h3>
+          <p>${escapeHTML(module.summary)}</p>
+          <div class="module-card-footer">
+            <span>${icon('clock', 15)} ${module.duration} min</span>
+            <span>${correct}/${moduleQuestions.length} chequeos</span>
+            <span class="module-card-action">Abrir ${icon('arrow', 16)}</span>
+          </div>
+        </a>
+        ${complete ? `<span class="completion-stamp">${icon('check', 15)} Completado</span>` : ''}
+      </article>`;
+  }
+
+  function renderStudyPath(path) {
+    const completed = path.modules.filter((id) => state.completed.includes(id)).length;
+    const firstAvailable = path.modules.find((id) => !state.completed.includes(id)) || path.modules[0];
+    return `
+      <article class="path-card">
+        <div class="path-card-header">
+          <span class="path-icon">${icon(path.id === 'exam-fast' ? 'exam' : path.id === 'signals' ? 'pulse' : 'spark', 23)}</span>
+          <span>${path.estimatedMinutes} min</span>
+        </div>
+        <h3>${escapeHTML(path.title)}</h3>
+        <p>${escapeHTML(path.description)}</p>
+        <div class="path-dots" aria-label="${completed} de ${path.modules.length} mÃ³dulos completados">
+          ${path.modules.map((id) => `<span class="${state.completed.includes(id) ? 'is-complete' : ''}" title="${escapeHTML(modulesById.get(id).shortTitle)}"></span>`).join('')}
+        </div>
+        <button type="button" class="text-link" data-start-path="${firstAvailable}">${completed ? 'Continuar ruta' : 'Iniciar ruta'} ${icon('arrow', 16)}</button>
+      </article>`;
+  }
+
+  function renderModule(moduleId) {
+    const module = modulesById.get(moduleId);
+    if (!module) {
+      navigate('#/inicio');
+      return;
+    }
+    if (state.lastModule !== moduleId) {
+      state.lastModule = moduleId;
+      persistState();
+    }
+    const complete = state.completed.includes(module.id);
+    const bookmarked = state.bookmarks.includes(module.id);
+    const currentIndex = content.modules.findIndex((item) => item.id === module.id);
+    const previous = content.modules[currentIndex - 1];
+    const next = content.modules[currentIndex + 1];
+
+    app.innerHTML = `
+      <div class="page lesson-page">
+        <div class="breadcrumbs"><a href="#/inicio">Inicio</a><span>/</span><span>MÃ³dulo ${module.order}</span></div>
+        <header class="lesson-hero">
+          <div class="lesson-hero-main">
+            <div class="lesson-index">${String(module.order).padStart(2, '0')}</div>
+            <div>
+              <div class="lesson-badges">${confidenceBadge(module.confidence)}${module.exam.map((id) => examBadge(id)).join('')}</div>
+              <p class="eyebrow">${escapeHTML(module.kicker)}</p>
+              <h1>${escapeHTML(module.title)}</h1>
+              <p class="lesson-summary">${escapeHTML(module.summary)}</p>
+            </div>
+          </div>
+          <div class="lesson-actions">
+            <button class="button button-secondary" type="button" data-bookmark="${module.id}" aria-pressed="${bookmarked}">
+              ${icon('bookmark', 17)} ${bookmarked ? 'Guardado' : 'Guardar'}
+            </button>
+            <button class="button ${complete ? 'button-complete' : 'button-primary'}" type="button" data-complete="${module.id}" aria-pressed="${complete}">
+              ${icon('check', 17)} ${complete ? 'MÃ³dulo completado' : 'Marcar como completado'}
+            </button>
+          </div>
+          <div class="lesson-meta-row">
+            <span>${icon('clock', 16)} ${module.duration} min</span>
+            <span>${icon('axis', 16)} Nivel ${escapeHTML(module.difficulty)}</span>
+            <span>${icon('exam', 16)} ${module.quiz.length} chequeos</span>
+          </div>
+        </header>
+
+        <div class="lesson-layout">
+          <article class="lesson-content">
+            <section class="lesson-intro-grid">
+              <div class="why-card">
+                <span class="why-icon">${icon('spark', 21)}</span>
+                <div><h2>Por quÃ© importa</h2><p>${escapeHTML(module.whyItMatters)}</p></div>
+              </div>
+              <div class="goals-card">
+                <h2>Al terminar vas a poderâ€¦</h2>
+                <ul>${module.learningGoals.map((goal) => `<li>${icon('check', 16)}<span>${escapeHTML(goal)}</span></li>`).join('')}</ul>
+              </div>
+            </section>
+
+            ${module.sections.map((section, index) => renderLessonSection(section, index)).join('')}
+
+            <section class="lesson-section" id="conceptos-clave">
+              <div class="lesson-section-heading">
+                <span class="section-count">${String(module.sections.length + 1).padStart(2, '0')}</span>
+                <div><p class="eyebrow">Diccionario del mÃ³dulo</p><h2>Conceptos clave</h2></div>
+              </div>
+              <div class="concept-list">
+                ${module.concepts.map((concept) => `
+                  <details class="concept-item">
+                    <summary><span>${escapeHTML(concept.term)}</span>${icon('chevron', 18)}</summary>
+                    <div class="concept-body"><p>${escapeHTML(concept.definition)}</p><div><strong>Ejemplo</strong><span>${escapeHTML(concept.example)}</span></div></div>
+                  </details>`).join('')}
+              </div>
+            </section>
+
+            <section class="lesson-section" id="proceso">
+              <div class="lesson-section-heading">
+                <span class="section-count">${String(module.sections.length + 2).padStart(2, '0')}</span>
+                <div><p class="eyebrow">Secuencia mental</p><h2>CÃ³mo se aplica</h2></div>
+              </div>
+              <ol class="process-list">${module.process.map((step, index) => `<li><span>${index + 1}</span><p>${escapeHTML(step)}</p></li>`).join('')}</ol>
+              <div class="applied-example"><span>${icon('spark', 22)}</span><div><strong>${escapeHTML(module.appliedExample.title)}</strong><p>${escapeHTML(module.appliedExample.text)}</p></div></div>
+            </section>
+
+            <section class="lesson-section" id="comprobacion">
+              <div class="lesson-section-heading">
+                <span class="section-count">${String(module.sections.length + 3).padStart(2, '0')}</span>
+                <div><p class="eyebrow">AutoevaluaciÃ³n</p><h2>ComprobÃ¡ lo que entendiste</h2></div>
+              </div>
+              ${renderQuiz(module)}
+            </section>
+
+            <section class="lesson-section" id="resumen">
+              <div class="lesson-section-heading">
+                <span class="section-count">${String(module.sections.length + 4).padStart(2, '0')}</span>
+                <div><p class="eyebrow">Antes de continuar</p><h2>Ideas que deberÃ­as retener</h2></div>
+              </div>
+              <div class="takeaway-grid">${module.takeaways.map((takeaway, index) => `<div><span>${index + 1}</span><p>${escapeHTML(takeaway)}</p></div>`).join('')}</div>
+            </section>
+
+            <section class="lesson-section notes-section" id="mis-notas">
+              <div class="lesson-section-heading">
+                <span class="section-count">${icon('note', 18)}</span>
+                <div><p class="eyebrow">Se guarda en este dispositivo</p><h2>Mis notas del mÃ³dulo</h2></div>
+              </div>
+              <textarea class="notes-area" data-note-module="${module.id}" placeholder="EscribÃ­ con tus palabras quÃ© entendiste, quÃ© te genera dudas o cÃ³mo lo explicarÃ­asâ€¦">${escapeHTML(state.notes[module.id] || '')}</textarea>
+              <div class="notes-meta"><span>Guardado automÃ¡tico</span><span data-note-count="${module.id}">${wordCount(state.notes[module.id] || '')} palabras</span></div>
+            </section>
+
+            <div class="lesson-completion-panel${complete ? ' is-complete' : ''}">
+              <div>
+                <span class="completion-icon">${icon('check', 23)}</span>
+                <div><strong>${complete ? 'Este mÃ³dulo estÃ¡ completado' : 'Â¿Terminaste de estudiar este mÃ³dulo?'}</strong><p>${complete ? 'PodÃ©s volver a repasarlo cuando quieras.' : 'MarcÃ¡ el avance para actualizar tu ruta personal.'}</p></div>
+              </div>
+              <button class="button ${complete ? 'button-secondary' : 'button-primary'}" type="button" data-complete="${module.id}">${complete ? 'Marcar como pendiente' : 'Completar mÃ³dulo'}</button>
+            </div>
+
+            <nav class="lesson-pagination" aria-label="NavegaciÃ³n entre mÃ³dulos">
+              ${previous ? `<a href="#/modulo/${previous.id}" class="lesson-page-link previous">${icon('arrow', 18)}<span><small>Anterior</small><strong>${escapeHTML(previous.shortTitle)}</strong></span></a>` : '<span></span>'}
+              ${next ? `<a href="#/modulo/${next.id}" class="lesson-page-link next"><span><small>Siguiente</small><strong>${escapeHTML(next.shortTitle)}</strong></span>${icon('arrow', 18)}</a>` : `<a href="#/examen" class="lesson-page-link next"><span><small>Finalizar ruta</small><strong>Preparar examen</strong></span>${icon('arrow', 18)}</a>`}
+            </nav>
+          </article>
+
+          <aside class="lesson-rail" aria-label="Contenido del mÃ³dulo">
+            <div class="rail-card">
+              <p class="nav-label">En este mÃ³dulo</p>
+              ${module.sections.map((section, index) => `<button type="button" data-scroll-to="seccion-${index + 1}"><span>${String(index + 1).padStart(2, '0')}</span>${escapeHTML(section.title)}</button>`).join('')}
+              <button type="button" data-scroll-to="conceptos-clave"><span>â€¢</span>Conceptos clave</button>
+              <button type="button" data-scroll-to="comprobacion"><span>â€¢</span>AutoevaluaciÃ³n</button>
+              <button type="button" data-scroll-to="mis-notas"><span>â€¢</span>Mis notas</button>
+            </div>
+            <div class="rail-exam-card">
+              <span>${icon('exam', 19)}</span>
+              <div><strong>RelaciÃ³n con el examen</strong><p>${module.exam.map((id) => `Pregunta ${examsById.get(id).number}`).join(' Â· ')}</p></div>
+              <a href="#/examen">Ver guÃ­a</a>
+            </div>
+          </aside>
+        </div>
+      </div>`;
+  }
+
+  function renderLessonSection(section, index) {
+    return `
+      <section class="lesson-section" id="seccion-${index + 1}">
+        <div class="lesson-section-heading">
+          <span class="section-count">${String(index + 1).padStart(2, '0')}</span>
+          <h2>${escapeHTML(section.title)}</h2>
+        </div>
+        <div class="lesson-prose">
+          ${(section.paragraphs || []).map((paragraph) => `<p>${escapeHTML(paragraph)}</p>`).join('')}
+          ${section.visual ? renderVisual(section.visual) : ''}
+          ${section.bullets ? `<ul class="content-list">${section.bullets.map((bullet) => `<li><span></span>${escapeHTML(bullet)}</li>`).join('')}</ul>` : ''}
+          ${section.comparison ? renderComparison(section.comparison) : ''}
+          ${section.callout ? `<div class="content-callout"><span>${icon('spark', 20)}</span><div><strong>${escapeHTML(section.callout.title)}</strong><p>${escapeHTML(section.callout.text)}</p></div></div>` : ''}
+        </div>
+      </section>`;
+  }
+
+  function renderComparison(comparison) {
+    return `
+      <div class="comparison-grid">
+        <div><strong>${escapeHTML(comparison.left.title)}</strong><ul>${comparison.left.items.map((item) => `<li>${escapeHTML(item)}</li>`).join('')}</ul></div>
+        <div><strong>${escapeHTML(comparison.right.title)}</strong><ul>${comparison.right.items.map((item) => `<li>${escapeHTML(item)}</li>`).join('')}</ul></div>
+      </div>`;
+  }
+
+  function renderQuiz(module) {
+    const correct = module.quiz.filter((question) => state.quizAnswers[question.id] === question.answer).length;
+    return `
+      <div class="quiz-header"><p>ElegÃ­ una opciÃ³n. La explicaciÃ³n aparece inmediatamente.</p><span>${correct}/${module.quiz.length} correctas</span></div>
+      <div class="quiz-list">
+        ${module.quiz.map((question, questionIndex) => {
+          const selected = state.quizAnswers[question.id];
+          const answered = Number.isInteger(selected);
+          const isCorrect = selected === question.answer;
+          return `
+            <article class="quiz-card${answered ? (isCorrect ? ' is-correct' : ' is-wrong') : ''}">
+              <div class="quiz-question"><span>${questionIndex + 1}</span><h3>${escapeHTML(question.prompt)}</h3></div>
+              <div class="quiz-options">
+                ${question.options.map((option, optionIndex) => {
+                  const selectedClass = selected === optionIndex ? ' is-selected' : '';
+                  const revealCorrect = answered && optionIndex === question.answer ? ' is-answer' : '';
+                  const revealWrong = answered && selected === optionIndex && optionIndex !== question.answer ? ' is-wrong-answer' : '';
+                  return `<button type="button" class="quiz-option${selectedClass}${revealCorrect}${revealWrong}" data-quiz-id="${question.id}" data-option="${optionIndex}"><span>${String.fromCharCode(65 + optionIndex)}</span>${escapeHTML(option)}</button>`;
+                }).join('')}
+              </div>
+              ${answered ? `<div class="quiz-feedback"><strong>${isCorrect ? 'Correcto' : 'RevisÃ¡ esta idea'}</strong><p>${escapeHTML(question.explanation)}</p></div>` : ''}
+            </article>`;
+        }).join('')}
+      </div>`;
+  }
+
+  function renderExam() {
+    const stats = progressStats();
+    app.innerHTML = `
+      <div class="page exam-page">
+        <header class="page-hero compact-hero">
+          <div>
+            <p class="eyebrow">PreparaciÃ³n guiada</p>
+            <h1>Del contenido a tus propias respuestas</h1>
+            <p>UbicÃ¡ quÃ© estudiar para cada consigna, elegÃ­ tus cinco etapas y escribÃ­ borradores con tus palabras.</p>
+          </div>
+          <div class="compact-readiness" style="--value:${stats.readiness}">
+            <strong>${stats.readiness}%</strong><span>preparaciÃ³n estimada</span>
+          </div>
+        </header>
+
+        <section class="exam-principle">
+          ${icon('info', 21)}
+          <p>La guÃ­a organiza lo aprendido y marca incertidumbres. No reproduce una respuesta oficial ni reemplaza tu criterio sobre lo que recordÃ³ el orador.</p>
+        </section>
+
+        <section class="section-block">
+          <div class="section-heading">
+            <p class="eyebrow">Mapa general</p>
+            <h2>Las cuatro consignas</h2>
+            <p>AbrÃ­ cada bloque para ver la relaciÃ³n con el curso y una estructura de desarrollo.</p>
+          </div>
+          <div class="exam-card-list">
+            ${content.examQuestions.map(renderExamQuestion).join('')}
+          </div>
+        </section>
+
+        <section class="section-block selection-workshop">
+          <div class="section-heading split-heading">
+            <div>
+              <p class="eyebrow">Taller para la pregunta 2</p>
+              <h2>ElegÃ­ tus cinco etapas</h2>
+              <p>SeleccionÃ¡ exactamente cinco. La combinaciÃ³n queda guardada en este navegador.</p>
+            </div>
+            <div class="selection-counter"><strong>${state.examSelection.length}</strong><span>/5 elegidas</span></div>
+          </div>
+          <div class="selection-toolbar">
+            <button type="button" class="button button-secondary" data-suggest-five>Usar selecciÃ³n recomendada</button>
+            <span>${state.examSelection.length === 5 ? 'SelecciÃ³n completa' : `Te faltan ${5 - state.examSelection.length}`}</span>
+          </div>
+          <div class="exam-module-selector">
+            ${content.modules.map((module) => {
+              const selected = state.examSelection.includes(module.id);
+              return `<button type="button" class="exam-select-card${selected ? ' is-selected' : ''}" data-exam-select="${module.id}" aria-pressed="${selected}">
+                <span class="exam-select-index">${selected ? icon('check', 17) : String(module.order).padStart(2, '0')}</span>
+                <span><strong>${escapeHTML(module.shortTitle)}</strong><small>${escapeHTML(module.kicker)}</small></span>
+                ${module.id === 'diseno-robotico' ? '<em>Clave obligatoria</em>' : ''}
+              </button>`;
+            }).join('')}
+          </div>
+          ${state.examSelection.length ? `<div class="selection-summary"><strong>Tu recorrido:</strong>${state.examSelection.map((id) => `<a href="#/modulo/${id}">${escapeHTML(modulesById.get(id).shortTitle)}</a>`).join(icon('arrow', 14))}</div>` : ''}
+        </section>
+
+        <section class="section-block draft-workshop">
+          <div class="section-heading">
+            <p class="eyebrow">Espacio de elaboraciÃ³n</p>
+            <h2>Mis borradores</h2>
+            <p>EscribÃ­ primero sin buscar perfecciÃ³n. DespuÃ©s podÃ©s revisar precisiÃ³n, claridad y relaciÃ³n con la consigna.</p>
+          </div>
+          <div class="draft-grid">
+            ${content.examQuestions.map((question) => `
+              <article class="draft-card">
+                <div class="draft-card-head"><span>Pregunta ${question.number}</span>${question.points ? `<strong>${question.points} pts</strong>` : ''}</div>
+                <h3>${escapeHTML(question.title)}</h3>
+                <textarea data-exam-draft="${question.id}" placeholder="EscribÃ­ acÃ¡ tu desarrolloâ€¦">${escapeHTML(state.examDrafts[question.id] || '')}</textarea>
+                <div class="draft-meta"><span>Guardado automÃ¡tico</span><span data-draft-count="${question.id}">${wordCount(state.examDrafts[question.id] || '')} palabras</span></div>
+              </article>`).join('')}
+          </div>
+        </section>
+
+        <section class="section-block final-checklist">
+          <div>
+            <p class="eyebrow">Antes de entregar</p>
+            <h2>Chequeo de calidad</h2>
+          </div>
+          <ul>
+            <li>${icon('check', 18)}<span>Cada respuesta nombra exactamente lo que pide la consigna.</span></li>
+            <li>${icon('check', 18)}<span>Las descripciones explican funciÃ³n, proceso y un ejemplo.</span></li>
+            <li>${icon('check', 18)}<span>La pregunta 2 incluye DiseÃ±o RobÃ³tico.</span></li>
+            <li>${icon('check', 18)}<span>EMG estÃ¡ asociado con seÃ±al muscular y no con fuerza exacta.</span></li>
+            <li>${icon('check', 18)}<span>Manufactura aditiva aparece como categorÃ­a y FDM/FFF como tÃ©cnica plÃ¡stica probable.</span></li>
+            <li>${icon('check', 18)}<span>Las partes inciertas no se presentan como hechos confirmados del webinar.</span></li>
+          </ul>
+        </section>
+      </div>`;
+  }
+
+  function renderExamQuestion(question) {
+    return `
+      <details class="exam-detail-card" ${question.id === 'q2' ? 'open' : ''}>
+        <summary>
+          <span class="exam-detail-number">${String(question.number).padStart(2, '0')}</span>
+          <span class="exam-detail-title"><small>${question.points ? `${question.points} puntos` : 'Contexto personal'}</small><strong>${escapeHTML(question.title)}</strong></span>
+          ${icon('chevron', 20)}
+        </summary>
+        <div class="exam-detail-body">
+          <blockquote>${escapeHTML(question.prompt)}</blockquote>
+          <div class="exam-key"><span>${icon('spark', 19)}</span><p><strong>Idea central:</strong> ${escapeHTML(question.key)}</p></div>
+          <div class="exam-detail-columns">
+            <div><h3>QuÃ© estudiar</h3><ul>${question.recommendedTopics.map((item) => `<li>${escapeHTML(item)}</li>`).join('')}</ul></div>
+            <div><h3>CÃ³mo estructurarlo</h3><ol>${question.structure.map((item) => `<li>${escapeHTML(item)}</li>`).join('')}</ol></div>
+          </div>
+          <div class="mapped-modules"><strong>MÃ³dulos relacionados</strong>${question.mappedModules.map((id) => `<a href="#/modulo/${id}">${String(modulesById.get(id).order).padStart(2, '0')} Â· ${escapeHTML(modulesById.get(id).shortTitle)}</a>`).join('')}</div>
+          <div class="uncertainty-note"><strong>AtenciÃ³n</strong><p>${escapeHTML(question.caution)}</p></div>
+        </div>
+      </details>`;
+  }
+
+  function renderGlossary() {
+    app.innerHTML = `
+      <div class="page glossary-page">
+        <header class="page-hero compact-hero glossary-hero">
+          <div>
+            <p class="eyebrow">Referencia rÃ¡pida</p>
+            <h1>Glosario de conceptos</h1>
+            <p>BuscÃ¡ una palabra, filtrÃ¡ por consigna y abrÃ­ el mÃ³dulo donde se explica en contexto.</p>
+          </div>
+          <div class="glossary-count"><strong>${content.glossary.length}</strong><span>conceptos</span></div>
+        </header>
+        <section class="glossary-controls">
+          <label class="glossary-search">${icon('search', 19)}<input id="glossary-search-input" type="search" value="${escapeHTML(ui.glossaryQuery)}" placeholder="Buscar tÃ©rmino o definiciÃ³nâ€¦" /></label>
+          <div class="filter-bar" role="group" aria-label="Filtrar glosario">
+            ${renderGlossaryFilter('all', 'Todos')}
+            ${renderGlossaryFilter('q2', 'Pregunta 2')}
+            ${renderGlossaryFilter('q3', 'Pregunta 3')}
+            ${renderGlossaryFilter('q4', 'Pregunta 4')}
+          </div>
+        </section>
+        <div class="glossary-results-meta" id="glossary-results-meta"></div>
+        <section class="glossary-grid" id="glossary-results"></section>
+      </div>`;
+    updateGlossaryResults();
+  }
+
+  function renderGlossaryFilter(id, label) {
+    return `<button type="button" class="filter-chip${ui.glossaryFilter === id ? ' is-active' : ''}" data-glossary-filter="${id}" aria-pressed="${ui.glossaryFilter === id}">${escapeHTML(label)}</button>`;
+  }
+
+  function filteredGlossary() {
+    const query = normalize(ui.glossaryQuery);
+    return content.glossary.filter((item) => {
+      const examMatch = ui.glossaryFilter === 'all' || item.exam.includes(ui.glossaryFilter);
+      const textMatch = !query || normalize(`${item.term} ${item.definition}`).includes(query);
+      return examMatch && textMatch;
+    });
+  }
+
+  function updateGlossaryResults() {
+    const container = document.getElementById('glossary-results');
+    const meta = document.getElementById('glossary-results-meta');
+    if (!container || !meta) return;
+    const items = filteredGlossary().sort((a, b) => a.term.localeCompare(b.term, 'es'));
+    meta.textContent = `${items.length} resultado${items.length === 1 ? '' : 's'}`;
+    container.innerHTML = items.length
+      ? items.map((item) => {
+          const module = modulesById.get(item.module);
+          const status = state.flashcards[item.term];
+          return `<article class="glossary-card">
+            <div class="glossary-card-head"><span>${escapeHTML(item.term.charAt(0).toUpperCase())}</span><div>${item.exam.map((id) => examBadge(id, true)).join('')}</div></div>
+            <h2>${escapeHTML(item.term)}</h2>
+            <p>${escapeHTML(item.definition)}</p>
+            <div class="glossary-card-footer"><a href="#/modulo/${module.id}">${escapeHTML(module.shortTitle)} ${icon('arrow', 14)}</a>${status ? `<span class="card-status status-${status}">${status === 'known' ? 'Dominado' : 'Repasar'}</span>` : ''}</div>
+          </article>`;
+        }).join('')
+      : `<div class="empty-state">${icon('search', 27)}<h3>No encontramos coincidencias</h3><p>ProbÃ¡ con otra palabra o quitÃ¡ un filtro.</p></div>`;
+  }
+
+  function renderFlashcards() {
+    app.innerHTML = `
+      <div class="page flashcards-page">
+        <header class="page-hero compact-hero flash-hero">
+          <div>
+            <p class="eyebrow">RecuperaciÃ³n activa</p>
+            <h1>Tarjetas de estudio</h1>
+            <p>IntentÃ¡ explicar el tÃ©rmino antes de revelar la respuesta. MarcÃ¡ quÃ© dominÃ¡s y quÃ© necesitÃ¡s volver a ver.</p>
+          </div>
+          <div class="flash-score">${icon('cards', 23)}<strong>${progressStats().known}</strong><span>dominadas</span></div>
+        </header>
+        <section class="flash-toolbar">
+          <div class="filter-bar" role="group" aria-label="Filtrar tarjetas">
+            ${renderFlashFilter('all', 'Todas')}
+            ${renderFlashFilter('q2', 'Pregunta 2')}
+            ${renderFlashFilter('q3', 'Pregunta 3')}
+            ${renderFlashFilter('q4', 'Pregunta 4')}
+            ${renderFlashFilter('review', 'Para repasar')}
+          </div>
+        </section>
+        <section id="flashcard-panel" class="flashcard-panel"></section>
+        <section class="study-tip">
+          <span>${icon('spark', 21)}</span>
+          <div><strong>CÃ³mo aprovecharlas</strong><p>No leas inmediatamente el reverso. Primero formulÃ¡ una definiciÃ³n y un ejemplo. La dificultad de recordar es parte del aprendizaje.</p></div>
+        </section>
+      </div>`;
+    renderFlashcardPanel();
+  }
+
+  function renderFlashFilter(id, label) {
+    return `<button type="button" class="filter-chip${ui.flashFilter === id ? ' is-active' : ''}" data-flash-filter="${id}" aria-pressed="${ui.flashFilter === id}">${escapeHTML(label)}</button>`;
+  }
+
+  function filteredFlashcards() {
+    if (ui.flashFilter === 'all') return content.glossary;
+    if (ui.flashFilter === 'review') return content.glossary.filter((item) => state.flashcards[item.term] !== 'known');
+    return content.glossary.filter((item) => item.exam.includes(ui.flashFilter));
+  }
+
+  function renderFlashcardPanel() {
+    const panel = document.getElementById('flashcard-panel');
+    if (!panel) return;
+    const cards = filteredFlashcards();
+    if (!cards.length) {
+      panel.innerHTML = `<div class="empty-state">${icon('check', 28)}<h3>No quedan tarjetas en este filtro</h3><p>ProbÃ¡ con otra categorÃ­a o reiniciÃ¡ las marcas desde Alcance del material.</p></div>`;
+      return;
+    }
+    if (ui.flashIndex >= cards.length) ui.flashIndex = 0;
+    const item = cards[ui.flashIndex];
+    const module = modulesById.get(item.module);
+    const status = state.flashcards[item.term];
+    const knownCount = cards.filter((card) => state.flashcards[card.term] === 'known').length;
+    panel.innerHTML = `
+      <div class="flash-progress-row"><span>Tarjeta ${ui.flashIndex + 1} de ${cards.length}</span><span>${knownCount} dominadas en este grupo</span></div>
+      <div class="progress-track flash-progress" aria-hidden="true"><span style="width:${((ui.flashIndex + 1) / cards.length) * 100}%"></span></div>
+      <button type="button" class="flashcard${ui.flashFlipped ? ' is-flipped' : ''}" data-flip-card aria-label="${ui.flashFlipped ? 'Volver al tÃ©rmino' : 'Revelar definiciÃ³n'}">
+        <span class="flashcard-side flashcard-front">
+          <small>${escapeHTML(module.shortTitle)}</small>
+          <strong>${escapeHTML(item.term)}</strong>
+          <em>IntentÃ¡ explicarlo antes de revelar</em>
+          <span class="reveal-hint">Tocar para revelar ${icon('arrow', 16)}</span>
+        </span>
+        <span class="flashcard-side flashcard-back">
+          <small>DefiniciÃ³n</small>
+          <strong>${escapeHTML(item.term)}</strong>
+          <p>${escapeHTML(item.definition)}</p>
+          <span class="reveal-hint">Tocar para volver</span>
+        </span>
+      </button>
+      <div class="flashcard-rating">
+        <button type="button" class="button button-secondary${status === 'review' ? ' is-selected' : ''}" data-card-rating="review" data-term="${escapeHTML(item.term)}">Necesito repasarlo</button>
+        <button type="button" class="button button-primary${status === 'known' ? ' is-selected' : ''}" data-card-rating="known" data-term="${escapeHTML(item.term)}">Lo puedo explicar</button>
+      </div>
+      <div class="flashcard-navigation">
+        <button type="button" class="icon-text-button" data-card-prev>${icon('arrow', 17)} Anterior</button>
+        <a href="#/modulo/${module.id}" class="text-link">Abrir mÃ³dulo</a>
+        <button type="button" class="icon-text-button" data-card-next>Siguiente ${icon('arrow', 17)}</button>
+      </div>`;
+  }
+
+  function renderAbout() {
+    app.innerHTML = `
+      <div class="page about-page">
+        <header class="page-hero compact-hero">
+          <div>
+            <p class="eyebrow">Transparencia del material</p>
+            <h1>QuÃ© sabemos y quÃ© estamos reconstruyendo</h1>
+            <p>La utilidad de esta academia depende de distinguir explicaciÃ³n tÃ©cnica, apuntes directos e inferencias sobre el webinar.</p>
+          </div>
+        </header>
+
+        <section class="about-intro section-block">
+          <div class="about-statement"><span>${icon('info', 24)}</span><p>${escapeHTML(content.meta.disclaimer)}</p></div>
+          <div class="about-columns">
+            <div><h2>Base disponible</h2><ul><li>El temario escrito del webinar.</li><li>La sÃ­ntesis anotada al final de la exposiciÃ³n.</li><li>Las pistas incluidas en las cuatro consignas.</li><li>Explicaciones tÃ©cnicas estables de robÃ³tica, control y manufactura.</li></ul></div>
+            <div><h2>Lo que no tenemos</h2><ul><li>GrabaciÃ³n de la primera hora.</li><li>Diapositivas completas del orador.</li><li>Lista literal y oficial de las nueve etapas.</li><li>ConfirmaciÃ³n inequÃ­voca del segundo sensor esperado.</li></ul></div>
+          </div>
+        </section>
+
+        <section class="section-block">
+          <div class="section-heading"><p class="eyebrow">Etiquetas de confianza</p><h2>CÃ³mo leer el contenido</h2></div>
+          <div class="confidence-grid">
+            ${content.meta.confidenceLegend.map((item) => `<article><span class="confidence-badge confidence-${item.id}">${escapeHTML(item.label)}</span><p>${escapeHTML(item.description)}</p></article>`).join('')}
+          </div>
+        </section>
+
+        <section class="section-block uncertainty-grid">
+          <article>
+            <span class="uncertainty-icon">${icon('exam', 23)}</span>
+            <h2>Las nueve etapas</h2>
+            <p>El temario agrupa â€œherramientas de simulaciÃ³n y optimizaciÃ³nâ€. Para reconstruir nueve etapas se separan ambos bloques. Es una hipÃ³tesis organizativa, no una transcripciÃ³n.</p>
+          </article>
+          <article>
+            <span class="uncertainty-icon">${icon('pulse', 23)}</span>
+            <h2>Los dos sensores</h2>
+            <p>EMG queda identificado por la pista de seÃ±al muscular. EOG es el segundo candidato mÃ¡s fuerte por los apuntes de electrooculografÃ­a; EEG tambiÃ©n fue nombrado, pero mide actividad cerebral.</p>
+          </article>
+          <article>
+            <span class="uncertainty-icon">${icon('printer', 23)}</span>
+            <h2>La manufactura</h2>
+            <p>La categorÃ­a segura es manufactura aditiva. FDM/FFF es la tÃ©cnica mÃ¡s compatible con la pista de plÃ¡sticos, aunque SLA y SLS tambiÃ©n pueden procesar polÃ­meros.</p>
+          </article>
+        </section>
+
+        <section class="section-block local-data-card">
+          <div>
+            <p class="eyebrow">Privacidad y control</p>
+            <h2>Tus datos quedan en el navegador</h2>
+            <p>Progreso, notas, borradores y tarjetas se guardan mediante almacenamiento local. No se envÃ­an a un servidor desde esta versiÃ³n estÃ¡tica.</p>
+          </div>
+          <button type="button" class="button button-danger" data-reset-progress>${icon('reset', 17)} Reiniciar todo el progreso</button>
+        </section>
+      </div>`;
+  }
+
+  function renderHeroIllustration() {
+    return `
+      <svg class="android-illustration" viewBox="0 0 520 420">
+        <defs>
+          <linearGradient id="heroGlow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8df0df"/><stop offset="1" stop-color="#6f7cff"/></linearGradient>
+          <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+        </defs>
+        <circle cx="280" cy="195" r="140" fill="url(#heroGlow)" opacity=".16" filter="url(#blur)"/>
+        <path class="orbit" d="M70 210c75-140 330-145 390 8S190 400 70 210Z" fill="none"/>
+        <g class="robot-head">
+          <path d="M184 128c0-42 34-76 76-76h18c42 0 76 34 76 76v91c0 45-36 81-81 81h-8c-45 0-81-36-81-81z"/>
+          <path d="M199 143h140v72c0 38-31 69-69 69h-2c-38 0-69-31-69-69z" class="face-panel"/>
+          <circle cx="235" cy="181" r="10" class="eye"/><circle cx="304" cy="181" r="10" class="eye"/>
+          <path d="M245 239c16 9 33 9 49 0" class="mouth"/>
+          <path d="M214 82 190 59m114 23 25-23M269 52V23" class="antenna"/>
+        </g>
+        <g class="data-nodes">
+          <circle cx="88" cy="127" r="7"/><circle cx="440" cy="116" r="7"/><circle cx="463" cy="287" r="7"/><circle cx="108" cy="310" r="7"/>
+          <path d="m95 132 73 31m262-42-67 36m94 123-91-28M116 302l67-47"/>
+        </g>
+        <g class="code-lines"><path d="M68 175h62M78 192h38M394 330h62M416 347h30"/></g>
+        <g class="labels">
+          <text x="46" y="110">BIOSEÃ‘AL</text><text x="405" y="99">MODELO</text><text x="421" y="315">CONTROL</text><text x="61" y="339">DISEÃ‘O</text>
+        </g>
+      </svg>`;
+  }
+
+  function renderVisual(type) {
+    const visuals = {
+      'selection-map': `
+        <div class="learning-visual selection-visual" role="img" aria-label="Mapa de selecciÃ³n del androide">
+          <div class="visual-node center"><strong>Objetivo</strong><span>Â¿QuÃ© debe resolver?</span></div>
+          <div class="visual-node node-a"><strong>Usuario</strong><span>QuiÃ©n interactÃºa</span></div>
+          <div class="visual-node node-b"><strong>Entorno</strong><span>DÃ³nde funciona</span></div>
+          <div class="visual-node node-c"><strong>Movimiento</strong><span>QuÃ© necesita hacer</span></div>
+          <div class="visual-node node-d"><strong>Restricciones</strong><span>Costo y seguridad</span></div>
+          <svg viewBox="0 0 600 280" aria-hidden="true"><path d="M300 140 135 63M300 140 465 63M300 140 135 217M300 140 465 217"/></svg>
+        </div>`,
+      'dh-chain': `
+        <div class="learning-visual svg-visual" role="img" aria-label="Cadena articulada con sistemas de coordenadas">
+          <svg viewBox="0 0 680 300">
+            <path class="soft-grid" d="M30 250h620M80 40v230M200 40v230M320 40v230M440 40v230M560 40v230M30 190h620M30 130h620M30 70h620"/>
+            <path class="mechanism" d="M105 230 255 172 405 96 560 145"/>
+            <circle class="joint" cx="105" cy="230" r="15"/><circle class="joint" cx="255" cy="172" r="15"/><circle class="joint" cx="405" cy="96" r="15"/><circle class="end" cx="560" cy="145" r="12"/>
+            <g class="axes"><path d="M105 230v-55m0 55h55"/><path d="M255 172v-55m0 55h55"/><path d="M405 96V41m0 55h55"/></g>
+            <g class="visual-labels"><text x="87" y="266">Base</text><text x="230" y="205">Art. 1</text><text x="380" y="130">Art. 2</text><text x="535" y="181">Efector</text></g>
+          </svg>
+          <div class="visual-caption"><span>Sistemas de referencia</span><span>Eslabones</span><span>Transformaciones acumuladas</span></div>
+        </div>`,
+      bezier: `
+        <div class="learning-visual svg-visual" role="img" aria-label="Trayectoria curva de BÃ©zier con puntos de control">
+          <svg viewBox="0 0 680 270">
+            <path class="soft-grid" d="M25 225h630M70 30v215M190 30v215M310 30v215M430 30v215M550 30v215M25 165h630M25 105h630M25 45h630"/>
+            <path class="control-line" d="M80 205 250 30 455 235 600 72"/>
+            <path class="bezier-line" d="M80 205C250 30 455 235 600 72"/>
+            <circle class="point main" cx="80" cy="205" r="9"/><circle class="point" cx="250" cy="30" r="8"/><circle class="point" cx="455" cy="235" r="8"/><circle class="point main" cx="600" cy="72" r="9"/>
+            <g class="visual-labels"><text x="47" y="239">Inicio</text><text x="576" y="54">Destino</text><text x="210" y="60">Control</text><text x="465" y="222">Control</text></g>
+          </svg>
+        </div>`,
+      'robotic-hand': `
+        <div class="learning-visual hand-visual" role="img" aria-label="Esquema funcional de una mano robÃ³tica">
+          <svg viewBox="0 0 680 320">
+            <g class="finger f1"><rect x="210" y="38" width="38" height="72" rx="17"/><rect x="210" y="116" width="38" height="78" rx="17"/></g>
+            <g class="finger f2"><rect x="270" y="20" width="38" height="82" rx="17"/><rect x="270" y="108" width="38" height="86" rx="17"/></g>
+            <g class="finger f3"><rect x="330" y="34" width="38" height="72" rx="17"/><rect x="330" y="112" width="38" height="82" rx="17"/></g>
+            <g class="finger f4"><rect x="390" y="64" width="38" height="62" rx="17"/><rect x="390" y="132" width="38" height="66" rx="17"/></g>
+            <path class="palm" d="M190 190h255v70c0 28-22 50-50 50H240c-28 0-50-22-50-50z"/>
+            <path class="thumb" d="m197 210-80-51c-16-10-20-31-10-47 11-16 32-19 47-8l73 55"/>
+            <g class="tendons"><path d="M229 48v208M289 30v226M349 44v212M409 74v182M137 121l94 128"/></g>
+            <rect class="servo" x="270" y="240" width="88" height="50" rx="10"/><circle class="servo-wheel" cx="314" cy="265" r="18"/>
+            <g class="visual-labels"><text x="470" y="79">Falanges</text><text x="470" y="167">Articulaciones</text><text x="470" y="245">Cables</text><text x="470" y="283">Servomotor</text></g>
+            <g class="label-lines"><path d="M454 74h-36M454 161h-69M454 239H350M454 277h-96"/></g>
+          </svg>
+        </div>`,
+      'four-bar': `
+        <div class="learning-visual svg-visual" role="img" aria-label="Mecanismo de cuatro barras">
+          <svg viewBox="0 0 680 280">
+            <path class="ground" d="M90 230h500"/>
+            <path class="bar fixed" d="M145 220 525 220"/><path class="bar input" d="M145 220 245 105"/><path class="bar coupler" d="M245 105 465 72"/><path class="bar output" d="M465 72 525 220"/>
+            <circle class="joint" cx="145" cy="220" r="13"/><circle class="joint" cx="245" cy="105" r="13"/><circle class="joint" cx="465" cy="72" r="13"/><circle class="joint" cx="525" cy="220" r="13"/>
+            <path class="motion-arrow" d="M180 183c-25-15-34-42-22-66"/><path class="motion-arrow" d="m155 121 6-13 12 8"/>
+            <g class="visual-labels"><text x="102" y="255">Fija</text><text x="160" y="131">Entrada</text><text x="326" y="72">Acoplador</text><text x="500" y="126">Salida</text></g>
+          </svg>
+        </div>`,
+      'signal-pipeline': `
+        <div class="learning-visual pipeline-visual" role="img" aria-label="Cadena de procesamiento de una seÃ±al bioelÃ©ctrica">
+          ${['Cuerpo', 'Electrodos', 'Amplificar y filtrar', 'Interpretar', 'Mover'].map((label, index) => `<div class="pipeline-step"><span>${index + 1}</span><strong>${label}</strong>${index < 4 ? icon('arrow', 18) : ''}</div>`).join('')}
+        </div>`,
+      'ml-pipeline': `
+        <div class="learning-visual pipeline-visual ml-visual" role="img" aria-label="Proceso de aprendizaje automÃ¡tico">
+          ${['Ejemplos', 'Etiquetas', 'Entrenar', 'Evaluar', 'Predecir'].map((label, index) => `<div class="pipeline-step"><span>${index + 1}</span><strong>${label}</strong>${index < 4 ? icon('arrow', 18) : ''}</div>`).join('')}
+        </div>`,
+      canny: `
+        <div class="learning-visual canny-visual" role="img" aria-label="TransformaciÃ³n de una imagen a un mapa de bordes">
+          <div class="canny-panel original"><div class="canny-object"></div><span>Imagen</span></div>
+          <div class="canny-arrow">${icon('arrow', 24)}</div>
+          <div class="canny-panel blurred"><div class="canny-object"></div><span>Suavizado</span></div>
+          <div class="canny-arrow">${icon('arrow', 24)}</div>
+          <div class="canny-panel edges"><div class="canny-object"></div><span>Bordes</span></div>
+        </div>`,
+      'command-chain': `
+        <div class="learning-visual pipeline-visual command-visual" role="img" aria-label="Cadena desde un comando hasta el movimiento">
+          ${['Entrada', 'Validar', 'Estado', 'Controlador', 'Actuador'].map((label, index) => `<div class="pipeline-step"><span>${index + 1}</span><strong>${label}</strong>${index < 4 ? icon('arrow', 18) : ''}</div>`).join('')}
+        </div>`,
+      'control-loop': `
+        <div class="learning-visual svg-visual" role="img" aria-label="Diagrama de control en lazo cerrado">
+          <svg viewBox="0 0 680 260">
+            <g class="control-blocks"><rect x="70" y="94" width="120" height="72" rx="14"/><rect x="280" y="94" width="120" height="72" rx="14"/><rect x="490" y="94" width="120" height="72" rx="14"/></g>
+            <g class="visual-labels blocks"><text x="101" y="137">Objetivo</text><text x="304" y="137">Control</text><text x="519" y="137">Robot</text></g>
+            <path class="flow" d="M190 130h90M400 130h90"/><path class="flow feedback" d="M550 166v55H130v-55"/>
+            <path class="arrow-head" d="m269 124 11 6-11 6m210-12 11 6-11 6M141 172l-11-6 11-6"/>
+            <text class="feedback-label" x="299" y="213">MediciÃ³n / realimentaciÃ³n</text>
+          </svg>
+        </div>`,
+      'gait-cycle': `
+        <div class="learning-visual gait-visual" role="img" aria-label="Ciclo de marcha con fase de apoyo y balanceo">
+          <div class="gait-track"><span class="support" style="--size:62%"><strong>Apoyo</strong><small>Contacto y transferencia de peso</small></span><span class="swing" style="--size:38%"><strong>Balanceo</strong><small>La pierna avanza</small></span></div>
+          <div class="gait-steps">${['Contacto', 'Carga', 'Impulso', 'Despegue', 'Avance', 'Nuevo contacto'].map((step, index) => `<span><i>${index + 1}</i>${step}</span>`).join('')}</div>
+        </div>`,
+      lattice: `
+        <div class="learning-visual lattice-visual" role="img" aria-label="ComparaciÃ³n entre una pieza maciza y una estructura lattice">
+          <div><span class="solid-shape"></span><strong>Maciza</strong><small>MÃ¡s material</small></div>
+          <span class="versus">â†’</span>
+          <div><span class="lattice-shape">${Array.from({ length: 20 }, () => '<i></i>').join('')}</span><strong>Lattice</strong><small>Material distribuido</small></div>
+        </div>`,
+      additive: `
+        <div class="learning-visual additive-visual" role="img" aria-label="Proceso de impresiÃ³n 3D por capas">
+          <div class="printer-head"><span></span></div>
+          <div class="extrusion-line"></div>
+          <div class="printed-part">${Array.from({ length: 8 }, (_, index) => `<span style="--i:${index}"></span>`).join('')}</div>
+          <div class="print-bed"></div>
+          <div class="additive-labels"><span>Boquilla</span><span>Material fundido</span><span>Capas</span></div>
+        </div>`
+    };
+    return visuals[type] || '';
+  }
+
+  function wordCount(text) {
+    const trimmed = String(text || '').trim();
+    return trimmed ? trimmed.split(/\s+/).length : 0;
+  }
+
+  function toggleBookmark(moduleId) {
+    const bookmarked = state.bookmarks.includes(moduleId);
+    state.bookmarks = bookmarked ? state.bookmarks.filter((id) => id !== moduleId) : [...state.bookmarks, moduleId];
+    persistState();
+    showToast(bookmarked ? 'Quitado de guardados' : 'MÃ³dulo guardado');
+    rerenderPreserveScroll();
+  }
+
+  function toggleComplete(moduleId) {
+    const complete = state.completed.includes(moduleId);
+    state.completed = complete ? state.completed.filter((id) => id !== moduleId) : [...state.completed, moduleId];
+    persistState();
+    showToast(complete ? 'MÃ³dulo marcado como pendiente' : 'MÃ³dulo completado');
+    rerenderPreserveScroll();
+  }
+
+  function rerenderPreserveScroll() {
+    const y = window.scrollY;
+    const route = routeInfo();
+    if (route.page === 'modulo') renderModule(route.id);
+    else if (route.page === 'examen') renderExam();
+    else if (route.page === 'inicio') renderHome();
+    window.scrollTo(0, y);
+  }
+
+  function openSidebar() {
+    document.body.classList.add('sidebar-open');
+    menuButton.setAttribute('aria-expanded', 'true');
+  }
+
+  function closeSidebar() {
+    document.body.classList.remove('sidebar-open');
+    menuButton.setAttribute('aria-expanded', 'false');
+  }
+
+  function openSearch() {
+    if (!searchDialog.open) searchDialog.showModal();
+    globalSearchInput.value = '';
+    renderSearchResults('');
+    requestAnimationFrame(() => globalSearchInput.focus());
+  }
+
+  function closeSearch() {
+    if (searchDialog.open) searchDialog.close();
+  }
+
+  function searchItems(query) {
+    const term = normalize(query);
+    if (term.length < 2) return [];
+    const results = [];
+
+    content.modules.forEach((module) => {
+      const sectionText = module.sections.flatMap((section) => [section.title, ...(section.paragraphs || []), ...(section.bullets || [])]).join(' ');
+      const conceptText = module.concepts.flatMap((concept) => [concept.term, concept.definition, concept.example]).join(' ');
+      const corpus = normalize(`${module.title} ${module.summary} ${module.kicker} ${sectionText} ${conceptText}`);
+      if (corpus.includes(term)) {
+        const score = normalize(module.title).includes(term) ? 4 : normalize(conceptText).includes(term) ? 3 : 1;
+        results.push({ type: 'MÃ³dulo', title: module.title, snippet: module.summary, href: `#/modulo/${module.id}`, icon: module.icon, score });
+      }
+    });
+
+    content.glossary.forEach((item) => {
+      const corpus = normalize(`${item.term} ${item.definition}`);
+      if (corpus.includes(term)) {
+        const score = normalize(item.term).startsWith(term) ? 5 : normalize(item.term).includes(term) ? 4 : 2;
+        results.push({ type: 'Concepto', title: item.term, snippet: item.definition, href: `#/modulo/${item.module}`, icon: 'glossary', score });
+      }
+    });
+
+    content.examQuestions.forEach((question) => {
+      const corpus = normalize(`${question.title} ${question.prompt} ${question.key} ${question.recommendedTopics.join(' ')}`);
+      if (corpus.includes(term)) {
+        results.push({ type: `Pregunta ${question.number}`, title: question.title, snippet: question.key, href: '#/examen', icon: 'exam', score: 2 });
+      }
+    });
+
+    const seen = new Set();
+    return results
+      .sort((a, b) => b.score - a.score || a.title.localeCompare(b.title, 'es'))
+      .filter((item) => {
+        const key = `${item.type}-${item.title}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      })
+      .slice(0, 14);
+  }
+
+  function renderSearchResults(query) {
+    const results = searchItems(query);
+    if (normalize(query).length < 2) {
+      globalSearchResults.innerHTML = `
+        <div class="search-suggestions">
+          <p>ProbÃ¡ con</p>
+          <div>${['EMG', 'Denavit-Hartenberg', 'cuatro barras', 'FDM', 'ciclo de marcha'].map((term) => `<button type="button" data-search-suggestion="${term}">${term}</button>`).join('')}</div>
+        </div>`;
+      return;
+    }
+    globalSearchResults.innerHTML = results.length
+      ? results.map((result) => `
+          <a href="${result.href}" class="search-result-item" data-close-search>
+            <span class="search-result-icon">${icon(result.icon, 20)}</span>
+            <span><small>${escapeHTML(result.type)}</small><strong>${escapeHTML(result.title)}</strong><p>${escapeHTML(result.snippet)}</p></span>
+            ${icon('arrow', 17)}
+          </a>`).join('')
+      : `<div class="empty-state">${icon('search', 27)}<h3>Sin resultados</h3><p>ProbÃ¡ con un tÃ©rmino mÃ¡s general.</p></div>`;
+  }
+
+  function toggleTheme() {
+    const current = document.documentElement.dataset.theme;
+    const next = current === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    localStorage.setItem(THEME_KEY, next);
+    document.getElementById('theme-icon').textContent = next === 'dark' ? 'â˜€' : 'â—';
+  }
+
+  function showToast(message) {
+    const region = document.getElementById('toast-region');
+    const toast = document.createElement('div');
+    toast.className = 'toast';
+    toast.innerHTML = `${icon('check', 17)}<span>${escapeHTML(message)}</span>`;
+    region.appendChild(toast);
+    requestAnimationFrame(() => toast.classList.add('is-visible'));
+    setTimeout(() => {
+      toast.classList.remove('is-visible');
+      setTimeout(() => toast.remove(), 220);
+    }, 2200);
+  }
+
+  function resetProgress() {
+    const confirmed = window.confirm('Â¿QuerÃ©s borrar progreso, notas, borradores y tarjetas de este dispositivo? Esta acciÃ³n no se puede deshacer.');
+    if (!confirmed) return;
+    state = { ...defaultState };
+    localStorage.removeItem(STORAGE_KEY);
+    ui.flashIndex = 0;
+    ui.flashFlipped = false;
+    renderShellProgress();
+    renderAbout();
+    showToast('Progreso reiniciado');
+  }
+
+  document.addEventListener('click', (event) => {
+    const target = event.target.closest('button, a');
+    if (!target) return;
+
+    if (target.id === 'menu-button' || target.matches('[data-mobile-menu]')) {
+      event.preventDefault();
+      openSidebar();
+      return;
+    }
+    if (target.id === 'sidebar-backdrop') {
+      closeSidebar();
+      return;
+    }
+    if (target.id === 'search-button') {
+      openSearch();
+      return;
+    }
+    if (target.id === 'search-close') {
+      closeSearch();
+      return;
+    }
+    if (target.id === 'theme-button') {
+      toggleTheme();
+      return;
+    }
+    if (target.matches('[data-close-search]')) {
+      closeSearch();
+    }
+    if (target.matches('[data-search-suggestion]')) {
+      const term = target.dataset.searchSuggestion;
+      globalSearchInput.value = term;
+      renderSearchResults(term);
+      globalSearchInput.focus();
+      return;
+    }
+    if (target.matches('[data-home-filter]')) {
+      ui.homeFilter = target.dataset.homeFilter;
+      document.querySelectorAll('[data-home-filter]').forEach((button) => {
+        const active = button.dataset.homeFilter === ui.homeFilter;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active);
+      });
+      const grid = document.getElementById('module-grid');
+      if (grid) grid.innerHTML = renderModuleGrid();
+      return;
+    }
+    if (target.matches('[data-bookmark]')) {
+      event.preventDefault();
+      toggleBookmark(target.dataset.bookmark);
+      return;
+    }
+    if (target.matches('[data-complete]')) {
+      toggleComplete(target.dataset.complete);
+      return;
+    }
+    if (target.matches('[data-start-path]')) {
+      navigate(`#/modulo/${target.dataset.startPath}`);
+      return;
+    }
+    if (target.matches('[data-scroll-to]')) {
+      const element = document.getElementById(target.dataset.scrollTo);
+      if (element) element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      return;
+    }
+    if (target.matches('[data-quiz-id]')) {
+      const id = target.dataset.quizId;
+      const option = Number(target.dataset.option);
+      state.quizAnswers[id] = option;
+      persistState();
+      rerenderPreserveScroll();
+      return;
+    }
+    if (target.matches('[data-exam-select]')) {
+      const moduleId = target.dataset.examSelect;
+      const selected = state.examSelection.includes(moduleId);
+      if (selected) {
+        state.examSelection = state.examSelection.filter((id) => id !== moduleId);
+      } else if (state.examSelection.length < 5) {
+        state.examSelection = [...state.examSelection, moduleId];
+      } else {
+        showToast('Ya elegiste cinco etapas');
+        return;
+      }
+      persistState();
+      rerenderPreserveScroll();
+      return;
+    }
+    if (target.matches('[data-suggest-five]')) {
+      state.examSelection = ['seleccion', 'modelos-matematicos', 'diseno-robotico', 'motorizacion', 'simulacion'];
+      persistState();
+      rerenderPreserveScroll();
+      showToast('SelecciÃ³n recomendada aplicada');
+      return;
+    }
+    if (target.matches('[data-glossary-filter]')) {
+      ui.glossaryFilter = target.dataset.glossaryFilter;
+      document.querySelectorAll('[data-glossary-filter]').forEach((button) => {
+        const active = button.dataset.glossaryFilter === ui.glossaryFilter;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active);
+      });
+      updateGlossaryResults();
+      return;
+    }
+    if (target.matches('[data-flash-filter]')) {
+      ui.flashFilter = target.dataset.flashFilter;
+      ui.flashIndex = 0;
+      ui.flashFlipped = false;
+      document.querySelectorAll('[data-flash-filter]').forEach((button) => {
+        const active = button.dataset.flashFilter === ui.flashFilter;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active);
+      });
+      renderFlashcardPanel();
+      return;
+    }
+    if (target.matches('[data-flip-card]')) {
+      ui.flashFlipped = !ui.flashFlipped;
+      renderFlashcardPanel();
+      return;
+    }
+    if (target.matches('[data-card-next]')) {
+      const cards = filteredFlashcards();
+      ui.flashIndex = (ui.flashIndex + 1) % cards.length;
+      ui.flashFlipped = false;
+      renderFlashcardPanel();
+      return;
+    }
+    if (target.matches('[data-card-prev]')) {
+      const cards = filteredFlashcards();
+      ui.flashIndex = (ui.flashIndex - 1 + cards.length) % cards.length;
+      ui.flashFlipped = false;
+      renderFlashcardPanel();
+      return;
+    }
+    if (target.matches('[data-card-rating]')) {
+      state.flashcards[target.dataset.term] = target.dataset.cardRating;
+      persistState();
+      const cards = filteredFlashcards();
+      if (cards.length) ui.flashIndex = (ui.flashIndex + 1) % cards.length;
+      ui.flashFlipped = false;
+      renderFlashcardPanel();
+      showToast(target.dataset.cardRating === 'known' ? 'Concepto marcado como dominado' : 'Agregado a repaso');
+      return;
+    }
+    if (target.matches('[data-reset-progress]')) {
+      resetProgress();
+      return;
+    }
+    if (target.matches('a[href^="#/"]')) {
+      closeSidebar();
+    }
+  });
+
+  document.addEventListener('input', (event) => {
+    const target = event.target;
+    if (target.id === 'global-search-input') {
+      renderSearchResults(target.value);
+      return;
+    }
+    if (target.id === 'glossary-search-input') {
+      ui.glossaryQuery = target.value;
+      updateGlossaryResults();
+      return;
+    }
+    if (target.matches('[data-note-module]')) {
+      const moduleId = target.dataset.noteModule;
+      state.notes[moduleId] = target.value;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      const count = document.querySelector(`[data-note-count="${moduleId}"]`);
+      if (count) count.textContent = `${wordCount(target.value)} palabras`;
+      return;
+    }
+    if (target.matches('[data-exam-draft]')) {
+      const questionId = target.dataset.examDraft;
+      state.examDrafts[questionId] = target.value;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      const count = document.querySelector(`[data-draft-count="${questionId}"]`);
+      if (count) count.textContent = `${wordCount(target.value)} palabras`;
+    }
+  });
+
+  document.addEventListener('keydown', (event) => {
+    const isShortcut = (event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k';
+    if (isShortcut) {
+      event.preventDefault();
+      openSearch();
+      return;
+    }
+    if (event.key === 'Escape' && document.body.classList.contains('sidebar-open')) {
+      closeSidebar();
+    }
+    if (routeInfo().page === 'tarjetas' && !['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
+      if (event.key === 'ArrowRight') {
+        event.preventDefault();
+        const cards = filteredFlashcards();
+        if (cards.length) {
+          ui.flashIndex = (ui.flashIndex + 1) % cards.length;
+          ui.flashFlipped = false;
+          renderFlashcardPanel();
+        }
+      }
+      if (event.key === 'ArrowLeft') {
+        event.preventDefault();
+        const cards = filteredFlashcards();
+        if (cards.length) {
+          ui.flashIndex = (ui.flashIndex - 1 + cards.length) % cards.length;
+          ui.flashFlipped = false;
+          renderFlashcardPanel();
+        }
+      }
+      if (event.key === ' ') {
+        event.preventDefault();
+        ui.flashFlipped = !ui.flashFlipped;
+        renderFlashcardPanel();
+      }
+    }
+  });
+
+  searchDialog.addEventListener('click', (event) => {
+    if (event.target === searchDialog) closeSearch();
+  });
+
+  window.addEventListener('hashchange', renderRoute);
+
+  function init() {
+    document.getElementById('theme-icon').textContent = document.documentElement.dataset.theme === 'dark' ? 'â˜€' : 'â—';
+    renderShellProgress();
+    if (!location.hash) location.hash = '#/inicio';
+    else renderRoute();
+  }
+
+  init();
+})();

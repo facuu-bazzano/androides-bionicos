@@ -322,4 +322,1814 @@ window.AB_CONTENT = {
       "whyItMatters": "Sin un modelo, el movimiento se ajusta por prueba y error. Con un modelo se puede predecir alcance, suavidad, torque y configuraciones imposibles.",
       "learningGoals": [
         "Diferenciar cinemÃ¡tica y dinÃ¡mica.",
-        "Entender para quÃ© se usa Denavit-Hartenberg.",ÛO9öÚ$z{-®éÜj×$÷&–VçF6œ;6âFR62"À¢$W7W6÷"FR&VB"À¢%&VÆÆVæòòÆGF–6R"À¢%FöÆW&æ6–2’Væ67G&W2 ¢Ð¢ÒÀ¢'&–v‡B#¢°¢'F—FÆR#¢$VfV7F÷2"À¢&—FV×2#¢°¢%&W6—7FVæ6–æ—6÷G,;7–6"À¢%F–V×ò’ÖFW&–Â"À¢%W6ò’&–v–FW¢"À¢$6Æ–FBFVÂVç6Ö&ÆR ¢Ð¢Ð¢Ð¢Ð¢ÒÀ¢&6öæ6WG2#¢°¢°¢'FW&Ò#¢$ÖçVf7GW&F—F—f"À¢&FVf–æ—F–öâ#¢$f'&–66œ;6â÷"–æ6÷'÷&6œ;6â7V6W6—fFRÖFW&–ÂFW6FRVâÖöFVÆòF–v—FÂâ"À¢&W†×ÆR#¢$–×&–Ö—"VæfÆævR6÷"6â ¢ÒÀ¢°¢'FW&Ò#¢$dDÒôddb"À¢&FVf–æ—F–öâ#¢$W‡G'W6œ;6âFRf–ÆÖVçFòFW&Ö÷Ì:7F–6ògVæF–FòG&l:—2FRVæ&÷V–ÆÆâ"À¢&W†×ÆR#¢$f'&–6"Vâ6÷÷'FR&6W'föÖ÷F÷"VâÄòUDrâ ¢ÒÀ¢°¢'FW&Ò#¢%4Ä"À¢&FVf–æ—F–öâ#¢$f÷F÷öÆ–ÖW&—¦6œ;6âFR&W6–æÌ:×V–FÖVF–çFRÇW¢â"À¢&W†×ÆR#¢$–×&–Ö—"Vâö¦òæ–ÖG,;6æ–6ò6öâÇFòFWFÆÆRâ ¢ÒÀ¢°¢'FW&Ò#¢%4Å2"À¢&FVf–æ—F–öâ#¢$gW6œ;6â6VÆV7F—fFRÖFW&–ÂVâöÇfòÖVF–çFRVæW&|:ÖÌ:6W"â"À¢&W†×ÆR#¢%&öGV6—"Væ'F–7VÆ6œ;6â6ö×ÆV¦Vâç–Æöââ ¢ÒÀ¢°¢'FW&Ò#¢%FöÆW&æ6–"À¢&FVf–æ—F–öâ#¢$Ö&vVâF–ÖVç6–öæÂVRW&Ö—FRVR–W¦2&VÆW2Væ6¦Vâ’gVæ6–öæVââ"À¢&W†×ÆR#¢$FV¦"6W&6œ;6âVçG&RVâV¦R’7RÆö¦Ö–VçFòâ ¢ÒÀ¢°¢'FW&Ò#¢$æ—6÷G&÷:Ö"À¢&FVf–æ—F–öâ#¢%&÷–VFBFRVâÖFW&–Âò–W¦VR6Ö&–6V|;¦âÆF—&V66œ;6ââ"À¢&W†×ÆR#¢%Væ–W¦dDÒVVFR&W6—7F—"ÖVæ÷2VçG&R62VRÆòÆ&vòFRVÆÆ2â ¢Ð¢ÒÀ¢'&ö6W72#¢°¢$F—6\;"VÂÖöFVÆò4Bâ"À¢$VÆVv—"&ö6W6òÂÖFW&–Â’÷&–VçF6œ;6ââ"À¢%&W&"62’6÷÷'FW2â"À¢$f'&–6"’÷7G&ö6W6"â"À¢$Vç6Ö&Æ"ÂÖVF—"’6÷'&Vv—"Æ6–wV–VçFRfW'6œ;6ââ ¢ÒÀ¢&Æ–VDW†×ÆR#¢°¢'F—FÆR#¢$V¦V×Æó¢6÷÷'FRFR6W'fò"À¢'FW‡B#¢%6RF—6\;Vâ6÷÷'FRVâ4BÂ6R–×&–ÖRVâdDÒ’6R'VV&VÂVæ67G&Râ6’VÂ6W'fòVçG&FVÖ6–Fò§W7FFòòÆ&VBfÆW†–öæÂ6RÖöF–f–6âFöÆW&æ6–2’W7W6÷&W2çFW2FR–×&–Ö—"÷G&fW'6œ;6ââ ¢ÒÀ¢'V—¢#¢°¢°¢&–B#¢&Ó—"À¢'&ö×B#¢,+õ\:’6&7FW&—¦ÆÖçVf7GW&F—F—fò"À¢&÷F–öç2#¢°¢%&WF—&ÖFW&–ÂW†6ÇW6—fÖVçFR"À¢$w&VvÖFW&–Â&f÷&Ö"Æ–W¦"À¢%6öÆòWF–Æ—¦ÖWFÂ"À¢$æò'FRFRVâÖöFVÆòF–v—FÂ ¢ÒÀ¢&ç7vW"#¢À¢&W‡ÆæF–öâ#¢$Æ–W¦6Rf÷&Ö÷"–æ6÷'÷&6œ;6â7V6W6—fFRÖFW&–ÂÂg&V7VVçFVÖVçFR6÷"6â ¢ÒÀ¢°¢&–B#¢&Ó—""À¢'&ö×B#¢,+õ\:’ÖFW&–ÂFRÆ–ÖVçF6œ;6âWF–Æ—¦dDÒôddbæ÷&ÖÆÖVçFSò"À¢&÷F–öç2#¢°¢$f–ÆÖVçFòFW&Ö÷Ì:7F–6ò"À¢%6\;ÂTÔr"À¢%&W6–æÌ:×V–F;¦æ–6ÖVçFR"À¢%öÇfòÖWL:Æ–6òW†6ÇW6—fÖVçFR ¢ÒÀ¢&ç7vW"#¢À¢&W‡ÆæF–öâ#¢$dDÒôddbgVæFR’FW÷6—FVâf–ÆÖVçFòÌ:7F–6òG&l:—2FRVæ&÷V–ÆÆâ ¢ÒÀ¢°¢&–B#¢&Ó—2"À¢'&ö×B#¢,+õ\:’&ö6W6òG&&¦6öâ&W6–æÌ:×V–Ff÷F÷6Vç6–&ÆSò"À¢&÷F–öç2#¢°¢%4Ä"À¢$Tôr"À¢$6æç’"À¢$FVæf—BÔ†'FVæ&W&r ¢ÒÀ¢&ç7vW"#¢À¢&W‡ÆæF–öâ#¢%4ÄWF–Æ—¦ÇW¢&6öÆ–F–f–6"6VÆV7F—fÖVçFRVæ&W6–æâ ¢Ð¢ÒÀ¢'F¶Vv—2#¢°¢$ÖçVf7GW&F—F—fw&VvÖFW&–ÂFW6FRVâÖöFVÆòF–v—FÂâ"À¢$dDÒôddbW2Æ÷6œ;6âÌ:7F–6Ü:2&ö&&ÆRFVÂW†ÖVââ"À¢%4ÄW6&W6–æ’4Å2W6VâÆV6†òFRöÇfòâ"À¢$÷&–VçF6œ;6â’FöÆW&æ6–26öæF–6–öæâVÂ&W7VÇFFò&VÂâ ¢Ð¢Ð¢ÒÀ¢&vÆ÷76'’#¢°¢°¢'FW&Ò#¢$7GVF÷""À¢&FVf–æ—F–öâ#¢$6ö×öæVçFRVR6öçf–W'FRVæW&|:ÖVâÖ÷f–Ö–VçFòògVW'¦â"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$Æv÷&—FÖòFR6æç’"À¢&FVf–æ—F–öâ#¢$Ü:—FöFòFRf—6œ;6â'F–f–6–Â&FWFV7F"&÷&FW2'F—"FR6Ö&–÷2FR–çFVç6–FBâ"À¢&ÖöGVÆR#¢&&VæF—¦¦RÖWFöÖF–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$×Æ–f–66œ;6â"À¢&FVf–æ—F–öâ#¢$VÖVçFò6öçG&öÆFòFRÆ×Æ—GVBFRVæ6\;ÂWV\;&öFW"&ö6W6&Æâ"À¢&ÖöGVÆR#¢&&–÷6Vç6÷&W2"À¢&W†Ò#¢°¢'2 ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$æG&ö–FR"À¢&FVf–æ—F–öâ#¢%&ö&÷BVR&W&öGV6RF÷FÂò&6–ÆÖVçFRf÷&ÖÂÖ÷f–Ö–VçFòò–çFW&66œ;6â‡VÖæâ"À¢&ÖöGVÆR#¢'6VÆV66–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$æ—6÷G&÷:Ö"À¢&FVf–æ—F–öâ#¢%f&–6œ;6âFR&÷–VFFW26V|;¦âÆF—&V66œ;6ã²&VÆWfçFRVâ–W¦2–×&W62÷"62â"À¢&ÖöGVÆR#¢&ÖçVf7GW&"À¢&W†Ò#¢°¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$æ–ÖG,;6æ–6ò"À¢&FVf–æ—F–öâ#¢$F—7÷6—F—fòÖV6æ—¦FòVR–Ö—FÖ÷f–Ö–VçF÷2ò&–Væ6–FRVâ6W"f—fòâ"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$'FVf7FòFR6\;Â"À¢&FVf–æ—F–öâ#¢$ÇFW&6œ;6âæòFW6VF6W6F÷"Ö÷f–Ö–VçFòÂÖÆ6öæW†œ;6âò–çFW&fW&Væ6–â"À¢&ÖöGVÆR#¢&&–÷6Vç6÷&W2"À¢&W†Ò#¢°¢'2 ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$,:—¦–W""À¢&FVf–æ—F–öâ#¢$7W'f&Ü:—G&–66öçG&öÆF÷"VçF÷2Â;§F–Â&G&–V7F÷&–27VfW2â"À¢&ÖöGVÆR#¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$&–öÖ–Ü:—F–6"À¢&FVf–æ—F–öâ#¢$FF6œ;6âFR&–æ6—–÷2gVæ6–öæÆW2ö'6W'fF÷2VâÆæGW&ÆW¦ÂF—6\;òâ"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$6VçG&òFRÖ6"À¢&FVf–æ—F–öâ#¢%VçFòWV—fÆVçFR&æÆ—¦"F—7G&–'V6œ;6âFRÖ6’WV–Æ–'&–òâ"À¢&ÖöGVÆR#¢'6–×VÆ6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$6–æVÜ:F–6"À¢&FVf–æ—F–öâ#¢$W7GVF–òFR÷6–6–öæW2’Ö÷f–Ö–VçFò6–â6VçG&'6R&–ÖW&òVâÆ2gVW'¦2â"À¢&ÖöGVÆR#¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$6–æVÜ:F–6F—&V7F"À¢&FVf–æ—F–öâ#¢$<:Æ7VÆòFRÆ÷6Rf–æÂ'F—"FRfÆ÷&W2'F–7VÆ&W26öæö6–F÷2â"À¢&ÖöGVÆR#¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$6–æVÜ:F–6–çfW'6"À¢&FVf–æ—F–öâ#¢$<:Æ7VÆòFRfÆ÷&W2'F–7VÆ&W2æV6W6&–÷2&Æ6ç¦"Væ÷6RFW6VFâ"À¢&ÖöGVÆR#¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$6–6ÆòFRÖ&6†"À¢&FVf–æ—F–öâ#¢%6V7VVæ6–VçG&RF÷26öçF7F÷26öç6V7WF—f÷2FVÂÖ—6Öò–RÂ6öâ÷–ò’&Ææ6Vòâ"À¢&ÖöGVÆR#¢'6–×VÆ6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$6öçG&öÂVâÆ¦ò&–W'Fò"À¢&FVf–æ—F–öâ#¢$Æ–6Væ÷&FVâ6–âÖVF—"F—&V7FÖVçFRVÂ&W7VÇFFòâ"À¢&ÖöGVÆR#¢&Ö÷F÷&—¦6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$6öçG&öÂVâÆ¦ò6W'&Fò"À¢&FVf–æ—F–öâ#¢$Ö–FRÆ6Æ–FÂ6Æ7VÆVÂW'&÷"’6÷'&–vRÆ66œ;6ââ"À¢&ÖöGVÆR#¢&Ö÷F÷&—¦6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$FVæf—BÔ†'FVæ&W&r"À¢&FVf–æ—F–öâ#¢$6öçfVæ6œ;6â&FW67&–&—"ÖFVÜ:F–6ÖVçFRW6Æ&öæW2’'F–7VÆ6–öæW26öç6V7WF—f2â"À¢&ÖöGVÆR#¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$F–ì:Ö–6"À¢&FVf–æ—F–öâ#¢$W7GVF–òFVÂÖ÷f–Ö–VçFò6öç6–FW&æFògVW'¦2ÂÖ62Âw&fVFBR–æW&6–â"À¢&ÖöGVÆR#¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$TTr"À¢&FVf–æ—F–öâ#¢$VÆV7G&öVæ6VfÆöw&l:Ö¢&Vv—7G&òFR7F—f–FBVÌ:–7G&–66W&V'&Ââ"À¢&ÖöGVÆR#¢&&–÷6Vç6÷&W2"À¢&W†Ò#¢°¢'2 ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$VÆV7G&öFò"À¢&FVf–æ—F–öâ#¢$VÆVÖVçFò6öæGV7F÷"WF–Æ—¦Fò&6F"F–fW&Væ6–2FR÷FVæ6–ÂFVÂ7VW'òâ"À¢&ÖöGVÆR#¢&&–÷6Vç6÷&W2"À¢&W†Ò#¢°¢'2 ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$TÔr"À¢&FVf–æ—F–öâ#¢$VÆV7G&öÖ–öw&l:Ö¢&Vv—7G&òFR7F—f–FBVÌ:–7G&–6f–æ7VÆF6öâÆ7F—f6œ;6â×W67VÆ"â"À¢&ÖöGVÆR#¢&&–÷6Vç6÷&W2"À¢&W†Ò#¢°¢'2 ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$Væw&æ¦R"À¢&FVf–æ—F–öâ#¢$VÆVÖVçFòFVçFFòVRG&ç6Ö—FRv—&ò’FFfVÆö6–FBòF÷'VRâ"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$Tôr"À¢&FVf–æ—F–öâ#¢$VÆV7G&öö7VÆöw&l:Ö¢&Vv—7G&òFRf&–6–öæW2VÌ:–7G&–62&VÆ6–öæF26öâÖ÷f–Ö–VçFòö7VÆ"â"À¢&ÖöGVÆR#¢&&–÷6Vç6÷&W2"À¢&W†Ò#¢°¢'2 ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$W7FFòFVÂ'FR"À¢&FVf–æ—F–öâ#¢%&Wf—6œ;6âFRÆ26öÇV6–öæW2’6öæö6–Ö–VçF÷2&VÆWfçFW2–W†—7FVçFW2â"À¢&ÖöGVÆR#¢'6VÆV66–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$W7FFò6VwW&ò"À¢&FVf–æ—F–öâ#¢$6öæf–wW&6œ;6âFW7F–æF&VGV6—"&–W6vò7VæFòö7W'&RVâW'&÷"ò–æ6W'F–GVÖ'&Râ"À¢&ÖöGVÆR#¢&Ö÷F÷&—¦6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$dDÒôddb"À¢&FVf–æ—F–öâ#¢%&ö6W6òFR–×&W6œ;6âVRgVæFR’FW÷6—Ff–ÆÖVçFòFW&Ö÷Ì:7F–6ò÷"62â"À¢&ÖöGVÆR#¢&ÖçVf7GW&"À¢&W†Ò#¢°¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$f–ÇG&Fò"À¢&FVf–æ—F–öâ#¢%&ö6W6Ö–VçFòFW7F–æFò&VGV6—"6ö×öæVçFW2æòFW6VF÷2FRVæ6\;Ââ"À¢&ÖöGVÆR#¢&&–÷6Vç6÷&W2"À¢&W†Ò#¢°¢'2 ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$w&FòFRÆ–&W'FB"À¢&FVf–æ—F–öâ#¢$Ö÷f–Ö–VçFò–æFWVæF–VçFRVRVVFRF÷F"Væ'F–7VÆ6œ;6âòÖV6æ—6Öòâ"À¢&ÖöGVÆR#¢'6VÆV66–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$–æfW&Væ6–"À¢&FVf–æ—F–öâ#¢%W6òFRVâÖöFVÆòVçG&VæFò&&VFV6—"6ö'&RFF÷2çVWf÷2â"À¢&ÖöGVÆR#¢&&VæF—¦¦RÖWFöÖF–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$ÆGF–6R"À¢&FVf–æ—F–öâ#¢$'V—FV7GW&&WF–7VÆ"–çFW&æVRF—7G&–'W–RÖFW&–Â’&÷–VFFW2â"À¢&ÖöGVÆR#¢&÷F–Ö—¦6–öâ"À¢&W†Ò#¢°¢'""À¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$Æ”D""À¢&FVf–æ—F–öâ#¢%FV6æöÆö|:ÖVRW7F–ÖF—7Fæ6–2ÖVF–çFRVÇ6÷2FRÇW¢&W&6–&—"VÂVçF÷&æòâ"À¢&ÖöGVÆR#¢'6–×VÆ6–öâ"À¢&W†Ò#¢µÐ¢ÒÀ¢°¢'FW&Ò#¢$ÖçVf7GW&F—F—f"À¢&FVf–æ—F–öâ#¢$f'&–66œ;6âÖVF–çFR–æ6÷'÷&6œ;6â7V6W6—fFRÖFW&–ÂFW6FRVâÖöFVÆòF–v—FÂâ"À¢&ÖöGVÆR#¢&ÖçVf7GW&"À¢&W†Ò#¢°¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$Ü:V–æFRW7FF÷2"À¢&FVf–æ—F–öâ#¢$ÖöFVÆòVR÷&væ—¦VÂ6ö×÷'FÖ–VçFòVâW7FF÷2’G&ç6–6–öæW2FVf–æ–F2â"À¢&ÖöGVÆR#¢&Ö÷F÷&—¦6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$ÖV6æ—6ÖòFR7VG&ò&'&2"À¢&FVf–æ—F–öâ#¢$6FVæ6W'&FFR7VG&òVÆVÖVçF÷2'F–7VÆF÷2VRG&ç6f÷&ÖÖ÷f–Ö–VçFòâ"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$ÖV6æ—6ÖòFR&WF÷&æò,:–Fò"À¢&FVf–æ—F–öâ#¢$ÖV6æ—6Öò6öâ6'&W&2÷VW7F2FRF—7F–çFGW&6œ;6ââ"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢$÷F–Ö—¦6œ;6â"À¢&FVf–æ—F–öâ#¢$,;§7VVFFRVæÖV¦÷"6öÇV6œ;6â6V|;¦âVâö&¦WF—fò’&W7G&–66–öæW2â"À¢&ÖöGVÆR#¢&÷F–Ö—¦6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%&÷F÷F—ò"À¢&FVf–æ—F–öâ#¢%fW'6œ;6âFR'VV&WF–Æ—¦F&&VæFW"ÂfÆ–F"’6÷'&Vv—"çFW2FRÆ6öÇV6œ;6âf–æÂâ"À¢&ÖöGVÆR#¢&ÖçVf7GW&"À¢&W†Ò#¢°¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%&VÆ–ÖVçF6œ;6â"À¢&FVf–æ—F–öâ#¢$–æf÷&Ö6œ;6â6ö'&RÆ6Æ–F&VÂVRgVVÇfRÂ6öçG&öÆF÷"â"À¢&ÖöGVÆR#¢&Ö÷F÷&—¦6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%&VBæWW&öæÂ"À¢&FVf–æ—F–öâ#¢$ÖöFVÆòFR626öæV7FF27W–÷2,:ÖWG&÷26R§W7FâGW&çFRVÂVçG&VæÖ–VçFòâ"À¢&ÖöGVÆR#¢&&VæF—¦¦RÖWFöÖF–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%&–v–FW¢"À¢&FVf–æ—F–öâ#¢%&W6—7FVæ6–FRVæW7G'V7GW&FVf÷&Ö'6R&¦ò6&vâ"À¢&ÖöGVÆR#¢&÷F–Ö—¦6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%4Ä"À¢&FVf–æ—F–öâ#¢%&ö6W6òVR6öÆ–F–f–66VÆV7F—fÖVçFRVæ&W6–æÌ:×V–Ff÷F÷6Vç6–&ÆRâ"À¢&ÖöGVÆR#¢&ÖçVf7GW&"À¢&W†Ò#¢°¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%4Å2"À¢&FVf–æ—F–öâ#¢%&ö6W6òVRgW6–öæ6VÆV7F—fÖVçFRÖFW&–ÂVâöÇfòÖVF–çFRVæW&|:ÖÌ:6W"â"À¢&ÖöGVÆR#¢&ÖçVf7GW&"À¢&W†Ò#¢°¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%6W'föÖ÷F÷""À¢&FVf–æ—F–öâ#¢$7GVF÷"6öâ6öçG&öÂFR÷6–6œ;6âÖVF–çFR&VÆ–ÖVçF6œ;6â–çFW&æâ"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%6–×VÆ6œ;6âF–ì:Ö–6"À¢&FVf–æ—F–öâ#¢$ÖöFVÆòf—'GVÂVR–æ6÷'÷&Ö62ÂgVW'¦2Âw&fVFBR–æW&6–â"À¢&ÖöGVÆR#¢'6–×VÆ6–öâ"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%7V&7GV6œ;6â"À¢&FVf–æ—F–öâ#¢%W6òFRÖVæ÷27GVF÷&W2VRw&F÷2FRÆ–&W'FBÂ6ö÷&F–æF÷2÷"ÆÖV<:æ–6â"À¢&ÖöGVÆR#¢&F—6Væò×&ö&÷F–6ò"À¢&W†Ò#¢°¢'" ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%FöÆW&æ6–"À¢&FVf–æ—F–öâ#¢$Ö&vVâF–ÖVç6–öæÂæV6W6&–ò&VRÆ2–W¦2&VÆW2Væ6¦Vâ’gVæ6–öæVââ"À¢&ÖöGVÆR#¢&ÖçVf7GW&"À¢&W†Ò#¢°¢'B ¢Ð¢ÒÀ¢°¢'FW&Ò#¢%F÷'VR"À¢&FVf–æ—F–öâ#¢$VfV7Fò&÷F6–öæÂFRVægVW'¦Ç&VFVF÷"FRVâV¦Râ"À¢&ÖöGVÆR#¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&W†Ò#¢°¢'" ¢Ð¢Ð¢ÒÀ¢'7GVG•F‡2#¢°¢°¢&–B#¢&W†ÒÖf7B"À¢'F—FÆR#¢%'WF,:–F&VÂW†ÖVâ"À¢&FW67&—F–öâ#¢%&–÷&—¦Æ÷2FVÖ26öâ&VÆ6œ;6âF—&V7FÆ26öç6–væ2â"À¢&ÖöGVÆW2#¢°¢&F—6Væò×&ö&÷F–6ò"À¢&&–÷6Vç6÷&W2"À¢&ÖçVf7GW&"À¢'6VÆV66–öâ"À¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2 ¢ÒÀ¢&W7F–ÖFVDÖ–çWFW2#¢P¢ÒÀ¢°¢&–B#¢&6ö×ÆWFR"À¢'F—FÆR#¢%'WF6ö×ÆWFFVÂæG&ö–FR"À¢&FW67&—F–öâ#¢%&V6÷'&RVÂ&ö6W6òFW6FRÆFVf–æ–6œ;6â†7FÆf'&–66œ;6ââ"À¢&ÖöGVÆW2#¢°¢'6VÆV66–öâ"À¢&ÖöFVÆ÷2ÖÖFVÖF–6÷2"À¢&F—6Væò×&ö&÷F–6ò"À¢&&–÷6Vç6÷&W2"À¢&&VæF—¦¦RÖWFöÖF–6ò"À¢&Ö÷F÷&—¦6–öâ"À¢'6–×VÆ6–öâ"À¢&÷F–Ö—¦6–öâ"À¢&ÖçVf7GW& ¢ÒÀ¢&W7F–ÖFVDÖ–çWFW2#¢ƒP¢ÒÀ¢°¢&–B#¢'6–væÇ2"À¢'F—FÆR#¢%'WFFR6\;ÆW2’6öçG&öÂ"À¢&FW67&—F–öâ#¢$Væfö6FVâ&–÷6Vç6÷&W2Â6Æ6–f–66œ;6â’Ö÷F÷&—¦6œ;6ââ"À¢&ÖöGVÆW2#¢°¢&&–÷6Vç6÷&W2"À¢&&VæF—¦¦RÖWFöÖF–6ò"À¢&Ö÷F÷&—¦6–öâ ¢ÒÀ¢&W7F–ÖFVDÖ–çWFW2#¢c@¢Ð¢Ð§Ó°
+        "Entender para quÃ© se usa Denavit-Hartenberg.",
+        "Distinguir cinemÃ¡tica directa e inversa.",
+        "Relacionar curvas de BÃ©zier con trayectorias suaves."
+      ],
+      "sections": [
+        {
+          "title": "CinemÃ¡tica y dinÃ¡mica",
+          "paragraphs": [
+            "La cinemÃ¡tica estudia posiciones, orientaciones, velocidades y aceleraciones sin concentrarse primero en las fuerzas que producen el movimiento. La dinÃ¡mica incorpora masas, gravedad, inercia, fuerzas y torque.",
+            "Un modelo cinemÃ¡tico puede indicar dÃ³nde quedarÃ¡ la mano segÃºn los Ã¡ngulos del hombro y el codo. Un modelo dinÃ¡mico ayuda a saber si los motores tienen fuerza suficiente para moverla sosteniendo una carga."
+          ],
+          "comparison": {
+            "left": {
+              "title": "CinemÃ¡tica",
+              "items": [
+                "PosiciÃ³n y orientaciÃ³n",
+                "Ãngulos y desplazamientos",
+                "Velocidad y aceleraciÃ³n",
+                "Alcance del mecanismo"
+              ]
+            },
+            "right": {
+              "title": "DinÃ¡mica",
+              "items": [
+                "Masa e inercia",
+                "Gravedad y fuerzas",
+                "Torque requerido",
+                "Respuesta ante cargas"
+              ]
+            }
+          }
+        },
+        {
+          "title": "ConvenciÃ³n de Denavit-Hartenberg",
+          "paragraphs": [
+            "Denavit-Hartenberg es una forma sistemÃ¡tica de describir una cadena robÃ³tica colocando sistemas de coordenadas en articulaciones y eslabones consecutivos. Cada relaciÃ³n se expresa mediante distancias y rotaciones.",
+            "Al encadenar esas transformaciones se calcula la posiciÃ³n y orientaciÃ³n de la parte final, por ejemplo una mano, con respecto a la base del robot. Para una respuesta descriptiva no es necesario desarrollar las matrices; sÃ­ explicar quÃ© problema resuelven."
+          ],
+          "visual": "dh-chain",
+          "callout": {
+            "title": "Idea esencial",
+            "text": "Denavit-Hartenberg convierte una cadena fÃ­sica de eslabones y articulaciones en una representaciÃ³n matemÃ¡tica ordenada."
+          }
+        },
+        {
+          "title": "CinemÃ¡tica directa e inversa",
+          "paragraphs": [
+            "La cinemÃ¡tica directa parte de los valores de las articulaciones y calcula la posiciÃ³n final. La inversa parte de una posiciÃ³n deseada y busca quÃ© valores articulares permiten alcanzarla.",
+            "La cinemÃ¡tica inversa puede tener varias soluciones, ninguna soluciÃ³n o soluciones que violan lÃ­mites fÃ­sicos. Un brazo podrÃ­a alcanzar el mismo punto con el codo hacia arriba o hacia abajo, pero una de esas configuraciones quizÃ¡ choque con el cuerpo."
+          ],
+          "comparison": {
+            "left": {
+              "title": "Directa",
+              "items": [
+                "Entrada: Ã¡ngulos articulares",
+                "Salida: posiciÃ³n final",
+                "Pregunta: Â¿dÃ³nde queda la mano?"
+              ]
+            },
+            "right": {
+              "title": "Inversa",
+              "items": [
+                "Entrada: destino deseado",
+                "Salida: Ã¡ngulos necesarios",
+                "Pregunta: Â¿cÃ³mo llego a la taza?"
+              ]
+            }
+          }
+        },
+        {
+          "title": "Curvas y polinomios de BÃ©zier",
+          "paragraphs": [
+            "Una curva de BÃ©zier se controla mediante puntos que definen la forma del recorrido. En robÃ³tica puede representar la trayectoria que seguirÃ¡ una mano, un pie o un dron.",
+            "En lugar de saltar entre posiciones, el sistema interpola un recorrido continuo. Esto ayuda a evitar cambios bruscos, rodear obstÃ¡culos y controlar la aproximaciÃ³n al destino."
+          ],
+          "visual": "bezier",
+          "bullets": [
+            "Movimiento visualmente mÃ¡s natural.",
+            "Continuidad en posiciÃ³n y, segÃºn el diseÃ±o, en velocidad.",
+            "Control intuitivo mediante puntos intermedios.",
+            "Posibilidad de optimizar la forma de la trayectoria."
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "CinemÃ¡tica",
+          "definition": "Estudio geomÃ©trico del movimiento sin centrarse inicialmente en las fuerzas que lo causan.",
+          "example": "Calcular el alcance de una mano robÃ³tica."
+        },
+        {
+          "term": "DinÃ¡mica",
+          "definition": "Estudio del movimiento considerando masas, fuerzas, gravedad e inercia.",
+          "example": "Estimar el torque requerido en el hombro."
+        },
+        {
+          "term": "Denavit-Hartenberg",
+          "definition": "ConvenciÃ³n para relacionar matemÃ¡ticamente eslabones y articulaciones mediante transformaciones coordinadas.",
+          "example": "Obtener la posiciÃ³n de la muÃ±eca respecto a la base del torso."
+        },
+        {
+          "term": "Curva de BÃ©zier",
+          "definition": "Curva paramÃ©trica gobernada por puntos de control, Ãºtil para diseÃ±ar recorridos suaves.",
+          "example": "Guiar la mano por encima de un obstÃ¡culo."
+        },
+        {
+          "term": "Torque",
+          "definition": "Efecto rotacional de una fuerza alrededor de un eje.",
+          "example": "El motor del codo necesita torque suficiente para levantar el antebrazo y la carga."
+        }
+      ],
+      "process": [
+        "Representar eslabones y articulaciones.",
+        "Definir sistemas de referencia y lÃ­mites.",
+        "Resolver posiciÃ³n mediante cinemÃ¡tica directa o inversa.",
+        "DiseÃ±ar una trayectoria suave.",
+        "Incorporar cargas y torque para validar la dinÃ¡mica."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: alcanzar una taza",
+        "text": "La cinemÃ¡tica inversa calcula los Ã¡ngulos del hombro, codo y muÃ±eca para llegar a la taza. Una trayectoria de BÃ©zier puede elevar primero la mano y aproximarla sin golpear objetos intermedios."
+      },
+      "quiz": [
+        {
+          "id": "m2q1",
+          "prompt": "Â¿QuÃ© calcula la cinemÃ¡tica directa?",
+          "options": [
+            "La posiciÃ³n final a partir de valores articulares",
+            "El material de una pieza",
+            "La actividad muscular",
+            "La imagen de un contorno"
+          ],
+          "answer": 0,
+          "explanation": "La directa toma la configuraciÃ³n conocida del robot y calcula la pose resultante."
+        },
+        {
+          "id": "m2q2",
+          "prompt": "Â¿Para quÃ© sirve principalmente Denavit-Hartenberg?",
+          "options": [
+            "Imprimir piezas en resina",
+            "Describir relaciones entre eslabones y articulaciones",
+            "Filtrar una seÃ±al EMG",
+            "Detectar bordes de una imagen"
+          ],
+          "answer": 1,
+          "explanation": "La convenciÃ³n organiza la geometrÃ­a de una cadena articulada mediante transformaciones."
+        },
+        {
+          "id": "m2q3",
+          "prompt": "Una trayectoria de BÃ©zier resulta Ãºtil cuando se buscaâ€¦",
+          "options": [
+            "Un cambio instantÃ¡neo de posiciÃ³n",
+            "Un recorrido suave y controlable",
+            "Una pieza completamente maciza",
+            "Eliminar todos los sensores"
+          ],
+          "answer": 1,
+          "explanation": "Los puntos de control permiten construir recorridos continuos y ajustar su forma."
+        }
+      ],
+      "takeaways": [
+        "La cinemÃ¡tica describe el movimiento; la dinÃ¡mica agrega fuerzas y masas.",
+        "Denavit-Hartenberg ordena matemÃ¡ticamente una cadena articulada.",
+        "La directa calcula dÃ³nde llega; la inversa calcula cÃ³mo llegar.",
+        "BÃ©zier permite planificar trayectorias suaves y modificables."
+      ]
+    },
+    {
+      "id": "diseno-robotico",
+      "order": 3,
+      "title": "DiseÃ±o robÃ³tico, manos y animatrÃ³nicos",
+      "shortTitle": "DiseÃ±o robÃ³tico",
+      "kicker": "Convertir el movimiento en mecanismos reales",
+      "icon": "hand",
+      "duration": 24,
+      "difficulty": "Intermedio",
+      "confidence": "directo",
+      "exam": [
+        "q2"
+      ],
+      "summary": "Esta etapa define la estructura fÃ­sica: falanges, articulaciones, transmisiones, engranajes, servomotores y mecanismos que convierten la energÃ­a en movimiento Ãºtil.",
+      "whyItMatters": "El software puede ordenar un movimiento, pero la geometrÃ­a y la transmisiÃ³n determinan quÃ© movimiento es fÃ­sicamente posible, con quÃ© fuerza y con quÃ© precisiÃ³n.",
+      "learningGoals": [
+        "Comprender cÃ³mo se simplifica una mano humana en un mecanismo robÃ³tico.",
+        "Explicar el funcionamiento general de un mecanismo de cuatro barras.",
+        "Relacionar engranajes y servomotores con torque y posiciÃ³n.",
+        "Diferenciar un animatrÃ³nico de un androide autÃ³nomo."
+      ],
+      "sections": [
+        {
+          "title": "De la anatomÃ­a al mecanismo",
+          "paragraphs": [
+            "La mano humana integra huesos, articulaciones, mÃºsculos, tendones, ligamentos y receptores sensoriales. Una mano robÃ³tica no suele copiar cada componente; abstrae la funciÃ³n y la resuelve con piezas fabricables.",
+            "Las falanges se convierten en cuerpos rÃ­gidos, las articulaciones en pasadores o bisagras, los mÃºsculos en actuadores y los tendones en cables. El retorno puede resolverse con elÃ¡sticos, resortes o actuadores antagonistas."
+          ],
+          "bullets": [
+            "Falanges y articulaciones definen la geometrÃ­a.",
+            "Cables o bielas transmiten el movimiento.",
+            "Actuadores aportan energÃ­a.",
+            "Sensores informan posiciÃ³n, contacto o fuerza.",
+            "Topes mecÃ¡nicos protegen el rango de movimiento."
+          ],
+          "visual": "robotic-hand"
+        },
+        {
+          "title": "ActuaciÃ³n completa y subactuaciÃ³n",
+          "paragraphs": [
+            "En un sistema totalmente actuado, cada movimiento relevante dispone de un actuador independiente. En uno subactuado, hay menos actuadores que movimientos y la mecÃ¡nica distribuye el esfuerzo entre varias articulaciones.",
+            "La subactuaciÃ³n reduce peso, costo y controladores. A cambio, limita el control individual. En una mano puede permitir que un Ãºnico motor cierre varias falanges y que los dedos se adapten al objeto."
+          ],
+          "comparison": {
+            "left": {
+              "title": "Totalmente actuado",
+              "items": [
+                "Control individual mayor",
+                "MÃ¡s motores y cableado",
+                "Mayor peso y consumo",
+                "ProgramaciÃ³n mÃ¡s compleja"
+              ]
+            },
+            "right": {
+              "title": "Subactuado",
+              "items": [
+                "Menos actuadores",
+                "AdaptaciÃ³n mecÃ¡nica al objeto",
+                "Menor control independiente",
+                "DiseÃ±o mecÃ¡nico mÃ¡s determinante"
+              ]
+            }
+          }
+        },
+        {
+          "title": "Mecanismo de cuatro barras",
+          "paragraphs": [
+            "EstÃ¡ formado por cuatro elementos rÃ­gidos unidos en un lazo cerrado. Una barra permanece fija, otra recibe el movimiento y las restantes transmiten una trayectoria determinada por la geometrÃ­a.",
+            "Puede convertir una rotaciÃ³n en oscilaciÃ³n, coordinar articulaciones o mantener una orientaciÃ³n. En dedos y mandÃ­bulas, permite obtener movimientos coordinados con pocos actuadores."
+          ],
+          "visual": "four-bar",
+          "callout": {
+            "title": "La geometrÃ­a tambiÃ©n controla",
+            "text": "Un mecanismo bien diseÃ±ado produce parte del comportamiento por su forma fÃ­sica, reduciendo lo que debe resolver el software."
+          }
+        },
+        {
+          "title": "Engranajes y servomotores",
+          "paragraphs": [
+            "Los engranajes transmiten rotaciÃ³n y modifican la relaciÃ³n entre velocidad y torque. Una reducciÃ³n suele disminuir la velocidad de salida y aumentar el torque disponible.",
+            "Un servomotor integra motor, reducciÃ³n, sensor de posiciÃ³n y control. Recibe una posiciÃ³n deseada e intenta llevar su eje hasta ella, por eso es frecuente en ojos, mandÃ­bulas, dedos y pequeÃ±as articulaciones."
+          ],
+          "bullets": [
+            "MÃ¡s reducciÃ³n: normalmente mÃ¡s torque y menos velocidad.",
+            "La holgura de engranajes reduce precisiÃ³n.",
+            "El servo necesita lÃ­mites para no forzar la articulaciÃ³n.",
+            "La carga real determina si el servo seleccionado es suficiente."
+          ]
+        },
+        {
+          "title": "Retorno rÃ¡pido, animatrÃ³nicos y biomimÃ©tica",
+          "paragraphs": [
+            "Un mecanismo de retorno rÃ¡pido produce dos recorridos opuestos con tiempos distintos: una carrera de trabajo controlada y un regreso mÃ¡s veloz. Es un ejemplo de cÃ³mo la geometrÃ­a modifica la velocidad sin cambiar continuamente el motor.",
+            "Un animatrÃ³nico reproduce movimientos o apariencia de un ser vivo, como ojos, pÃ¡rpados, mandÃ­bula o cuello. Puede seguir secuencias preprogramadas sin ser autÃ³nomo.",
+            "La biomimÃ©tica estudia principios de la naturaleza y los adapta. No exige copiar literalmente un dedo o un hueso; busca entender quÃ© funciÃ³n resuelve su estructura y traducirla a materiales y mecanismos disponibles."
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Mecanismo de cuatro barras",
+          "definition": "Cadena cerrada de cuatro elementos articulados que transforma o coordina movimiento.",
+          "example": "Coordinar dos falanges de un dedo con un Ãºnico accionamiento."
+        },
+        {
+          "term": "Servomotor",
+          "definition": "Actuador con control de posiciÃ³n integrado mediante realimentaciÃ³n interna.",
+          "example": "Orientar el ojo de un animatrÃ³nico a un Ã¡ngulo concreto."
+        },
+        {
+          "term": "SubactuaciÃ³n",
+          "definition": "ConfiguraciÃ³n con menos actuadores que grados de libertad controlados por la mecÃ¡nica.",
+          "example": "Un motor cierra varias articulaciones de un dedo mediante un cable."
+        },
+        {
+          "term": "BiomimÃ©tica",
+          "definition": "DiseÃ±o inspirado en principios funcionales observados en sistemas biolÃ³gicos.",
+          "example": "Usar una estructura interna ligera inspirada en hueso trabecular."
+        },
+        {
+          "term": "AnimatrÃ³nico",
+          "definition": "Dispositivo mecanizado que reproduce apariencia o movimiento de un ser vivo, a menudo mediante secuencias programadas.",
+          "example": "Un rostro que mueve ojos y mandÃ­bula sincronizado con audio."
+        }
+      ],
+      "process": [
+        "Descomponer la funciÃ³n en movimientos.",
+        "Definir eslabones, articulaciones y topes.",
+        "Elegir mecanismo y transmisiÃ³n.",
+        "Dimensionar actuadores segÃºn carga y velocidad.",
+        "Prototipar, medir holguras y ajustar."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: dedo subactuado",
+        "text": "Un servomotor tira de un cable. El cable flexiona las falanges conectadas por articulaciones y elÃ¡sticos. Al tocar un objeto, cada falange puede adaptarse ligeramente a su forma sin disponer de un motor propio."
+      },
+      "quiz": [
+        {
+          "id": "m3q1",
+          "prompt": "Â¿QuÃ© ventaja ofrece un sistema subactuado?",
+          "options": [
+            "Control individual absoluto de cada articulaciÃ³n",
+            "Menos actuadores y menor peso",
+            "EliminaciÃ³n de todo mecanismo",
+            "Mayor consumo por definiciÃ³n"
+          ],
+          "answer": 1,
+          "explanation": "La subactuaciÃ³n reduce actuadores y aprovecha la mecÃ¡nica para coordinar movimientos."
+        },
+        {
+          "id": "m3q2",
+          "prompt": "Â¿QuÃ© funciÃ³n cumplen los engranajes en un androide?",
+          "options": [
+            "Detectar actividad cerebral",
+            "Transmitir giro y modificar velocidad/torque",
+            "Generar una imagen de profundidad",
+            "Curar una resina"
+          ],
+          "answer": 1,
+          "explanation": "Los trenes de engranajes adaptan la salida del motor a las necesidades del mecanismo."
+        },
+        {
+          "id": "m3q3",
+          "prompt": "Â¿QuÃ© caracteriza a un animatrÃ³nico?",
+          "options": [
+            "Debe tomar decisiones autÃ³nomas complejas",
+            "Reproduce movimientos o apariencia de un ser vivo",
+            "Solo puede fabricarse en metal",
+            "No utiliza motores"
+          ],
+          "answer": 1,
+          "explanation": "Puede ser visualmente convincente aunque ejecute secuencias predefinidas y no sea autÃ³nomo."
+        }
+      ],
+      "takeaways": [
+        "La estructura fÃ­sica condiciona el comportamiento del robot.",
+        "Cuatro barras y engranajes transforman o coordinan movimiento.",
+        "Un servo controla posiciÃ³n, pero debe dimensionarse para la carga.",
+        "La biomimÃ©tica adapta principios naturales, no copias literales."
+      ]
+    },
+    {
+      "id": "biosensores",
+      "order": 4,
+      "title": "Biosensores e interfaces bioelÃ©ctricas",
+      "shortTitle": "Biosensores",
+      "kicker": "Convertir seÃ±ales del cuerpo en comandos",
+      "icon": "pulse",
+      "duration": 23,
+      "difficulty": "Intermedio",
+      "confidence": "directo",
+      "exam": [
+        "q2",
+        "q3"
+      ],
+      "summary": "Los sistemas bioelÃ©ctricos registran seÃ±ales del cuerpo, las acondicionan y las interpretan para controlar una prÃ³tesis, una mano robÃ³tica, un animatrÃ³nico o una interfaz.",
+      "whyItMatters": "Una seÃ±al biolÃ³gica no es una orden lista para usar. Es dÃ©bil, variable y sensible al ruido; requiere electrodos, amplificaciÃ³n, filtrado, calibraciÃ³n y una regla de interpretaciÃ³n.",
+      "learningGoals": [
+        "Comprender el recorrido desde la seÃ±al corporal hasta el actuador.",
+        "Explicar quÃ© registra un sistema EMG.",
+        "Explicar quÃ© registra un sistema EOG.",
+        "Distinguir EMG, EOG y EEG."
+      ],
+      "sections": [
+        {
+          "title": "Cadena de adquisiciÃ³n bioelÃ©ctrica",
+          "paragraphs": [
+            "Las seÃ±ales bioelÃ©ctricas tienen amplitud baja y se mezclan con interferencias del entorno, movimiento de electrodos y actividad de otros tejidos. Por eso deben pasar por una cadena de acondicionamiento.",
+            "El sistema registra la seÃ±al, la amplifica, elimina parte del ruido, la digitaliza y extrae una caracterÃ­stica. ReciÃ©n despuÃ©s puede aplicar un umbral o un clasificador para generar un comando."
+          ],
+          "visual": "signal-pipeline",
+          "bullets": [
+            "Electrodos: captan diferencias de potencial.",
+            "AmplificaciÃ³n: eleva una seÃ±al pequeÃ±a.",
+            "Filtrado: reduce interferencias no deseadas.",
+            "ConversiÃ³n digital: permite procesarla por software.",
+            "InterpretaciÃ³n: transforma patrÃ³n en intenciÃ³n o comando."
+          ]
+        },
+        {
+          "title": "EMG: seÃ±al muscular",
+          "paragraphs": [
+            "La electromiografÃ­a registra actividad elÃ©ctrica asociada con la activaciÃ³n muscular. En EMG superficial se colocan electrodos sobre la piel, prÃ³ximos al mÃºsculo de interÃ©s.",
+            "Una aplicaciÃ³n bÃ¡sica compara reposo y contracciÃ³n. Si la seÃ±al procesada supera un umbral, puede ordenarse el cierre de una mano robÃ³tica. Sistemas mÃ¡s avanzados clasifican varios gestos a partir de patrones."
+          ],
+          "callout": {
+            "title": "Pista del examen",
+            "text": "El sensor que Â«usa la seÃ±al muscularÂ» corresponde al EMG o sensor mioelÃ©ctrico."
+          },
+          "bullets": [
+            "Requiere calibraciÃ³n para cada persona y colocaciÃ³n.",
+            "El movimiento del cable o electrodo puede introducir artefactos.",
+            "La amplitud no equivale automÃ¡ticamente a fuerza exacta.",
+            "Puede controlar prÃ³tesis, manos o exoesqueletos."
+          ]
+        },
+        {
+          "title": "EOG: movimiento ocular",
+          "paragraphs": [
+            "La electrooculografÃ­a aprovecha la diferencia de potencial entre la regiÃ³n anterior y posterior del ojo. Al girar el ojo cambia la seÃ±al registrada por electrodos colocados alrededor de Ã©l.",
+            "Con una disposiciÃ³n adecuada se distinguen movimientos horizontales, verticales y ciertos parpadeos. Esas variaciones pueden controlar ojos animatrÃ³nicos, un cursor o una interfaz asistiva."
+          ],
+          "bullets": [
+            "Mirada izquierda/derecha mediante canal horizontal.",
+            "Mirada arriba/abajo mediante canal vertical.",
+            "Parpadeos como eventos detectables.",
+            "Necesidad de filtrar deriva y movimientos involuntarios."
+          ]
+        },
+        {
+          "title": "EMG, EOG y EEG no son lo mismo",
+          "paragraphs": [
+            "Tus apuntes mencionan los tres. Es importante diferenciarlos por el origen de la seÃ±al y por el tipo de interfaz que permiten construir.",
+            "En el examen, EMG es seguro por la pista. EOG es el segundo mÃ¡s probable por el contenido anotado sobre control ocular. EEG sigue siendo una posibilidad mencionada, pero corresponde a actividad cerebral."
+          ],
+          "comparison": {
+            "left": {
+              "title": "SeÃ±ales perifÃ©ricas",
+              "items": [
+                "EMG: actividad muscular",
+                "EOG: movimiento ocular",
+                "Electrodos cercanos al tejido objetivo"
+              ]
+            },
+            "right": {
+              "title": "SeÃ±al cerebral",
+              "items": [
+                "EEG: actividad elÃ©ctrica cerebral",
+                "Electrodos sobre cuero cabelludo",
+                "Interfaz cerebro-computadora"
+              ]
+            }
+          }
+        },
+        {
+          "title": "Calidad de seÃ±al y calibraciÃ³n",
+          "paragraphs": [
+            "La misma contracciÃ³n no produce exactamente el mismo registro en todas las personas ni en todas las sesiones. La ubicaciÃ³n del electrodo, la piel, la fatiga y el movimiento cambian la seÃ±al.",
+            "Calibrar significa registrar referencias del usuario y ajustar umbrales o modelos. Un sistema fiable tambiÃ©n detecta pÃ©rdida de contacto y evita activar motores cuando la seÃ±al es ambigua."
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "EMG",
+          "definition": "ElectromiografÃ­a: registro de actividad elÃ©ctrica asociada con la activaciÃ³n muscular.",
+          "example": "Contraer el antebrazo para cerrar una mano robÃ³tica."
+        },
+        {
+          "term": "EOG",
+          "definition": "ElectrooculografÃ­a: registro de variaciones elÃ©ctricas relacionadas con el movimiento ocular.",
+          "example": "Mirar a la derecha para orientar un ojo animatrÃ³nico."
+        },
+        {
+          "term": "EEG",
+          "definition": "ElectroencefalografÃ­a: registro de actividad elÃ©ctrica cerebral desde el cuero cabelludo.",
+          "example": "Detectar patrones utilizados por una interfaz cerebro-computadora."
+        },
+        {
+          "term": "Electrodo",
+          "definition": "Elemento conductor que permite captar diferencias de potencial elÃ©ctrico desde el cuerpo.",
+          "example": "Par de electrodos colocados sobre el antebrazo."
+        },
+        {
+          "term": "Artefacto",
+          "definition": "AlteraciÃ³n de la seÃ±al causada por movimiento, mala conexiÃ³n o interferencia, no por la actividad que se desea medir.",
+          "example": "Un cable que se mueve genera un pico falso."
+        }
+      ],
+      "process": [
+        "Colocar electrodos y comprobar contacto.",
+        "Registrar una lÃ­nea base y ejemplos de activaciÃ³n.",
+        "Amplificar y filtrar la seÃ±al.",
+        "Extraer una caracterÃ­stica o clasificar un patrÃ³n.",
+        "Generar un comando con lÃ­mites de seguridad."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: control mioelÃ©ctrico de una mano",
+        "text": "El usuario contrae el antebrazo. El EMG registra la actividad, el software filtra la seÃ±al y detecta que supera el umbral calibrado. Entonces ordena cerrar los servos hasta una posiciÃ³n segura."
+      },
+      "quiz": [
+        {
+          "id": "m4q1",
+          "prompt": "Â¿QuÃ© seÃ±al utiliza un sistema EMG?",
+          "options": [
+            "Actividad muscular",
+            "Profundidad LiDAR",
+            "Temperatura del filamento",
+            "Contornos de imagen"
+          ],
+          "answer": 0,
+          "explanation": "EMG registra actividad elÃ©ctrica vinculada con la activaciÃ³n de mÃºsculos."
+        },
+        {
+          "id": "m4q2",
+          "prompt": "Â¿QuÃ© puede detectar un sistema EOG?",
+          "options": [
+            "Torque del motor",
+            "Movimiento ocular",
+            "Resistencia de una pieza",
+            "Velocidad de impresiÃ³n"
+          ],
+          "answer": 1,
+          "explanation": "EOG registra cambios de potencial asociados con la orientaciÃ³n del ojo y parpadeos."
+        },
+        {
+          "id": "m4q3",
+          "prompt": "Â¿Por quÃ© una seÃ±al bioelÃ©ctrica suele filtrarse?",
+          "options": [
+            "Para convertirla en plÃ¡stico",
+            "Para reducir interferencias y artefactos",
+            "Para aumentar los grados de libertad",
+            "Para evitar usar electrodos"
+          ],
+          "answer": 1,
+          "explanation": "Las seÃ±ales son pequeÃ±as y contienen ruido; el filtrado mejora su interpretabilidad."
+        }
+      ],
+      "takeaways": [
+        "La seÃ±al corporal necesita una cadena de adquisiciÃ³n y procesamiento.",
+        "EMG se relaciona con mÃºsculos; EOG con ojos; EEG con cerebro.",
+        "La calibraciÃ³n es parte del sistema, no un detalle opcional.",
+        "El comando final debe incluir condiciones de seguridad."
+      ]
+    },
+    {
+      "id": "aprendizaje-automatico",
+      "order": 5,
+      "title": "Aprendizaje automÃ¡tico y visiÃ³n artificial",
+      "shortTitle": "Aprendizaje automÃ¡tico",
+      "kicker": "Reconocer patrones en seÃ±ales e imÃ¡genes",
+      "icon": "network",
+      "duration": 21,
+      "difficulty": "Intermedio",
+      "confidence": "directo",
+      "exam": [
+        "q2"
+      ],
+      "summary": "El aprendizaje automÃ¡tico permite clasificar seÃ±ales variables y la visiÃ³n artificial extrae informaciÃ³n del entorno. Canny aparece como tÃ©cnica para detectar bordes y contornos.",
+      "whyItMatters": "Los patrones humanos y visuales cambian entre situaciones. Un modelo puede aprender regularidades, pero solamente si los datos, etiquetas y validaciÃ³n representan el uso real.",
+      "learningGoals": [
+        "Entender el flujo datos-entrenamiento-inferencia.",
+        "Explicar quÃ© hace una red neuronal sin atribuirle capacidades mÃ¡gicas.",
+        "Describir los pasos generales de Canny.",
+        "Reconocer limitaciones de datos y generalizaciÃ³n."
+      ],
+      "sections": [
+        {
+          "title": "De ejemplos a clasificaciones",
+          "paragraphs": [
+            "Una seÃ±al EMG puede variar aun cuando la intenciÃ³n sea la misma. En lugar de depender de un Ãºnico umbral, se pueden recopilar ejemplos de diferentes gestos y entrenar un modelo para separarlos.",
+            "Cada ejemplo se etiqueta, se transforma en caracterÃ­sticas Ãºtiles y se utiliza para ajustar parÃ¡metros. Durante la inferencia, el modelo recibe una seÃ±al nueva y estima a quÃ© clase pertenece."
+          ],
+          "visual": "ml-pipeline",
+          "bullets": [
+            "Datos representativos del uso real.",
+            "Etiquetas correctas y consistentes.",
+            "SeparaciÃ³n entre entrenamiento y evaluaciÃ³n.",
+            "MediciÃ³n de errores, no solo aciertos.",
+            "RecalibraciÃ³n cuando cambia el usuario o sensor."
+          ]
+        },
+        {
+          "title": "Redes neuronales",
+          "paragraphs": [
+            "Una red neuronal es un modelo compuesto por capas de unidades conectadas. Durante el entrenamiento ajusta pesos para reducir el error entre su predicciÃ³n y la etiqueta conocida.",
+            "En androides puede clasificar gestos musculares, reconocer objetos, estimar una fase de marcha o detectar patrones oculares. No comprende automÃ¡ticamente el contexto; aprende correlaciones a partir de los datos disponibles."
+          ],
+          "callout": {
+            "title": "Evitar una idea engaÃ±osa",
+            "text": "Agregar una red neuronal no vuelve inteligente al sistema por sÃ­ sola. La calidad del comportamiento depende de datos, objetivo, evaluaciÃ³n y lÃ­mites."
+          }
+        },
+        {
+          "title": "Canny y anÃ¡lisis de contornos",
+          "paragraphs": [
+            "El detector de Canny identifica cambios importantes de intensidad dentro de una imagen. Esos cambios suelen corresponder a bordes, aunque tambiÃ©n pueden provenir de sombras o textura.",
+            "El resultado es un mapa de bordes que puede alimentar etapas posteriores: segmentaciÃ³n, cÃ¡lculo de forma, reconocimiento de objetos o navegaciÃ³n. Canny por sÃ­ solo no sabe quÃ© objeto estÃ¡ viendo."
+          ],
+          "visual": "canny",
+          "bullets": [
+            "Suavizado para reducir ruido.",
+            "CÃ¡lculo del gradiente de intensidad.",
+            "Afinado de bordes.",
+            "Umbrales fuerte y dÃ©bil.",
+            "ConexiÃ³n de bordes coherentes."
+          ]
+        },
+        {
+          "title": "GeneralizaciÃ³n y errores",
+          "paragraphs": [
+            "Un modelo puede memorizar los ejemplos de entrenamiento y fallar fuera de ellos. Generalizar significa mantener un rendimiento Ãºtil con personas, iluminaciÃ³n, posturas o escenarios no idÃ©nticos a los datos originales.",
+            "En un sistema fÃ­sico los falsos positivos importan: confundir ruido con una orden puede mover un actuador. Por eso se usan umbrales de confianza, estados seguros y confirmaciones."
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Entrenamiento",
+          "definition": "Proceso de ajustar los parÃ¡metros de un modelo utilizando ejemplos conocidos.",
+          "example": "Aprender diferencias entre reposo, cierre y apertura de mano."
+        },
+        {
+          "term": "Inferencia",
+          "definition": "Uso del modelo entrenado para producir una predicciÃ³n sobre un dato nuevo.",
+          "example": "Clasificar una nueva ventana de seÃ±al EMG."
+        },
+        {
+          "term": "Red neuronal",
+          "definition": "Modelo de capas conectadas cuyos parÃ¡metros se ajustan para aproximar una relaciÃ³n entre entradas y salidas.",
+          "example": "Reconocer un gesto muscular entre varias clases."
+        },
+        {
+          "term": "Canny",
+          "definition": "Algoritmo de detecciÃ³n de bordes basado en gradientes, afinado y doble umbral.",
+          "example": "Extraer el contorno de objetos sobre una mesa."
+        },
+        {
+          "term": "Falso positivo",
+          "definition": "DetecciÃ³n de un evento que en realidad no ocurriÃ³.",
+          "example": "Mover la mano porque el sistema confundiÃ³ ruido con una contracciÃ³n."
+        }
+      ],
+      "process": [
+        "Recolectar y etiquetar ejemplos.",
+        "Limpiar y representar los datos.",
+        "Entrenar un modelo.",
+        "Evaluar con datos separados.",
+        "Integrar la predicciÃ³n con reglas de seguridad."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: tres gestos de antebrazo",
+        "text": "Se registran reposo, cierre y apertura. Un clasificador aprende sus patrones. Si la probabilidad de una clase supera el umbral, el controlador ejecuta el movimiento; si la seÃ±al es dudosa, mantiene el estado seguro."
+      },
+      "quiz": [
+        {
+          "id": "m5q1",
+          "prompt": "Â¿QuÃ© ocurre durante la inferencia?",
+          "options": [
+            "Se imprime una pieza",
+            "El modelo predice sobre un dato nuevo",
+            "Se cambia el engranaje",
+            "Se colocan los electrodos"
+          ],
+          "answer": 1,
+          "explanation": "La inferencia es el uso operativo del modelo ya entrenado."
+        },
+        {
+          "id": "m5q2",
+          "prompt": "Â¿QuÃ© produce directamente Canny?",
+          "options": [
+            "Un mapa de bordes",
+            "Una clasificaciÃ³n semÃ¡ntica completa",
+            "Una seÃ±al muscular",
+            "Un modelo CAD"
+          ],
+          "answer": 0,
+          "explanation": "Canny detecta bordes; reconocer el objeto requiere etapas adicionales."
+        },
+        {
+          "id": "m5q3",
+          "prompt": "Â¿Por quÃ© un falso positivo puede ser crÃ­tico en robÃ³tica?",
+          "options": [
+            "Porque cambia el color de la interfaz",
+            "Porque puede activar un movimiento no solicitado",
+            "Porque mejora el torque",
+            "Porque reduce el ruido"
+          ],
+          "answer": 1,
+          "explanation": "Una predicciÃ³n errÃ³nea puede transformarse en una acciÃ³n fÃ­sica, por lo que se requieren lÃ­mites."
+        }
+      ],
+      "takeaways": [
+        "El modelo aprende de ejemplos, no de intenciones abstractas.",
+        "Una red neuronal depende de datos y evaluaciÃ³n adecuados.",
+        "Canny detecta bordes, no identidades completas.",
+        "La predicciÃ³n debe integrarse con reglas de seguridad."
+      ]
+    },
+    {
+      "id": "motorizacion",
+      "order": 6,
+      "title": "ProgramaciÃ³n enfocada a la motorizaciÃ³n",
+      "shortTitle": "MotorizaciÃ³n",
+      "kicker": "Traducir intenciÃ³n en movimiento controlado",
+      "icon": "code",
+      "duration": 20,
+      "difficulty": "Intermedio",
+      "confidence": "directo",
+      "exam": [
+        "q2"
+      ],
+      "summary": "La programaciÃ³n coordina sensores, estados y actuadores. Define posiciones, velocidades, secuencias y respuestas seguras ante errores o pÃ©rdida de seÃ±al.",
+      "whyItMatters": "Encender un motor no equivale a controlar una articulaciÃ³n. El sistema debe conocer lÃ­mites, medir resultados y decidir quÃ© hacer cuando el movimiento no ocurre como se esperaba.",
+      "learningGoals": [
+        "Distinguir control en lazo abierto y cerrado.",
+        "Comprender cÃ³mo se gobierna un servomotor.",
+        "Relacionar sensores con realimentaciÃ³n.",
+        "Reconocer la importancia de estados seguros."
+      ],
+      "sections": [
+        {
+          "title": "Del comando al actuador",
+          "paragraphs": [
+            "Una orden como Â«cerrar la manoÂ» debe convertirse en posiciones, velocidades y lÃ­mites concretos para cada actuador. AdemÃ¡s, debe coordinarse con el estado actual y con informaciÃ³n de sensores.",
+            "Un controlador puede recibir una seÃ±al EMG, validar que sea estable, seleccionar una secuencia y enviar referencias a los servos. Durante el movimiento vigila tiempo, posiciÃ³n, corriente o contacto."
+          ],
+          "visual": "command-chain",
+          "bullets": [
+            "Lectura y validaciÃ³n de entradas.",
+            "SelecciÃ³n de estado o movimiento.",
+            "GeneraciÃ³n de referencias para actuadores.",
+            "Monitoreo de lÃ­mites y fallos.",
+            "ConfirmaciÃ³n o retorno a estado seguro."
+          ]
+        },
+        {
+          "title": "Lazo abierto y lazo cerrado",
+          "paragraphs": [
+            "En lazo abierto se envÃ­a una acciÃ³n sin comprobar directamente su resultado. En lazo cerrado se mide la salida, se calcula el error respecto al objetivo y se corrige.",
+            "Los servomotores incorporan una realimentaciÃ³n interna de posiciÃ³n. Sin embargo, un robot puede necesitar sensores externos para fuerza, contacto, orientaciÃ³n o corriente."
+          ],
+          "visual": "control-loop",
+          "comparison": {
+            "left": {
+              "title": "Lazo abierto",
+              "items": [
+                "Orden sin mediciÃ³n de resultado",
+                "ImplementaciÃ³n simple",
+                "Sensible a carga y variaciones",
+                "Menor capacidad de corregir"
+              ]
+            },
+            "right": {
+              "title": "Lazo cerrado",
+              "items": [
+                "Mide la salida real",
+                "Calcula y reduce error",
+                "Compensa perturbaciones",
+                "Requiere sensores y control"
+              ]
+            }
+          }
+        },
+        {
+          "title": "Secuencias, sincronizaciÃ³n y estados",
+          "paragraphs": [
+            "Los movimientos complejos se organizan en estados: reposo, preparaciÃ³n, acciÃ³n, confirmaciÃ³n y retorno. Cada estado admite ciertas entradas y tiene una salida segura.",
+            "En un rostro animatrÃ³nico, mirada, parpadeo y mandÃ­bula deben sincronizarse. En una mano, los dedos pueden cerrar hasta detectar contacto y despuÃ©s mantener una fuerza limitada."
+          ],
+          "bullets": [
+            "MÃ¡quinas de estados para ordenar el comportamiento.",
+            "InterpolaciÃ³n para evitar saltos de posiciÃ³n.",
+            "TemporizaciÃ³n y sincronizaciÃ³n de articulaciones.",
+            "Prioridad para comandos de parada."
+          ]
+        },
+        {
+          "title": "Seguridad y manejo de fallos",
+          "paragraphs": [
+            "La programaciÃ³n debe considerar pÃ©rdida de seÃ±al, sensores fuera de rango, atasco mecÃ¡nico, sobrecorriente, sobretemperatura o posiciÃ³n imposible.",
+            "Una conducta segura puede detener el motor, liberar el agarre, volver lentamente a neutral o solicitar intervenciÃ³n humana. La decisiÃ³n depende del riesgo del sistema."
+          ],
+          "callout": {
+            "title": "Principio prÃ¡ctico",
+            "text": "Cuando la informaciÃ³n es ambigua, el robot no deberÃ­a improvisar una acciÃ³n fÃ­sica de alto riesgo."
+          }
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Control en lazo abierto",
+          "definition": "Control que aplica una orden sin medir directamente el resultado.",
+          "example": "Encender un motor por medio segundo y asumir el recorrido."
+        },
+        {
+          "term": "Control en lazo cerrado",
+          "definition": "Control que compara la salida medida con el objetivo y corrige el error.",
+          "example": "Ajustar el servo hasta alcanzar el Ã¡ngulo solicitado."
+        },
+        {
+          "term": "RealimentaciÃ³n",
+          "definition": "InformaciÃ³n de la salida que vuelve al controlador para evaluar el resultado.",
+          "example": "Un sensor de posiciÃ³n informa el Ã¡ngulo actual."
+        },
+        {
+          "term": "MÃ¡quina de estados",
+          "definition": "Modelo que organiza el comportamiento en estados y transiciones definidas.",
+          "example": "Reposo â†’ cierre â†’ agarre â†’ liberaciÃ³n."
+        },
+        {
+          "term": "Estado seguro",
+          "definition": "ConfiguraciÃ³n destinada a reducir el riesgo ante un error o incertidumbre.",
+          "example": "Detener motores y liberar presiÃ³n al perder la seÃ±al."
+        }
+      ],
+      "process": [
+        "Leer entradas y validar calidad.",
+        "Determinar el estado del sistema.",
+        "Calcular referencias de posiciÃ³n o velocidad.",
+        "Enviar comandos a actuadores.",
+        "Supervisar resultado y aplicar seguridad."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: agarre con lÃ­mite",
+        "text": "El usuario activa el cierre. Los dedos avanzan lentamente hasta que un sensor detecta contacto. El controlador limita la fuerza y mantiene el agarre. Si la corriente supera el mÃ¡ximo, libera parcialmente."
+      },
+      "quiz": [
+        {
+          "id": "m6q1",
+          "prompt": "Â¿QuÃ© diferencia principal tiene el lazo cerrado?",
+          "options": [
+            "No utiliza ninguna salida",
+            "Mide el resultado y corrige el error",
+            "Siempre es mÃ¡s barato",
+            "Solo funciona con impresiÃ³n 3D"
+          ],
+          "answer": 1,
+          "explanation": "La realimentaciÃ³n permite comparar la salida real con la referencia."
+        },
+        {
+          "id": "m6q2",
+          "prompt": "Â¿Para quÃ© sirve una mÃ¡quina de estados?",
+          "options": [
+            "Organizar secuencias y transiciones de comportamiento",
+            "Fundir filamento",
+            "Detectar bordes",
+            "Calcular densidad de resina"
+          ],
+          "answer": 0,
+          "explanation": "Los estados estructuran quÃ© acciones y transiciones son vÃ¡lidas en cada momento."
+        },
+        {
+          "id": "m6q3",
+          "prompt": "Ante una seÃ±al ambigua, una estrategia segura esâ€¦",
+          "options": [
+            "Ejecutar el movimiento mÃ¡ximo",
+            "Mantener o volver a un estado seguro",
+            "Aumentar automÃ¡ticamente la fuerza",
+            "Ignorar los lÃ­mites"
+          ],
+          "answer": 1,
+          "explanation": "La incertidumbre no deberÃ­a traducirse en una acciÃ³n fÃ­sica riesgosa."
+        }
+      ],
+      "takeaways": [
+        "La programaciÃ³n traduce intenciÃ³n en referencias concretas.",
+        "La realimentaciÃ³n permite corregir errores.",
+        "Los estados ordenan secuencias y excepciones.",
+        "La seguridad es parte de la lÃ³gica de control."
+      ]
+    },
+    {
+      "id": "simulacion",
+      "order": 7,
+      "title": "Herramientas de simulaciÃ³n",
+      "shortTitle": "SimulaciÃ³n",
+      "kicker": "Probar antes de fabricar",
+      "icon": "cube",
+      "duration": 22,
+      "difficulty": "Intermedio",
+      "confidence": "directo",
+      "exam": [
+        "q1",
+        "q2"
+      ],
+      "summary": "La simulaciÃ³n permite analizar movimiento, fuerzas, colisiones, estructuras y experiencia de uso en un entorno virtual antes de asumir el costo de un prototipo fÃ­sico.",
+      "whyItMatters": "Modificar una trayectoria o una pieza virtual es mÃ¡s rÃ¡pido y barato que descubrir despuÃ©s que el motor no puede moverla, que dos componentes chocan o que el androide resulta intimidante.",
+      "learningGoals": [
+        "Distinguir simulaciÃ³n cinemÃ¡tica, dinÃ¡mica y estructural.",
+        "Comprender las fases generales del ciclo de marcha.",
+        "Relacionar realidad virtual con evaluaciÃ³n de experiencia.",
+        "Reconocer que una simulaciÃ³n depende de sus supuestos."
+      ],
+      "sections": [
+        {
+          "title": "QuÃ© puede simularse",
+          "paragraphs": [
+            "La simulaciÃ³n cinemÃ¡tica verifica recorridos, alcance, lÃ­mites y colisiones. La dinÃ¡mica incorpora masas, gravedad, fuerzas y torque. El anÃ¡lisis estructural estima tensiones y deformaciones en piezas.",
+            "Cada modelo responde preguntas diferentes. Una articulaciÃ³n puede alcanzar una posiciÃ³n en cinemÃ¡tica y aun asÃ­ requerir mÃ¡s torque del disponible cuando se incorpora el peso real."
+          ],
+          "comparison": {
+            "left": {
+              "title": "Movimiento",
+              "items": [
+                "Alcance y trayectorias",
+                "Colisiones y lÃ­mites",
+                "Velocidades y aceleraciones",
+                "CoordinaciÃ³n de articulaciones"
+              ]
+            },
+            "right": {
+              "title": "FÃ­sica y estructura",
+              "items": [
+                "Gravedad y torque",
+                "Fuerzas de contacto",
+                "TensiÃ³n y deformaciÃ³n",
+                "Zonas dÃ©biles"
+              ]
+            }
+          }
+        },
+        {
+          "title": "SimulaciÃ³n del ciclo de marcha",
+          "paragraphs": [
+            "El ciclo de marcha se mide desde un contacto de un pie hasta el siguiente contacto del mismo pie. Se divide de forma general en fase de apoyo y fase de balanceo.",
+            "En un androide bÃ­pedo deben coordinarse cadera, rodilla y tobillo mientras el centro de masa se mantiene dentro de una regiÃ³n estable. No basta con adelantar una pierna y despuÃ©s la otra."
+          ],
+          "visual": "gait-cycle",
+          "bullets": [
+            "Apoyo: el pie sostiene o transfiere peso.",
+            "Balanceo: el pie se eleva y avanza.",
+            "Transferencia: el centro de masa cambia de lado.",
+            "Contacto: el pie debe llegar con orientaciÃ³n y velocidad controladas."
+          ]
+        },
+        {
+          "title": "Realidad virtual y experiencia de usuario",
+          "paragraphs": [
+            "La realidad virtual permite experimentar escala, distancia, velocidad y comportamiento antes de construir el androide completo. Puede utilizarse para entrenamiento, pruebas de control o evaluaciÃ³n de interacciÃ³n.",
+            "Desde UX interesa saber si la persona comprende quÃ© harÃ¡ el robot, si el feedback es suficiente, si los movimientos generan confianza y si los controles son accesibles. Un sistema puede ser correcto mecÃ¡nicamente y fallar en experiencia."
+          ],
+          "bullets": [
+            "Probar distancia interpersonal.",
+            "Comparar velocidades de movimiento.",
+            "Evaluar seÃ±ales de intenciÃ³n y feedback.",
+            "Ensayar situaciones de riesgo sin exponer personas.",
+            "Validar interfaces de control."
+          ],
+          "callout": {
+            "title": "ConexiÃ³n con UX/UI",
+            "text": "La interacciÃ³n humano-robot tambiÃ©n necesita affordances, feedback, prevenciÃ³n de errores y modelos mentales comprensibles."
+          }
+        },
+        {
+          "title": "Una simulaciÃ³n no es la realidad",
+          "paragraphs": [
+            "Los resultados dependen de masas, materiales, fricciÃ³n, rigidez y condiciones de contacto correctamente modeladas. Si esos valores son incorrectos, la simulaciÃ³n puede parecer precisa y aun asÃ­ predecir mal.",
+            "Por eso se compara el modelo con pruebas fÃ­sicas, se ajustan parÃ¡metros y se repite. Simular reduce riesgo, pero no elimina la validaciÃ³n del prototipo."
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "SimulaciÃ³n cinemÃ¡tica",
+          "definition": "EvaluaciÃ³n virtual de posiciones y movimientos sin centrarse primero en fuerzas.",
+          "example": "Comprobar si el pulgar alcanza los demÃ¡s dedos."
+        },
+        {
+          "term": "SimulaciÃ³n dinÃ¡mica",
+          "definition": "EvaluaciÃ³n del movimiento incorporando masa, gravedad, fuerzas e inercia.",
+          "example": "Ver si el motor sostiene el brazo extendido."
+        },
+        {
+          "term": "AnÃ¡lisis estructural",
+          "definition": "EstimaciÃ³n de esfuerzos y deformaciones de una pieza ante cargas.",
+          "example": "Detectar una zona dÃ©bil en el soporte del hombro."
+        },
+        {
+          "term": "Ciclo de marcha",
+          "definition": "Secuencia completa entre dos contactos consecutivos del mismo pie.",
+          "example": "Apoyo seguido de balanceo de la pierna."
+        },
+        {
+          "term": "Centro de masa",
+          "definition": "Punto equivalente donde puede considerarse concentrada la masa del sistema para analizar equilibrio.",
+          "example": "Desplazar el torso antes de levantar un pie."
+        }
+      ],
+      "process": [
+        "Construir el modelo virtual.",
+        "Definir articulaciones, materiales y cargas.",
+        "Ejecutar escenarios de movimiento o interacciÃ³n.",
+        "Analizar colisiones, esfuerzos y percepciÃ³n.",
+        "Comparar con prototipo y ajustar parÃ¡metros."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: validar un saludo",
+        "text": "En VR se prueba la distancia, amplitud y velocidad con la que el androide eleva el brazo. La simulaciÃ³n mecÃ¡nica verifica que no choque con el torso y la evaluaciÃ³n UX determina si el gesto se percibe amistoso o invasivo."
+      },
+      "quiz": [
+        {
+          "id": "m7q1",
+          "prompt": "Â¿QuÃ© agrega una simulaciÃ³n dinÃ¡mica respecto a una cinemÃ¡tica?",
+          "options": [
+            "Colores de interfaz",
+            "Masas, fuerzas, gravedad e inercia",
+            "Solo archivos de audio",
+            "Etiquetas de entrenamiento"
+          ],
+          "answer": 1,
+          "explanation": "La dinÃ¡mica analiza el efecto fÃ­sico de cargas y fuerzas sobre el movimiento."
+        },
+        {
+          "id": "m7q2",
+          "prompt": "Â¿CuÃ¡les son las dos fases generales de la marcha?",
+          "options": [
+            "ExtrusiÃ³n y curado",
+            "Apoyo y balanceo",
+            "Entrenamiento e inferencia",
+            "Captura y filtrado"
+          ],
+          "answer": 1,
+          "explanation": "El pie alterna un perÃ­odo de contacto con el suelo y otro de avance."
+        },
+        {
+          "id": "m7q3",
+          "prompt": "Â¿Por quÃ© la realidad virtual es Ãºtil para UX en androides?",
+          "options": [
+            "Porque sustituye para siempre las pruebas fÃ­sicas",
+            "Porque permite evaluar interacciÃ³n, escala y seguridad percibida",
+            "Porque fabrica engranajes",
+            "Porque mide EMG"
+          ],
+          "answer": 1,
+          "explanation": "VR permite experimentar el comportamiento antes de disponer del sistema completo."
+        }
+      ],
+      "takeaways": [
+        "Cada tipo de simulaciÃ³n responde preguntas distintas.",
+        "La marcha implica equilibrio y transferencia de peso.",
+        "VR permite evaluar interacciÃ³n y percepciÃ³n tempranamente.",
+        "Los modelos deben contrastarse con pruebas fÃ­sicas."
+      ]
+    },
+    {
+      "id": "optimizacion",
+      "order": 8,
+      "title": "OptimizaciÃ³n estructural y funcional",
+      "shortTitle": "OptimizaciÃ³n",
+      "kicker": "Mejorar con objetivos y restricciones",
+      "icon": "optimize",
+      "duration": 17,
+      "difficulty": "Intermedio",
+      "confidence": "probable",
+      "exam": [
+        "q2"
+      ],
+      "summary": "Optimizar consiste en mejorar una soluciÃ³n segÃºn una mÃ©trica: reducir peso, material o consumo; aumentar resistencia, precisiÃ³n o autonomÃ­a; y respetar restricciones fÃ­sicas y econÃ³micas.",
+      "whyItMatters": "No existe un diseÃ±o mejor en tÃ©rminos absolutos. Cada mejora suele producir un costo en otra variable, por lo que el objetivo debe ser explÃ­cito y medible.",
+      "learningGoals": [
+        "Diferenciar objetivo, restricciÃ³n y variable de diseÃ±o.",
+        "Reconocer compromisos entre peso, fuerza, velocidad y costo.",
+        "Explicar quÃ© es una estructura lattice.",
+        "Relacionar elementos Ã³seos con biomimÃ©tica estructural."
+      ],
+      "sections": [
+        {
+          "title": "QuÃ© significa optimizar",
+          "paragraphs": [
+            "Optimizar no significa agregar tecnologÃ­a ni hacer que el diseÃ±o se vea mÃ¡s complejo. Significa buscar la mejor soluciÃ³n posible de acuerdo con un objetivo y dentro de restricciones.",
+            "Por ejemplo, se puede minimizar el peso de un antebrazo siempre que resista la carga, mantenga sus zonas de uniÃ³n y pueda fabricarse con el proceso disponible."
+          ],
+          "bullets": [
+            "Objetivo: lo que se quiere mejorar.",
+            "Restricciones: lÃ­mites que no pueden violarse.",
+            "Variables: dimensiones, material, geometrÃ­a o parÃ¡metros que pueden cambiar.",
+            "Criterio de validaciÃ³n: cÃ³mo se demuestra la mejora."
+          ]
+        },
+        {
+          "title": "Compromisos de diseÃ±o",
+          "paragraphs": [
+            "Aumentar el motor puede mejorar torque, pero agrega peso y consumo. Reducir material aligera una pieza, pero puede aumentar deformaciÃ³n. Elevar velocidad puede reducir precisiÃ³n o seguridad.",
+            "La optimizaciÃ³n obliga a comparar alternativas con mÃ©tricas y no solamente con preferencias."
+          ],
+          "comparison": {
+            "left": {
+              "title": "Posible mejora",
+              "items": [
+                "Menor peso",
+                "MÃ¡s torque",
+                "Mayor velocidad",
+                "MÃ¡s autonomÃ­a"
+              ]
+            },
+            "right": {
+              "title": "Costo asociado",
+              "items": [
+                "Menor rigidez posible",
+                "Motor mÃ¡s pesado",
+                "Menor control o seguridad",
+                "BaterÃ­a mÃ¡s grande"
+              ]
+            }
+          }
+        },
+        {
+          "title": "Estructuras lattice",
+          "paragraphs": [
+            "Una estructura lattice es una red interna formada por celdas repetidas o diseÃ±adas localmente. Sustituye una masa sÃ³lida por una arquitectura que distribuye material donde resulta Ãºtil.",
+            "Puede reducir peso, ajustar rigidez, absorber energÃ­a o mejorar ventilaciÃ³n. Su desempeÃ±o depende de la geometrÃ­a, orientaciÃ³n, densidad, material y proceso de impresiÃ³n."
+          ],
+          "visual": "lattice",
+          "callout": {
+            "title": "No todo lattice es biomimÃ©tico",
+            "text": "Una retÃ­cula puede ser puramente geomÃ©trica. Se considera biomimÃ©tica cuando adapta un principio funcional observado en un sistema biolÃ³gico."
+          }
+        },
+        {
+          "title": "Elementos Ã³seos y biomimÃ©tica",
+          "paragraphs": [
+            "Los huesos combinan capas externas mÃ¡s compactas con regiones internas porosas y orientadas segÃºn cargas. Esa lÃ³gica inspira estructuras robÃ³ticas ligeras y resistentes.",
+            "La inspiraciÃ³n no implica reproducir tejido vivo. Se estudia cÃ³mo el sistema distribuye material y se adapta el principio a polÃ­meros, metales o composiciones imprimibles."
+          ]
+        },
+        {
+          "title": "Validar la mejora",
+          "paragraphs": [
+            "Una geometrÃ­a optimizada debe volver a simularse y fabricarse. Las piezas lattice pueden comportarse de manera distinta segÃºn la orientaciÃ³n de capas, las tolerancias y los defectos de impresiÃ³n.",
+            "El resultado se mide con pruebas de carga, deformaciÃ³n, peso, consumo o precisiÃ³n, segÃºn el objetivo definido."
+          ]
+        }
+      ],
+      "concepts": [
+        {
+          "term": "OptimizaciÃ³n",
+          "definition": "BÃºsqueda de una soluciÃ³n que mejora un objetivo respetando restricciones.",
+          "example": "Reducir peso sin exceder la deformaciÃ³n permitida."
+        },
+        {
+          "term": "RestricciÃ³n",
+          "definition": "CondiciÃ³n que una soluciÃ³n no puede violar.",
+          "example": "El soporte debe resistir 200 N y encajar en el volumen disponible."
+        },
+        {
+          "term": "Lattice",
+          "definition": "Arquitectura reticular interna formada por celdas que distribuyen material y propiedades.",
+          "example": "Relleno estructural ligero dentro de un antebrazo impreso."
+        },
+        {
+          "term": "Rigidez",
+          "definition": "Resistencia de una estructura a deformarse bajo carga.",
+          "example": "Un brazo ligero debe mantener suficiente rigidez para posicionar la mano."
+        },
+        {
+          "term": "Compromiso de diseÃ±o",
+          "definition": "Intercambio en el que mejorar una variable afecta otra.",
+          "example": "MÃ¡s velocidad a costa de torque o precisiÃ³n."
+        }
+      ],
+      "process": [
+        "Definir el objetivo medible.",
+        "Establecer restricciones.",
+        "Elegir variables que pueden cambiar.",
+        "Simular y comparar alternativas.",
+        "Fabricar y validar la soluciÃ³n seleccionada."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: antebrazo mÃ¡s liviano",
+        "text": "Se mantiene la forma exterior y los puntos de fijaciÃ³n. El interior se reemplaza por una estructura lattice. Se simula la carga, se imprime y se compara peso y deformaciÃ³n con la versiÃ³n maciza."
+      },
+      "quiz": [
+        {
+          "id": "m8q1",
+          "prompt": "Â¿QuÃ© requiere una optimizaciÃ³n bien planteada?",
+          "options": [
+            "Un objetivo medible y restricciones",
+            "Solo una forma mÃ¡s compleja",
+            "Eliminar toda validaciÃ³n",
+            "Usar siempre una red neuronal"
+          ],
+          "answer": 0,
+          "explanation": "Sin objetivo y lÃ­mites no se puede determinar quÃ© alternativa es mejor."
+        },
+        {
+          "id": "m8q2",
+          "prompt": "Â¿QuÃ© es una estructura lattice?",
+          "options": [
+            "Una seÃ±al cerebral",
+            "Una arquitectura reticular interna",
+            "Un algoritmo de bordes",
+            "Un tipo de electrodo"
+          ],
+          "answer": 1,
+          "explanation": "Lattice distribuye material mediante celdas o elementos repetidos."
+        },
+        {
+          "id": "m8q3",
+          "prompt": "Â¿Por quÃ© una pieza optimizada debe probarse fÃ­sicamente?",
+          "options": [
+            "Porque la fabricaciÃ³n introduce orientaciÃ³n, tolerancias y defectos",
+            "Porque la simulaciÃ³n siempre es inÃºtil",
+            "Porque no puede imprimirse",
+            "Porque elimina las restricciones"
+          ],
+          "answer": 0,
+          "explanation": "El comportamiento real depende del proceso y debe contrastarse con el modelo."
+        }
+      ],
+      "takeaways": [
+        "Optimizar exige un objetivo y restricciones explÃ­citas.",
+        "Toda mejora implica compromisos entre variables.",
+        "Lattice permite controlar peso y rigidez mediante geometrÃ­a interna.",
+        "La mejora simulada debe validarse en piezas reales."
+      ]
+    },
+    {
+      "id": "manufactura",
+      "order": 9,
+      "title": "Manufactura aditiva y prototipaje",
+      "shortTitle": "Manufactura",
+      "kicker": "Fabricar, probar y volver a iterar",
+      "icon": "printer",
+      "duration": 24,
+      "difficulty": "Inicial",
+      "confidence": "directo",
+      "exam": [
+        "q2",
+        "q4"
+      ],
+      "summary": "La manufactura aditiva convierte un modelo digital en una pieza agregando material, generalmente por capas. Para prototipos plÃ¡sticos, FDM/FFF es la opciÃ³n mÃ¡s probable del examen.",
+      "whyItMatters": "Los androides requieren muchas piezas personalizadas. Imprimirlas permite comprobar medidas, movimiento y ensamble sin fabricar moldes costosos para cada versiÃ³n.",
+      "learningGoals": [
+        "Explicar quÃ© distingue la manufactura aditiva.",
+        "Describir el proceso FDM/FFF con termoplÃ¡sticos.",
+        "Diferenciar FDM, SLA y SLS.",
+        "Reconocer tolerancias y orientaciÃ³n como decisiones de diseÃ±o."
+      ],
+      "sections": [
+        {
+          "title": "Manufactura aditiva",
+          "paragraphs": [
+            "La manufactura aditiva construye una geometrÃ­a a partir de un modelo digital mediante la incorporaciÃ³n sucesiva de material. En muchas tecnologÃ­as, la pieza se forma capa por capa.",
+            "A diferencia de un proceso sustractivo, no se parte necesariamente de un bloque para retirar material. Esta libertad facilita geometrÃ­as internas, canales y piezas personalizadas."
+          ],
+          "visual": "additive",
+          "bullets": [
+            "Modelo 3D digital.",
+            "PreparaciÃ³n y divisiÃ³n en capas.",
+            "FabricaciÃ³n automÃ¡tica.",
+            "Retiro de soportes o polvo.",
+            "Postproceso y verificaciÃ³n."
+          ]
+        },
+        {
+          "title": "FDM o FFF: filamento termoplÃ¡stico",
+          "paragraphs": [
+            "Un filamento plÃ¡stico entra en un cabezal caliente, se funde y se deposita mediante una boquilla siguiendo el recorrido de cada capa. Las capas se unen hasta formar la pieza.",
+            "Es frecuente en prototipaje por su costo relativamente bajo, disponibilidad y rapidez para iterar. Puede fabricar falanges, carcasas, soportes, engranajes de prueba y piezas estructurales."
+          ],
+          "callout": {
+            "title": "Pista del examen",
+            "text": "La respuesta general es manufactura aditiva. La tÃ©cnica que mejor encaja con Â«usa plÃ¡sticosÂ» es FDM/FFF mediante filamento termoplÃ¡stico."
+          },
+          "bullets": [
+            "PLA: fÃ¡cil de imprimir y Ãºtil para prototipos.",
+            "PETG: mayor tenacidad y resistencia prÃ¡ctica.",
+            "ABS: resistente, pero exige mÃ¡s control tÃ©rmico.",
+            "TPU: flexible para recubrimientos o piezas deformables."
+          ]
+        },
+        {
+          "title": "SLA: fotopolimerizaciÃ³n en resina",
+          "paragraphs": [
+            "SLA solidifica selectivamente una resina lÃ­quida fotosensible mediante luz. Produce detalles finos y superficies lisas, por lo que resulta Ãºtil en piezas pequeÃ±as o visuales.",
+            "Las piezas suelen requerir lavado, retiro de soportes y curado posterior. La resina lÃ­quida debe manipularse con protecciÃ³n y siguiendo las indicaciones del fabricante."
+          ]
+        },
+        {
+          "title": "SLS: fusiÃ³n de lecho de polvo",
+          "paragraphs": [
+            "SLS utiliza un lecho de material en polvo, frecuentemente polÃ­meros como nylon. Un lÃ¡ser fusiona las zonas de cada capa y el polvo no fusionado sostiene las geometrÃ­as durante el proceso.",
+            "Permite piezas complejas y funcionales, aunque requiere equipos y manejo de polvo mÃ¡s especializados que una impresora FDM de escritorio."
+          ]
+        },
+        {
+          "title": "DiseÃ±ar para imprimir",
+          "paragraphs": [
+            "Una pieza imprimible no se diseÃ±a igual que una pieza mecanizada o moldeada. La orientaciÃ³n modifica resistencia, acabado y necesidad de soportes. Las tolerancias determinan si dos componentes encajan o se bloquean.",
+            "El prototipaje es iterativo: imprimir, ensamblar, medir, corregir el modelo y fabricar una nueva versiÃ³n. El archivo digital facilita cambios rÃ¡pidos, pero no elimina la prueba fÃ­sica."
+          ],
+          "comparison": {
+            "left": {
+              "title": "Decisiones de diseÃ±o",
+              "items": [
+                "OrientaciÃ³n de capas",
+                "Espesor de pared",
+                "Relleno o lattice",
+                "Tolerancias y encastres"
+              ]
+            },
+            "right": {
+              "title": "Efectos",
+              "items": [
+                "Resistencia anisotrÃ³pica",
+                "Tiempo y material",
+                "Peso y rigidez",
+                "Calidad del ensamble"
+              ]
+            }
+          }
+        }
+      ],
+      "concepts": [
+        {
+          "term": "Manufactura aditiva",
+          "definition": "FabricaciÃ³n por incorporaciÃ³n sucesiva de material desde un modelo digital.",
+          "example": "Imprimir una falange capa por capa."
+        },
+        {
+          "term": "FDM/FFF",
+          "definition": "ExtrusiÃ³n de filamento termoplÃ¡stico fundido a travÃ©s de una boquilla.",
+          "example": "Fabricar un soporte para servomotor en PLA o PETG."
+        },
+        {
+          "term": "SLA",
+          "definition": "FotopolimerizaciÃ³n de resina lÃ­quida mediante luz.",
+          "example": "Imprimir un ojo animatrÃ³nico con alto detalle."
+        },
+        {
+          "term": "SLS",
+          "definition": "FusiÃ³n selectiva de material en polvo mediante energÃ­a lÃ¡ser.",
+          "example": "Producir una articulaciÃ³n compleja en nylon."
+        },
+        {
+          "term": "Tolerancia",
+          "definition": "Margen dimensional que permite que piezas reales encajen y funcionen.",
+          "example": "Dejar separaciÃ³n entre un eje y su alojamiento."
+        },
+        {
+          "term": "AnisotropÃ­a",
+          "definition": "Propiedad de un material o pieza que cambia segÃºn la direcciÃ³n.",
+          "example": "Una pieza FDM puede resistir menos entre capas que a lo largo de ellas."
+        }
+      ],
+      "process": [
+        "DiseÃ±ar el modelo 3D.",
+        "Elegir proceso, material y orientaciÃ³n.",
+        "Preparar capas y soportes.",
+        "Fabricar y postprocesar.",
+        "Ensamblar, medir y corregir la siguiente versiÃ³n."
+      ],
+      "appliedExample": {
+        "title": "Ejemplo: soporte de servo",
+        "text": "Se diseÃ±a un soporte en CAD, se imprime en FDM y se prueba el encastre. Si el servo entra demasiado ajustado o la pared flexiona, se modifican tolerancias y espesores antes de imprimir otra versiÃ³n."
+      },
+      "quiz": [
+        {
+          "id": "m9q1",
+          "prompt": "Â¿QuÃ© caracteriza a la manufactura aditiva?",
+          "options": [
+            "Retira material exclusivamente",
+            "Agrega material para formar la pieza",
+            "Solo utiliza metal",
+            "No parte de un modelo digital"
+          ],
+          "answer": 1,
+          "explanation": "La pieza se forma por incorporaciÃ³n sucesiva de material, frecuentemente capa por capa."
+        },
+        {
+          "id": "m9q2",
+          "prompt": "Â¿QuÃ© material de alimentaciÃ³n utiliza FDM/FFF normalmente?",
+          "options": [
+            "Filamento termoplÃ¡stico",
+            "SeÃ±al EMG",
+            "Resina lÃ­quida Ãºnicamente",
+            "Polvo metÃ¡lico exclusivamente"
+          ],
+          "answer": 0,
+          "explanation": "FDM/FFF funde y deposita un filamento plÃ¡stico a travÃ©s de una boquilla."
+        },
+        {
+          "id": "m9q3",
+          "prompt": "Â¿QuÃ© proceso trabaja con resina lÃ­quida fotosensible?",
+          "options": [
+            "SLA",
+            "EOG",
+            "Canny",
+            "Denavit-Hartenberg"
+          ],
+          "answer": 0,
+          "explanation": "SLA utiliza luz para solidificar selectivamente una resina."
+        }
+      ],
+      "takeaways": [
+        "Manufactura aditiva agrega material desde un modelo digital.",
+        "FDM/FFF es la opciÃ³n plÃ¡stica mÃ¡s probable del examen.",
+        "SLA usa resina y SLS usa un lecho de polvo.",
+        "OrientaciÃ³n y tolerancias condicionan el resultado real."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Actuador",
+      "definition": "Componente que convierte energÃ­a en movimiento o fuerza.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Algoritmo de Canny",
+      "definition": "MÃ©todo de visiÃ³n artificial para detectar bordes a partir de cambios de intensidad.",
+      "module": "aprendizaje-automatico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "AmplificaciÃ³n",
+      "definition": "Aumento controlado de la amplitud de una seÃ±al pequeÃ±a para poder procesarla.",
+      "module": "biosensores",
+      "exam": [
+        "q3"
+      ]
+    },
+    {
+      "term": "Androide",
+      "definition": "Robot que reproduce total o parcialmente forma, movimiento o interacciÃ³n humana.",
+      "module": "seleccion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "AnisotropÃ­a",
+      "definition": "VariaciÃ³n de propiedades segÃºn la direcciÃ³n; relevante en piezas impresas por capas.",
+      "module": "manufactura",
+      "exam": [
+        "q4"
+      ]
+    },
+    {
+      "term": "AnimatrÃ³nico",
+      "definition": "Dispositivo mecanizado que imita movimientos o apariencia de un ser vivo.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Artefacto de seÃ±al",
+      "definition": "AlteraciÃ³n no deseada causada por movimiento, mala conexiÃ³n o interferencia.",
+      "module": "biosensores",
+      "exam": [
+        "q3"
+      ]
+    },
+    {
+      "term": "BÃ©zier",
+      "definition": "Curva paramÃ©trica controlada por puntos, Ãºtil para trayectorias suaves.",
+      "module": "modelos-matematicos",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "BiomimÃ©tica",
+      "definition": "AdaptaciÃ³n de principios funcionales observados en la naturaleza al diseÃ±o.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Centro de masa",
+      "definition": "Punto equivalente para analizar distribuciÃ³n de masa y equilibrio.",
+      "module": "simulacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "CinemÃ¡tica",
+      "definition": "Estudio de posiciones y movimiento sin centrarse primero en las fuerzas.",
+      "module": "modelos-matematicos",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "CinemÃ¡tica directa",
+      "definition": "CÃ¡lculo de la pose final a partir de valores articulares conocidos.",
+      "module": "modelos-matematicos",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "CinemÃ¡tica inversa",
+      "definition": "CÃ¡lculo de valores articulares necesarios para alcanzar una pose deseada.",
+      "module": "modelos-matematicos",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Ciclo de marcha",
+      "definition": "Secuencia entre dos contactos consecutivos del mismo pie, con apoyo y balanceo.",
+      "module": "simulacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Control en lazo abierto",
+      "definition": "Aplica una orden sin medir directamente el resultado.",
+      "module": "motorizacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Control en lazo cerrado",
+      "definition": "Mide la salida, calcula el error y corrige la acciÃ³n.",
+      "module": "motorizacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Denavit-Hartenberg",
+      "definition": "ConvenciÃ³n para describir matemÃ¡ticamente eslabones y articulaciones consecutivas.",
+      "module": "modelos-matematicos",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "DinÃ¡mica",
+      "definition": "Estudio del movimiento considerando fuerzas, masas, gravedad e inercia.",
+      "module": "modelos-matematicos",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "EEG",
+      "definition": "ElectroencefalografÃ­a: registro de actividad elÃ©ctrica cerebral.",
+      "module": "biosensores",
+      "exam": [
+        "q3"
+      ]
+    },
+    {
+      "term": "Electrodo",
+      "definition": "Elemento conductor utilizado para captar diferencias de potencial del cuerpo.",
+      "module": "biosensores",
+      "exam": [
+        "q3"
+      ]
+    },
+    {
+      "term": "EMG",
+      "definition": "ElectromiografÃ­a: registro de actividad elÃ©ctrica vinculada con la activaciÃ³n muscular.",
+      "module": "biosensores",
+      "exam": [
+        "q3"
+      ]
+    },
+    {
+      "term": "Engranaje",
+      "definition": "Elemento dentado que transmite giro y adapta velocidad o torque.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "EOG",
+      "definition": "ElectrooculografÃ­a: registro de variaciones elÃ©ctricas relacionadas con movimiento ocular.",
+      "module": "biosensores",
+      "exam": [
+        "q3"
+      ]
+    },
+    {
+      "term": "Estado del arte",
+      "definition": "RevisiÃ³n de las soluciones y conocimientos relevantes ya existentes.",
+      "module": "seleccion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Estado seguro",
+      "definition": "ConfiguraciÃ³n destinada a reducir riesgo cuando ocurre un error o incertidumbre.",
+      "module": "motorizacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "FDM/FFF",
+      "definition": "Proceso de impresiÃ³n que funde y deposita filamento termoplÃ¡stico por capas.",
+      "module": "manufactura",
+      "exam": [
+        "q4"
+      ]
+    },
+    {
+      "term": "Filtrado",
+      "definition": "Procesamiento destinado a reducir componentes no deseados de una seÃ±al.",
+      "module": "biosensores",
+      "exam": [
+        "q3"
+      ]
+    },
+    {
+      "term": "Grado de libertad",
+      "definition": "Movimiento independiente que puede adoptar una articulaciÃ³n o mecanismo.",
+      "module": "seleccion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Inferencia",
+      "definition": "Uso de un modelo entrenado para predecir sobre datos nuevos.",
+      "module": "aprendizaje-automatico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Lattice",
+      "definition": "Arquitectura reticular interna que distribuye material y propiedades.",
+      "module": "optimizacion",
+      "exam": [
+        "q2",
+        "q4"
+      ]
+    },
+    {
+      "term": "LiDAR",
+      "definition": "TecnologÃ­a que estima distancias mediante pulsos de luz para percibir el entorno.",
+      "module": "simulacion",
+      "exam": []
+    },
+    {
+      "term": "Manufactura aditiva",
+      "definition": "FabricaciÃ³n mediante incorporaciÃ³n sucesiva de material desde un modelo digital.",
+      "module": "manufactura",
+      "exam": [
+        "q4"
+      ]
+    },
+    {
+      "term": "MÃ¡quina de estados",
+      "definition": "Modelo que organiza el comportamiento en estados y transiciones definidas.",
+      "module": "motorizacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Mecanismo de cuatro barras",
+      "definition": "Cadena cerrada de cuatro elementos articulados que transforma movimiento.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Mecanismo de retorno rÃ¡pido",
+      "definition": "Mecanismo con carreras opuestas de distinta duraciÃ³n.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "OptimizaciÃ³n",
+      "definition": "BÃºsqueda de una mejor soluciÃ³n segÃºn un objetivo y restricciones.",
+      "module": "optimizacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Prototipo",
+      "definition": "VersiÃ³n de prueba utilizada para aprender, validar y corregir antes de la soluciÃ³n final.",
+      "module": "manufactura",
+      "exam": [
+        "q4"
+      ]
+    },
+    {
+      "term": "RealimentaciÃ³n",
+      "definition": "InformaciÃ³n sobre la salida real que vuelve al controlador.",
+      "module": "motorizacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Red neuronal",
+      "definition": "Modelo de capas conectadas cuyos parÃ¡metros se ajustan durante el entrenamiento.",
+      "module": "aprendizaje-automatico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Rigidez",
+      "definition": "Resistencia de una estructura a deformarse bajo carga.",
+      "module": "optimizacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "SLA",
+      "definition": "Proceso que solidifica selectivamente una resina lÃ­quida fotosensible.",
+      "module": "manufactura",
+      "exam": [
+        "q4"
+      ]
+    },
+    {
+      "term": "SLS",
+      "definition": "Proceso que fusiona selectivamente material en polvo mediante energÃ­a lÃ¡ser.",
+      "module": "manufactura",
+      "exam": [
+        "q4"
+      ]
+    },
+    {
+      "term": "Servomotor",
+      "definition": "Actuador con control de posiciÃ³n mediante realimentaciÃ³n interna.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "SimulaciÃ³n dinÃ¡mica",
+      "definition": "Modelo virtual que incorpora masas, fuerzas, gravedad e inercia.",
+      "module": "simulacion",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "SubactuaciÃ³n",
+      "definition": "Uso de menos actuadores que grados de libertad, coordinados por la mecÃ¡nica.",
+      "module": "diseno-robotico",
+      "exam": [
+        "q2"
+      ]
+    },
+    {
+      "term": "Tolerancia",
+      "definition": "Margen dimensional necesario para que las piezas reales encajen y funcionen.",
+      "module": "manufactura",
+      "exam": [
+        "q4"
+      ]
+    },
+    {
+      "term": "Torque",
+      "definition": "Efecto rotacional de una fuerza alrededor de un eje.",
+      "module": "modelos-matematicos",
+      "exam": [
+        "q2"
+      ]
+    }
+  ],
+  "studyPaths": [
+    {
+      "id": "exam-fast",
+      "title": "Ruta rÃ¡pida para el examen",
+      "description": "Prioriza los temas con relaciÃ³n directa a las consignas.",
+      "modules": [
+        "diseno-robotico",
+        "biosensores",
+        "manufactura",
+        "seleccion",
+        "modelos-matematicos"
+      ],
+      "estimatedMinutes": 105
+    },
+    {
+      "id": "complete",
+      "title": "Ruta completa del androide",
+      "description": "Recorre el proceso desde la definiciÃ³n hasta la fabricaciÃ³n.",
+      "modules": [
+        "seleccion",
+        "modelos-matematicos",
+        "diseno-robotico",
+        "biosensores",
+        "aprendizaje-automatico",
+        "motorizacion",
+        "simulacion",
+        "optimizacion",
+        "manufactura"
+      ],
+      "estimatedMinutes": 185
+    },
+    {
+      "id": "signals",
+      "title": "Ruta de seÃ±ales y control",
+      "description": "Enfocada en biosensores, clasificaciÃ³n y motorizaciÃ³n.",
+      "modules": [
+        "biosensores",
+        "aprendizaje-automatico",
+        "motorizacion"
+      ],
+      "estimatedMinutes": 64
+    }
+  ]
+};
